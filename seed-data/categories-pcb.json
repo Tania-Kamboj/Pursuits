@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Medical and Surgery",
+    "stream": "PCB",
+    "interests": ["Helping sick people", "Long hours of study", "Human body and biology"],
+    "focusAreas": ["Anatomy and physiology", "Pathology and pharmacology", "Clinical practice and surgery"],
+    "careers": ["General practitioner or surgeon", "Dentist", "Ayurvedic or homeopathic doctor"]
+  },
+  {
+    "name": "Allied Health Sciences and Allied Professions",
+    "stream": "PCB",
+    "interests": ["Patient care and support", "Medical technology handling", "Physical therapy and movement"],
+    "focusAreas": ["Nursing care and management", "Physiotherapy and rehabilitation", "Medical laboratory diagnostics"],
+    "careers": ["Staff nurse", "Physiotherapist", "Medical laboratory technician"]
+  },
+  {
+    "name": "Pharmacy",
+    "stream": "PCB",
+    "interests": ["How chemical drugs work", "Medicine safety and creation", "Chemistry of compounds"],
+    "focusAreas": ["Pharmaceutics and pharmacology", "Medicinal chemistry", "Pharmacognosy (plant medicines)"],
+    "careers": ["Pharmacist", "Drug inspector", "Pharmaceutical researcher"]
+  },
+  {
+    "name": "Biotechnology and Bioinformatics",
+    "stream": "PCB",
+    "interests": ["Using tech with biology", "Genetic engineering", "Lab experiments and data"],
+    "focusAreas": ["Molecular biology", "Biochemistry and genetics", "Bioprocess engineering"],
+    "careers": ["Biotechnologist", "Research scientist", "Data analyst in genomics"]
+  },
+  {
+    "name": "Veterinary Science and Animal Husbandry",
+    "stream": "PCB",
+    "interests": ["Love for animals", "Animal health and rescue", "Rural or farm life"],
+    "focusAreas": ["Veterinary anatomy", "Animal disease treatment", "Livestock management"],
+    "careers": ["Veterinary doctor", "Animal surgeon", "Wildlife health officer"]
+  },
+  {
+    "name": "Agriculture and Allied Sciences",
+    "stream": "PCB",
+    "interests": ["Farming and nature", "Plant growth and soil", "Environmental care"],
+    "focusAreas": ["Agronomy and crop science", "Soil science", "Plant protection and pest control"],
+    "careers": ["Agricultural officer", "Crop scientist", "Forest manager"]
+  },
+  {
+    "name": "Basic and Pure Sciences",
+    "stream": "PCB",
+    "interests": ["Deep science research", "Microscopic life and nature", "Discovery and teaching"],
+    "focusAreas": ["Plant or animal biology", "Cellular microbiology", "Organic chemistry"],
+    "careers": ["Microbiologist", "Science teacher or professor", "Lab researcher"]
+  },
+  {
+    "name": "Psychological and Behavioral Sciences",
+    "stream": "PCB",
+    "interests": ["Understanding human behavior", "Mental health and emotional counseling", "Brain functions and social habits"],
+    "focusAreas": ["Cognitive and abnormal psychology", "Human development", "Counselling theories and psychometrics"],
+    "careers": ["Clinical psychologist assistant", "Counselor or mental health therapist", "Human resource specialist"]
+  },
+  {
+    "name": "Forensic Science",
+    "stream": "PCB",
+    "interests": ["Crime investigation and law enforcement", "Lab analysis of physical evidence", "Solving complex mysteries"],
+    "focusAreas": ["Forensic toxicology and chemistry", "DNA profiling and fingerprinting", "Cyber forensics and criminal law"],
+    "careers": ["Forensic scientist", "Crime scene investigator (CSI)", "Document examiner or ballistics expert"]
+  },
+  {
+    "name": "Environmental and Sustainability Sciences",
+    "stream": "PCB",
+    "interests": ["Climate change and pollution control", "Wildlife conservation and nature protection", "Sustainable energy and green policies"],
+    "focusAreas": ["Ecosystem dynamics", "Pollution management", "Environmental laws and impact assessment"],
+    "careers": ["Environmental consultant", "Sustainability officer", "Conservationist or NGO manager"]
+  },
+  {
+    "name": "Food, Nutrition, and Dietetics",
+    "stream": "PCB",
+    "interests": ["Healthy living and diet planning", "Food processing and safety standards", "Culinary sciences and nutrition chemistry"],
+    "focusAreas": ["Clinical nutrition and diet therapies", "Food microbiology and quality control", "Human physiology and metabolism"],
+    "careers": ["Registered clinical dietitian", "Food safety officer", "Quality assurance manager"]
+  },
+  {
+    "name": "Healthcare Management and Medical Law",
+    "stream": "PCB",
+    "interests": ["Hospital operations and administration", "Medical ethics, litigation, and healthcare policies", "Combining business or law with medicine"],
+    "focusAreas": ["Hospital supply chain management", "Medical jurisprudence and healthcare laws", "Health insurance and economics"],
+    "careers": ["Hospital administrator", "Healthcare compliance manager", "Medical lawyer or legal advisor"]
+  },
+  {
+    "name": "Bio-Medical Engineering and Prosthetics",
+    "stream": "PCB",
+    "interests": ["Designing artificial limbs and medical gadgets", "Integrating machines with the human body", "Electronics used in life support"],
+    "focusAreas": ["Biomechanics and rehabilitation engineering", "Anatomy and medical device design", "Biomaterials and assistive technology"],
+    "careers": ["Prosthetist or Orthotist", "Biomedical service engineer", "Medical device product designer"]
+  },
+  {
+    "name": "Marine Biology and Fisheries",
+    "stream": "PCB",
+    "interests": ["Marine life, oceans, and corals", "Aquaculture and commercial fish farming", "Underwater ecosystems and diving"],
+    "focusAreas": ["Oceanography and marine ecology", "Fish breeding and genetics", "Post-harvest technology and processing"],
+    "careers": ["Marine biologist", "Fisheries extension officer", "Aquaculture farm manager"]
+  },
+  {
+    "name": "Bioinformatics and Computational Biology",
+    "stream": "PCB",
+    "interests": ["Coding, computers, and biological data", "Genetics, DNA sequencing, and algorithms", "Drug discovery using artificial intelligence"],
+    "focusAreas": ["Genomics and proteomics", "Python, R programming, and data mining", "Structural biology and molecular modeling"],
+    "careers": ["Bioinformatician", "Computational biologist", "Clinical data analyst"]
+  },
+  {
+    "name": "Sports Science and Kinesiology",
+    "stream": "PCB",
+    "interests": ["Athlete fitness, stamina, and training", "Human movement, biomechanics, and physics of sports", "Sports injuries and muscle recovery"],
+    "focusAreas": ["Exercise physiology", "Sports nutrition and biochemistry", "Kinesiology and athletic rehabilitation"],
+    "careers": ["Sports scientist", "Fitness director or athletic trainer", "Strength and conditioning coach"]
+  },
+  {
+    "name": "Astrobiology and Exobiology",
+    "stream": "PCB",
+    "interests": ["Space, planets, and extreme life forms", "Origin of life on Earth and search for alien life", "Extreme environments like deep oceans and space stations"],
+    "focusAreas": ["Planetary geology and astrophysics", "Extremophiles and microbial ecology", "Biochemistry of life origins"],
+    "careers": ["Space research scientist", "Astrobiologist assistant", "Astrobiology research fellow at organizations like ISRO"]
+  },
+  {
+    "name": "Medical Illustration and Scientific Communication",
+    "stream": "PCB",
+    "interests": ["Painting, sketching, and digital 3D design", "Anatomy, surgery, and cellular structures", "Explaining complex science through visuals and writing"],
+    "focusAreas": ["Advanced human anatomy", "3D medical animation and VR design", "Scientific journalism and medical writing"],
+    "careers": ["Medical illustrator", "Healthcare content developer", "Medical animator for textbooks and surgeries"]
+  },
+  {
+    "name": "Anthropology and Human Evolution",
+    "stream": "PCB",
+    "interests": ["History of human beings, tribes, and cultures", "Fossil study, ancient DNA, and human evolution", "Skeletal remains and biological diversity"],
+    "focusAreas": ["Biological and physical anthropology", "Socio-cultural anthropology", "Human genetics and forensic anthropology"],
+    "careers": ["Anthropologist", "Museum curator", "Cultural resource manager"]
+  },
+  {
+    "name": "Rehabilitation and Special Therapy",
+    "stream": "PCB",
+    "interests": ["Helping people with speech, hearing, or physical swallowing disorders", "Designing communication aids for children or elderly patients", "Patient rehabilitation without heavy surgery"],
+    "focusAreas": ["Anatomy of speech and hearing mechanisms", "Acoustics, electronics, and pathology of audio disorders", "Neuro-rehabilitation and psychological therapy"],
+    "careers": ["Audiologist", "Speech-language pathologist", "Occupational therapist in special schools or neuro-centers"]
+  },
+  {
+    "name": "Dairy, Poultry, and Sericulture Sciences",
+    "stream": "PCB",
+    "interests": ["Large-scale livestock production, milk processing, or silk farming", "Automation in animal farming industries", "Supply chain of animal-derived products"],
+    "focusAreas": ["Dairy engineering and chemistry of milk products", "Poultry nutrition, hatchery management, and disease control", "Mulberry cultivation and silkworm rearing (Sericulture)"],
+    "careers": ["Dairy plant manager", "Poultry farm consultant or manager", "Sericulture development officer"]
+  },
+  {
+    "name": "Cosmetic Technology and Formulation Science",
+    "stream": "PCB",
+    "interests": ["Skincare, haircare, and beauty products", "Chemistry of lotions, makeup, and perfumes", "Testing cosmetics on cellular or skin models"],
+    "focusAreas": ["Cosmetic formulation and manufacture", "Dermatology and skin pharmacology", "Raw material analysis and quality testing"],
+    "careers": ["Cosmetic formulation scientist", "Quality control chemist in beauty brands", "Product development manager"]
+  },
+  {
+    "name": "Behavioral and Neuro-Sciences",
+    "stream": "PCB",
+    "interests": ["Mapping how the brain processes memories, vision, and language", "Artificial intelligence and how it mimics the human mind", "Neural networks and brain diseases"],
+    "focusAreas": ["Neuroanatomy and neurophysiology", "Cognitive modeling and computational neuroscience", "Perception and memory mechanisms"],
+    "careers": ["Neuroscientist research assistant", "Clinical research coordinator", "Cognitive analyst"]
+  },
+  {
+    "name": "Public Health and Epidemiology",
+    "stream": "PCB",
+    "interests": ["Preventing diseases at a community or national level", "Studying how viruses and pandemics spread (like COVID-19 or Dengue)", "Designing government health policies and vaccination drives"],
+    "focusAreas": ["Epidemiology and biostatistics", "Global health systems and environmental health", "Preventative medicine and healthcare communication"],
+    "careers": ["Public health officer", "Epidemiologist assistant or data analyst", "Health program manager for WHO, UNICEF, or NGOs"]
+  },
+  {
+    "name": "Floriculture, Landscaping, and Herbal Sciences",
+    "stream": "PCB",
+    "interests": ["Commercial flower growing, interior plant designing, and lawns", "Identifying and growing organic medicinal herbs for Ayurvedic brands", "Landscape architecture utilizing real ecosystems"],
+    "focusAreas": ["Commercial floriculture and seed production", "Post-harvest handling of delicate flowers", "Extraction processes of active medicinal plant ingredients"],
+    "careers": ["Landscape designer or florist consultant", "Plantation manager for herbal product manufacturers (e.g., Patanjali, Himalaya)", "Greenhouse supervisor"]
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Engineering and Technology",
+    "stream": "PCM",
+    "interests": ["Solving puzzles", "Fixing machinery", "Coding", "Figuring out how devices work"],
+    "focusAreas": ["Advanced mathematics", "Physics application", "Applied mechanics", "Computer programming"],
+    "careers": ["Software Engineer", "Mechanical Engineer", "Civil Engineer", "AI Specialist", "Data Analyst"]
+  },
+  {
+    "name": "Architecture and Planning",
+    "stream": "PCM",
+    "interests": ["Sketching", "Interior design", "Historical monuments", "Building structure layouts"],
+    "focusAreas": ["Structural engineering", "3D modeling", "Urban planning", "Building materials science"],
+    "careers": ["Licensed Architect", "Urban Planner", "Interior Designer", "Construction Project Manager"]
+  },
+  {
+    "name": "Pure and Applied Sciences",
+    "stream": "PCM",
+    "interests": ["Scientific theories", "Laboratory experiments", "Solving complex equations", "Academic logic"],
+    "focusAreas": ["Quantum mechanics", "Organic chemistry", "Statistical mathematics", "Research methodologies"],
+    "careers": ["Research Scientist", "Subject Matter Expert", "Lab Chemist", "Data Statistician"]
+  },
+  {
+    "name": "School Education and Teaching",
+    "stream": "PCM",
+    "interests": ["Explaining concepts", "Public speaking", "Mentoring peers", "Designing study material"],
+    "focusAreas": ["Child psychology", "Teaching pedagogy", "Classroom management", "Core subject specialization"],
+    "careers": ["High School Teacher", "EdTech Content Specialist", "Tutor", "School Administrator"]
+  },
+  {
+    "name": "Computer Applications and IT",
+    "stream": "PCM",
+    "interests": ["Building websites", "Mobile applications", "Ethical hacking", "Exploring computer software"],
+    "focusAreas": ["Object-oriented programming", "Database management systems", "Web development", "Cloud computing"],
+    "careers": ["Web Developer", "System Administrator", "Network Engineer", "IT Support Analyst"]
+  },
+  {
+    "name": "Commercial Aviation",
+    "stream": "PCM",
+    "interests": ["Flying", "Aircraft designs", "Navigation technology", "High-pressure decision-making"],
+    "focusAreas": ["Aviation meteorology", "Air navigation", "Aircraft technical regulations", "Flight simulation"],
+    "careers": ["Commercial Pilot", "Flight Instructor", "Aviation Safety Manager", "Air Traffic Controller"]
+  },
+  {
+    "name": "Merchant Navy and Marine Studies",
+    "stream": "PCM",
+    "interests": ["Traveling across seas", "Ship structures", "Marine life", "Disciplined outdoor physical work"],
+    "focusAreas": ["Nautical astronomy", "Ship operations", "Cargo handling", "Marine engine maintenance"],
+    "careers": ["Deck Officer", "Marine Engineer", "Navigation Officer", "Port Operations Manager"]
+  },
+  {
+    "name": "National Defence Services",
+    "stream": "PCM",
+    "interests": ["Physical fitness", "National service", "Leadership", "Discipline", "Strategic combat operations"],
+    "focusAreas": ["Military strategy", "Weapon technology", "Physical training", "International defense studies"],
+    "careers": ["Army Captain", "Navy Lieutenant", "Air Force Flying Officer", "Defense Technical Specialist"]
+  },
+  {
+    "name": "Design and Creative Arts",
+    "stream": "PCM",
+    "interests": ["Aesthetics", "Color schemes", "Product designs", "Digital graphics", "Fashion trends"],
+    "focusAreas": ["User Experience (UX/UI) design", "Visual merchandising", "Animation", "Prototyping"],
+    "careers": ["UI/UX Designer", "Product Designer", "Fashion Designer", "Graphic Animator"]
+  },
+  {
+    "name": "Arts, Humanities, and Social Sciences",
+    "stream": "PCM",
+    "interests": ["Reading literature", "Understanding politics", "Debating social issues", "Creative writing"],
+    "focusAreas": ["Political theories", "World history", "Sociological studies", "Advanced communication skills"],
+    "careers": ["Policy Analyst", "Technical Writer", "Human Rights Activist", "Public Relations Executive"]
+  },
+  {
+    "name": "Management and Business Administration",
+    "stream": "PCM",
+    "interests": ["Managing school events", "Leading team activities", "Startup ideas", "Public networking"],
+    "focusAreas": ["Marketing strategies", "Human resource management", "Consumer behavior", "Organizational dynamics"],
+    "careers": ["Business Development Manager", "HR Executive", "Marketing Strategist", "Operations Analyst"]
+  },
+  {
+    "name": "Corporate Finance and Commerce",
+    "stream": "PCM",
+    "interests": ["Calculating profits", "Checking stock market trends", "Budgeting money", "Analyzing business data"],
+    "focusAreas": ["Advanced corporate accounting", "Microeconomics", "Taxation policies", "Financial auditing"],
+    "careers": ["Financial Analyst", "Investment Banker", "Accountant", "Tax Consultant"]
+  },
+  {
+    "name": "Professional Accounting and Corporate Governance",
+    "stream": "PCM",
+    "interests": ["Reading legal compliance paperwork", "Handling complex finances", "Corporate ethics"],
+    "focusAreas": ["Corporate law", "Statutory audit methods", "Secretarial practices", "Financial reporting"],
+    "careers": ["Chartered Accountant (CA)", "Company Secretary (CS)", "Cost & Management Accountant (CMA)"]
+  },
+  {
+    "name": "Economics and Econometrics",
+    "stream": "PCM",
+    "interests": ["Understanding inflation", "GDP data charts", "Government budget allocations", "Market psychology"],
+    "focusAreas": ["Macroeconomic models", "Mathematical economics", "Data regression", "Public finance"],
+    "careers": ["Economist", "Data Modeler", "Risk Consultant", "Financial Advisor"]
+  },
+  {
+    "name": "Law and Legal Studies",
+    "stream": "PCM",
+    "interests": ["Debating", "Reading long case studies", "Analyzing logical arguments", "Human rights advocacy"],
+    "focusAreas": ["Constitutional law", "Corporate contracts", "Cyber laws", "Courtroom litigation procedures"],
+    "careers": ["Corporate Lawyer", "Legal Advisor", "Judicial Magistrate", "Intellectual Property Consultant"]
+  },
+  {
+    "name": "Journalism and Mass Communication",
+    "stream": "PCM",
+    "interests": ["Vlogging", "Writing news articles", "Photography", "Video editing", "Tracking global media"],
+    "focusAreas": ["Mass media theories", "News anchoring", "Digital content creation", "Media ethics laws"],
+    "careers": ["News Journalist", "Content Creator", "PR Specialist", "Editor", "Photojournalist"]
+  },
+  {
+    "name": "Hospitality and Hotel Administration",
+    "stream": "PCM",
+    "interests": ["Cooking", "International cuisines", "Guest management", "Luxurious hotel atmospheres"],
+    "focusAreas": ["Front office operations", "Culinary arts", "Food and beverage management", "Housekeeping"],
+    "careers": ["Hotel Manager", "Executive Chef", "Event Coordinator", "Customer Relations Manager"]
+  },
+  {
+    "name": "Travel, Tourism, and Logistics",
+    "stream": "PCM",
+    "interests": ["Organizing itineraries", "Exploring tourist destinations", "Managing vehicle transportation networks"],
+    "focusAreas": ["Tourism marketing", "Global geography", "Supply chain logistics", "Ticketing systems"],
+    "careers": ["Tour Operations Executive", "Logistics Planner", "Supply Chain Manager", "Travel Consultant"]
+  },
+  {
+    "name": "Actuarial Science and Data Analytics",
+    "stream": "PCM",
+    "interests": ["Predicting future risks", "Building probability models", "Sorting massive data files"],
+    "focusAreas": ["Probability theory", "Predictive modeling", "Machine learning", "Insurance mathematics"],
+    "careers": ["Actuary", "Risk Analyst", "Business Intelligence Analyst", "Big Data Scientist"]
+  }
+]

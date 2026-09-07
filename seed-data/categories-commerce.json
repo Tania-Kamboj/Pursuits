@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Regular Commerce (Without Maths)",
+    "stream": "Commerce",
+    "interests": ["Corporate bookkeeping", "Taxation", "Business laws", "Marketing", "HR operations"],
+    "focusAreas": ["Financial accounting", "Corporate law", "Auditing", "Business communication"],
+    "careers": ["Chartered Accountant", "Tax Consultant", "HR Executive", "Corporate Auditor"]
+  },
+  {
+    "name": "Commerce (With Maths)",
+    "stream": "Commerce",
+    "interests": ["Stock market derivatives", "Financial modeling", "Risk assessment", "Data analytics", "Econometrics"],
+    "focusAreas": ["Quantitative finance", "Business statistics", "Actuarial mathematics", "FinTech"],
+    "careers": ["Investment Banker", "Actuary", "Quantitative Analyst", "Data Analyst"]
+  }
+]

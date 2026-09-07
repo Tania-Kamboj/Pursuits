@@ -1,0 +1,948 @@
+[
+  {
+    "name": "Diploma in Fine Arts (DFA)",
+    "interests": [
+      "Expressing ideas through sketching, oil painting, clay sculpting, and visual arts history"
+    ],
+    "duration": "1 to 2 years",
+    "coreSubjects": [
+      "Drawing & Composition",
+      "Oil Painting",
+      "Clay Modeling",
+      "History of Indian Art",
+      "Portraiture"
+    ],
+    "entranceExams": [
+      "Institutional portfolio evaluation",
+      "Direct merit-based admission"
+    ],
+    "careers": [
+      "Fine Artist",
+      "Art Teacher",
+      "Illustrator",
+      "Exhibition Coordinator"
+    ],
+    "lateralEntry": [
+      "2nd Year of BFA (Bachelor of Fine Arts)",
+      "2nd Year of BA in Visual Arts"
+    ]
+  },
+  {
+    "name": "Diploma in Commercial Art (DCA)",
+    "interests": [
+      "Designing print advertisements, typography layouts, product packaging, and corporate logos"
+    ],
+    "duration": "1 to 2 years",
+    "coreSubjects": [
+      "Graphic Design",
+      "Visual Communication",
+      "Typography",
+      "Advertising Layouts",
+      "Packaging Design"
+    ],
+    "entranceExams": [
+      "Direct admission based on class 12th merit"
+    ],
+    "careers": [
+      "Graphic Designer",
+      "Layout Artist",
+      "Logo Designer",
+      "Advertising Art Director Assistant"
+    ],
+    "lateralEntry": [
+      "2nd Year of B.Des in Visual Communication",
+      "2nd Year of BFA in Applied Arts",
+      "2nd Year of B.Sc in Graphic Design"
+    ]
+  },
+  {
+    "name": "Diploma in Journalism and Mass Communication (DJMC)",
+    "interests": [
+      "Reporting breaking news, writing feature articles, hosting podcasts, and handling live media broadcasts"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "Reporting & Editing",
+      "Media Laws",
+      "Radio & TV Journalism",
+      "Public Relations",
+      "Electronic Media"
+    ],
+    "entranceExams": [
+      "College-level aptitude tests and interviews"
+    ],
+    "careers": [
+      "Junior Reporter",
+      "Sub-Editor",
+      "News Anchor Assistant",
+      "Media Coordinator"
+    ],
+    "lateralEntry": [
+      "2nd Year of BA/B.Sc in Journalism and Mass Communication (BJMC)",
+      "2nd Year of BA in Media Studies"
+    ]
+  },
+  {
+    "name": "Diploma in Photography (DP)",
+    "interests": [
+      "Mastering camera operations, lighting setups, digital photo editing, and commercial product shoots"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "Camera Mechanics",
+      "Studio Lighting",
+      "Portrait Photography",
+      "Photojournalism",
+      "Adobe Photoshop"
+    ],
+    "entranceExams": [
+      "Portfolio submission",
+      "Direct merit-based entry"
+    ],
+    "careers": [
+      "Fashion Photographer",
+      "Photojournalist",
+      "Wildlife Photographer",
+      "Freelance Photo Editor"
+    ],
+    "lateralEntry": [
+      "2nd Year of B.Sc in Photography",
+      "2nd Year of B.Des in Photography",
+      "2nd Year of BA in Media Arts"
+    ]
+  },
+  {
+    "name": "Diploma in Fashion Design (DFD)",
+    "interests": [
+      "Sketching garment silhouettes, understanding fabric types, pattern making, and tracking runway trends"
+    ],
+    "duration": "1 to 2 years",
+    "coreSubjects": [
+      "Fashion Illustration",
+      "Garment Construction",
+      "Textile Science",
+      "Pattern Making",
+      "Fashion History"
+    ],
+    "entranceExams": [
+      "Institute-specific design aptitude tests (e.g., NIFT/NID metrics or direct entry)"
+    ],
+    "careers": [
+      "Fashion Illustrator",
+      "Wardrobe Stylist",
+      "Pattern Maker",
+      "Boutique Manager"
+    ],
+    "lateralEntry": [
+      "2nd Year of B.Des in Fashion Design",
+      "2nd Year of B.Sc in Fashion Design",
+      "Lateral entry to B.FTech (via NIFT lateral entry scheme for select diploma holders)"
+    ]
+  },
+  {
+    "name": "Diploma in Interior Design (DID)",
+    "interests": [
+      "Planning spatial layouts, choosing color palettes, picking furniture styles, and staging functional rooms"
+    ],
+    "duration": "1 to 2 years",
+    "coreSubjects": [
+      "Space Planning",
+      "Interior Lighting",
+      "CAD (Computer-Aided Design)",
+      "Furniture Design",
+      "Building Materials"
+    ],
+    "entranceExams": [
+      "Direct admission based on 12th board marks"
+    ],
+    "careers": [
+      "Interior Decorator",
+      "AutoCAD Draftsman",
+      "Kitchen Designer",
+      "Visual Merchandiser"
+    ],
+    "lateralEntry": [
+      "2nd Year of B.Des in Interior Design",
+      "2nd Year of B.Sc in Interior Design",
+      "2nd Year of B.Voc in Interior Design"
+    ]
+  },
+  {
+    "name": "Diploma in Hotel Management (DHM)",
+    "interests": [
+      "Front office operations, fine-dining guest services, housekeeping standards, and luxury hospitality management"
+    ],
+    "duration": "1 to 3 years",
+    "coreSubjects": [
+      "Food Production",
+      "Front Office Operations",
+      "Housekeeping Management",
+      "Food and Beverage Service"
+    ],
+    "entranceExams": [
+      "NCHMCT JEE (some diploma tracking)",
+      "Institutional merit evaluation"
+    ],
+    "careers": [
+      "Front Office Executive",
+      "Hospitality Associate",
+      "Guest Relations Assistant",
+      "Cruise Staff"
+    ],
+    "lateralEntry": [
+      "2nd Year of B.Sc in Hospitality and Hotel Administration (B.Sc HHA)",
+      "2nd Year of BHM (Bachelor of Hotel Management)",
+      "2nd Year of BBA in Hospitality Management"
+    ]
+  },
+  {
+    "name": "Diploma in Travel and Tourism Management (DTTM)",
+    "interests": [
+      "Designing holiday itineraries, booking airline ticketing software, guiding heritage tours, and managing travel agencies"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "Tourism Principles",
+      "GDS Ticketing (Amadeus/Sabre)",
+      "Tour Guiding",
+      "Destination Marketing"
+    ],
+    "entranceExams": [
+      "Direct merit-based admission"
+    ],
+    "careers": [
+      "Travel Consultant",
+      "Tour Operator Assistant",
+      "Ticketing Executive",
+      "Destination Manager"
+    ],
+    "lateralEntry": [
+      "2nd Year of BBA in Travel and Tourism",
+      "2nd Year of B.Sc in Tourism Studies",
+      "2nd Year of BTTM (Bachelor of Tourism and Travel Management)"
+    ]
+  },
+  {
+    "name": "Diploma in Event Management (DEM)",
+    "interests": [
+      "Organizing live music concerts, planning corporate award shows, managing vendor contracts, and backstage logistics"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "Event Marketing",
+      "Sponsorship & Budgeting",
+      "Vendor Coordination",
+      "Catering Logistics",
+      "Stage Safety"
+    ],
+    "entranceExams": [
+      "Personal interview and institutional screening"
+    ],
+    "careers": [
+      "Event Coordinator",
+      "Wedding Planner Associate",
+      "Venue Executive",
+      "Logistics Supervisor"
+    ],
+    "lateralEntry": [
+      "2nd Year of BBA in Event Management",
+      "2nd Year of BA in Media and Entertainment",
+      "2nd Year of B.Sc in Event Management"
+    ]
+  },
+  {
+    "name": "Diploma in Sound Recording and Audio Engineering (DSRAE)",
+    "interests": [
+      "Recording musical instruments, editing movie dialogue tracks, live concert mixing, and using digital audio workstations (DAWs)"
+    ],
+    "duration": "1 to 2 years",
+    "coreSubjects": [
+      "Acoustics",
+      "Digital Audio Workstations (Pro Tools/Logic)",
+      "Mixing & Mastering",
+      "Microphone Techniques"
+    ],
+    "entranceExams": [
+      "Institute-specific aptitude test"
+    ],
+    "careers": [
+      "Sound Recordist",
+      "Audio Editor",
+      "Mixing Assistant",
+      "Live Sound Engineer"
+    ],
+    "lateralEntry": [
+      "2nd Year of B.Sc in Audio Engineering",
+      "2nd Year of B.Des in Sound Design",
+      "2nd Year of B.Tech in Sound Engineering (in select private universities)"
+    ]
+  },
+  {
+    "name": "Diploma in Acting and Drama (DAD)",
+    "interests": [
+      "Developing character voices, physical theater projection, improvisation skills, and preparing for on-camera auditions"
+    ],
+    "duration": "6 months to 1 year",
+    "coreSubjects": [
+      "Voice Modulation",
+      "Body Language",
+      "Script Analysis",
+      "Method Acting",
+      "Theatre Production"
+    ],
+    "entranceExams": [
+      "Audition and performance screening"
+    ],
+    "careers": [
+      "Actor",
+      "Theatre Artist",
+      "Voice-Over Artist",
+      "Casting Assistant"
+    ],
+    "lateralEntry": [
+      "2nd Year of BA in Acting",
+      "2nd Year of BPA (Bachelor of Performing Arts)",
+      "2nd Year of BFA in Applied Arts/Theatre"
+    ]
+  },
+  {
+    "name": "Diploma in Filmmaking and Direction (DFD)",
+    "interests": [
+      "Writing shot lists, directing actors on set, visualizing cinematic storyboards, and orchestrating film crew pipelines"
+    ],
+    "duration": "1 to 2 years",
+    "coreSubjects": [
+      "Screenplay Writing",
+      "Directorial Concepts",
+      "Cinematography Basics",
+      "Film Editing Timelines"
+    ],
+    "entranceExams": [
+      "Creative aptitude test or interview"
+    ],
+    "careers": [
+      "Assistant Director",
+      "Script Coordinator",
+      "Film Producer Assistant",
+      "Continuity Supervisor"
+    ],
+    "lateralEntry": [
+      "2nd Year of BA in Filmmaking",
+      "2nd Year of B.Sc in Film and Television",
+      "2nd Year of B.Des in Film Design (via NID lateral entry for select diplomas)"
+    ]
+  },
+  {
+    "name": "Diploma in Animation and VFX (DAV)",
+    "interests": [
+      "Creating 2D character sprites, molding 3D digital assets, rendering visual effects, and storyboarding animated scenes"
+    ],
+    "duration": "1 to 2 years",
+    "coreSubjects": [
+      "3D Modeling",
+      "Texturing & Rigging",
+      "Compositing",
+      "Character Animation",
+      "Green Screen VFX"
+    ],
+    "entranceExams": [
+      "Direct admission based on portfolio evaluation or merit"
+    ],
+    "careers": [
+      "3D Animator",
+      "VFX Compositor",
+      "Rigging Artist",
+      "Storyboard Artist"
+    ],
+    "lateralEntry": [
+      "2nd Year of B.Sc in Animation and VFX",
+      "2nd Year of B.Des in Animation",
+      "2nd Year of BCA (with Animation/Multimedia specialization)"
+    ]
+  },
+  {
+    "name": "Diploma in Culinary Arts (DCA)",
+    "interests": [
+      "Mastering professional knife cuts, cooking global cuisines, running commercial kitchens, and plate presentation"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "Culinary Techniques",
+      "Bakery & Confectionery",
+      "Food Safety & Hygiene",
+      "Kitchen Management"
+    ],
+    "entranceExams": [
+      "Direct institutional screening or merit"
+    ],
+    "careers": [
+      "Commis Chef",
+      "Pastry Assistant",
+      "Kitchen Prep Cook",
+      "Food Stylist"
+    ],
+    "lateralEntry": [
+      "2nd Year of B.Sc in Culinary Arts",
+      "2nd Year of BHM (Bachelor of Hotel Management)",
+      "2nd Year of B.Sc in Hospitality"
+    ]
+  },
+  {
+    "name": "Diploma in Public Relations (DPR)",
+    "interests": [
+      "Drafting corporate press statements, coordinating media interviews, managing brand crises, and organizing promotional launches"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "Corporate Communication",
+      "Media Relations",
+      "Strategic Campaigning",
+      "Crisis Management"
+    ],
+    "entranceExams": [
+      "College-level written test or interview"
+    ],
+    "careers": [
+      "PR Executive",
+      "Media Coordinator",
+      "Brand Associate",
+      "Press Liaison Officer"
+    ],
+    "lateralEntry": [
+      "2nd Year of BBA in Public Relations",
+      "2nd Year of BA in Corporate Communication",
+      "2nd Year of BA/B.Sc in Mass Communication"
+    ]
+  },
+  {
+    "name": "Diploma in Counseling Psychology (DCP)",
+    "interests": [
+      "Understanding behavioral patterns, offering supportive mental wellness guidance, and learning active empathy listening methods"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "Theories of Psychology",
+      "Counseling Techniques",
+      "Human Development",
+      "Mental Health First Aid"
+    ],
+    "entranceExams": [
+      "Direct admission based on 12th board merit"
+    ],
+    "careers": [
+      "Counseling Assistant",
+      "Wellness Coordinator",
+      "NGO Rehabilitation Aide"
+    ],
+    "lateralEntry": [
+      "2nd Year of BA/B.Sc in Psychology (subject to university bridge courses/norms)",
+      "2nd Year of BA in Applied Psychology"
+    ]
+  },
+  {
+    "name": "Diploma in Early Childhood Care and Education (ECCE)",
+    "interests": [
+      "Creating nursery learning games, identifying toddler developmental steps, and handling kindergarten schoolrooms"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "Child Development",
+      "Nutrition & Health",
+      "Preschool Administration",
+      "Play-Way Learning Methods"
+    ],
+    "entranceExams": [
+      "Direct admission based on class 12th marks"
+    ],
+    "careers": [
+      "Nursery Teacher",
+      "Daycare Supervisor",
+      "Preschool Admin Assistant",
+      "Child Care Worker"
+    ],
+    "lateralEntry": [
+      "2nd Year of B.El.Ed (Bachelor of Elementary Education)",
+      "2nd Year of BA in Early Childhood Education"
+    ]
+  },
+  {
+    "name": "Diploma in Foreign Languages (DFL)",
+    "interests": [
+      "Translating corporate emails, interpreting international dialogues, and mastering foreign vocabulary systems"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "Advanced Grammar",
+      "Phonetics & Pronunciation",
+      "Cultural Studies",
+      "Business Translation"
+    ],
+    "entranceExams": [
+      "University-specific merit tracking or entrance checks"
+    ],
+    "careers": [
+      "Translator Trainee",
+      "Bilingual Customer Care Specialist",
+      "Tour Interpreter",
+      "Foreign Content Writer"
+    ],
+    "lateralEntry": [
+      "2nd Year of BA in the respective Foreign Language (e.g., BA French, BA German)",
+      "2nd Year of BA in Translation Studies"
+    ]
+  },
+  {
+    "name": "Diploma in Creative Writing (DCW)",
+    "interests": [
+      "Writing short stories, drafting poetry anthologies, script outlining, and creating digital blog articles"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "Elements of Fiction",
+      "Poetry Forms",
+      "Feature Writing",
+      "Editing & Publishing Pipelines"
+    ],
+    "entranceExams": [
+      "Submission of a writing sample",
+      "Direct entry"
+    ],
+    "careers": [
+      "Content Writer",
+      "Copywriter",
+      "Creative Script Assistant",
+      "Blogger"
+    ],
+    "lateralEntry": [
+      "2nd Year of BA in English",
+      "2nd Year of BA in Creative Writing",
+      "2nd Year of BA in Journalism"
+    ]
+  },
+  {
+    "name": "Diploma in Digital Content Creation (DDCC)",
+    "interests": [
+      "Editing short video reels, scripting modern podcasts, managing YouTube metrics, and designing graphic thumbnails"
+    ],
+    "duration": "6 months to 1 year",
+    "coreSubjects": [
+      "Video Editing (Premiere Pro)",
+      "Audio Mixing",
+      "Thumbnail Design",
+      "Social Media Algorithms"
+    ],
+    "entranceExams": [
+      "Direct institutional entry"
+    ],
+    "careers": [
+      "Video Editor",
+      "Social Media Manager",
+      "YouTube Producer Assistant",
+      "Content Strategist"
+    ],
+    "lateralEntry": [
+      "2nd Year of B.Sc in Digital Media",
+      "2nd Year of BCA (Bachelor of Computer Applications)",
+      "2nd Year of B.Des in Communication Design"
+    ]
+  },
+  {
+    "name": "Diploma in Library and Information Science (DLIS)",
+    "interests": [
+      "Cataloging physical books, tracking digital archiving software, and maintaining library database management setups"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "Library Classification",
+      "Cataloging Systems",
+      "Information Technology Basics",
+      "Document Preservation"
+    ],
+    "entranceExams": [
+      "Class 12th merit screening"
+    ],
+    "careers": [
+      "Library Assistant",
+      "Records Clerk",
+      "Data Archiving Executive",
+      "Documentation Aide"
+    ],
+    "lateralEntry": [
+      "2nd Year of BA/B.Sc with Library and Information Science as a major subject",
+      "Credit transfer to integrated BA-B.Lib programs (in select open universities like IGNOU)"
+    ]
+  },
+  {
+    "name": "Diploma in Web Design and Development (DWDD)",
+    "interests": [
+      "Structuring clean website interfaces, choosing font aesthetics, and handling code tags like HTML and CSS"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "UI/UX Design Concepts",
+      "HTML5 & CSS3",
+      "WordPress Platforms",
+      "JavaScript Frameworks"
+    ],
+    "entranceExams": [
+      "Merit-based admission"
+    ],
+    "careers": [
+      "Web Designer",
+      "Front-End Interface Designer",
+      "Website Maintenance Executive"
+    ],
+    "lateralEntry": [
+      "2nd Year of BCA (Bachelor of Computer Applications)",
+      "2nd Year of B.Sc in Computer Science",
+      "2nd Year of B.Tech in CS/IT (via state polytechnic LEET schemes)"
+    ]
+  },
+  {
+    "name": "Diploma in Jewellery Design (DJD)",
+    "interests": [
+      "Sketching gemstone rings, using 3D jewelry modeling software, and choosing precious metal finishes"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "Gemology Basics",
+      "Technical Drawing",
+      "CAD Jewelry Modeling",
+      "Metal Fabrication Techniques"
+    ],
+    "entranceExams": [
+      "Institutional design screening",
+      "Direct entry"
+    ],
+    "careers": [
+      "Jewellery Designer Assistant",
+      "Gem Consultant",
+      "Manufacturing Coordinator"
+    ],
+    "lateralEntry": [
+      "2nd Year of B.Des in Jewellery Design",
+      "2nd Year of B.Sc in Gemology and Jewellery Design",
+      "2nd Year of B.Voc in Jewellery Design"
+    ]
+  },
+  {
+    "name": "Diploma in Apparel Merchandising (DAM)",
+    "interests": [
+      "Managing clothing export orders, tracking factory production deadlines, and pricing fashion collections"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "Retail Merchandising",
+      "Supply Chain Logistics",
+      "Quality Control",
+      "Costing and Pricing Garments"
+    ],
+    "entranceExams": [
+      "Direct merit list evaluation"
+    ],
+    "careers": [
+      "Production Merchandiser",
+      "Quality Assurance Assistant",
+      "Sourcing Coordinator"
+    ],
+    "lateralEntry": [
+      "2nd Year of B.Sc in Apparel Production",
+      "2nd Year of BBA in Fashion Management",
+      "2nd Year of B.Des in Fashion Communication"
+    ]
+  },
+  {
+    "name": "Diploma in Visual Merchandising (DVM)",
+    "interests": [
+      "Creating eye-catching window displays, dressing retail mannequins, and organizing retail store floor plans"
+    ],
+    "duration": "6 months to 1 year",
+    "coreSubjects": [
+      "Window Display Dynamics",
+      "Retail Architecture",
+      "Lighting Layouts",
+      "Consumer Walkway Analytics"
+    ],
+    "entranceExams": [
+      "Direct admission based on creative portfolio or merit"
+    ],
+    "careers": [
+      "Visual Merchandiser",
+      "Store Display Stylist",
+      "Brand Presentation Executive"
+    ],
+    "lateralEntry": [
+      "2nd Year of B.Des in Visual Communication",
+      "2nd Year of B.Sc in Retail Management",
+      "2nd Year of BBA in Retail"
+    ]
+  },
+  {
+    "name": "Diploma in Textile Design (DTD)",
+    "interests": [
+      "Creating repeats for fabric prints, managing block-printing dyes, and weaving thread structures"
+    ],
+    "duration": "1 to 2 years",
+    "coreSubjects": [
+      "Weaving Techniques",
+      "Fabric Dyeing and Printing",
+      "Embroidery Styles",
+      "CAD for Textiles"
+    ],
+    "entranceExams": [
+      "Direct admission based on class 12th merit"
+    ],
+    "careers": [
+      "Textile Print Designer",
+      "Fabric Quality Inspector",
+      "Weaving Studio Assistant"
+    ],
+    "lateralEntry": [
+      "2nd Year of B.Des in Textile Design",
+      "2nd Year of B.Sc in Textile Design",
+      "2nd Year of B.Tech in Textile Technology (via state LEET)"
+    ]
+  },
+  {
+    "name": "Diploma in Video Editing (DVE)",
+    "interests": [
+      "Cutting raw camera footage, color-grading video tracks, and adding cinematic transitions to film scenes"
+    ],
+    "duration": "6 months to 1 year",
+    "coreSubjects": [
+      "Non-Linear Editing (NLE)",
+      "Adobe Premiere",
+      "DaVinci Resolve",
+      "Color Grading",
+      "Audio Synching"
+    ],
+    "entranceExams": [
+      "Direct admission",
+      "Institutional portfolio check"
+    ],
+    "careers": [
+      "Video Editor",
+      "Promo Producer",
+      "Assistant Film Editor",
+      "Vlog Post-Producer"
+    ],
+    "lateralEntry": [
+      "2nd Year of B.Sc in Film and Television",
+      "2nd Year of B.Des in Film Design",
+      "2nd Year of BCA with Multimedia specialization"
+    ]
+  },
+  {
+    "name": "Diploma in Social Work (DSW)",
+    "interests": [
+      "Organizing community development plans, managing non-profit group data, and handling rural outreach setups"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "Indian Social Problems",
+      "Community Mobilization",
+      "NGO Administration",
+      "Human Rights Frameworks"
+    ],
+    "entranceExams": [
+      "Direct admission based on 12th arts marks"
+    ],
+    "careers": [
+      "Social Welfare Assistant",
+      "NGO Operations Coordinator",
+      "Community Health Volunteer"
+    ],
+    "lateralEntry": [
+      "2nd Year of BSW (Bachelor of Social Work)",
+      "2nd Year of BA in Social Work"
+    ]
+  },
+  {
+    "name": "Diploma in Radio Jockeying and Anchoring (DRJA)",
+    "interests": [
+      "Scripting funny audio segments, practicing clear voice articulation, and handling live microphone switchboards"
+    ],
+    "duration": "6 months to 1 year",
+    "coreSubjects": [
+      "Voice Over Training",
+      "Scripting for Radio",
+      "Microphone Controls",
+      "Podcast Broadcasting"
+    ],
+    "entranceExams": [
+      "Voice audition and personal interview"
+    ],
+    "careers": [
+      "Radio Jockey (RJ)",
+      "Podcaster",
+      "Event Anchor",
+      "Dubbing Artist"
+    ],
+    "lateralEntry": [
+      "2nd Year of BA in Broadcasting",
+      "2nd Year of B.Sc in Radio Production",
+      "2nd Year of BJMC (Bachelor of Journalism and Mass Communication)"
+    ]
+  },
+  {
+    "name": "Diploma in Choreography and Dance (DCD)",
+    "interests": [
+      "Structuring background dance sets, coordinating physical movements, and mapping stage formations for performances"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "Dance History",
+      "Rhythm & Beats Analysis",
+      "Stage Design",
+      "Composition & Body Alignment"
+    ],
+    "entranceExams": [
+      "Practical dance audition"
+    ],
+    "careers": [
+      "Assistant Choreographer",
+      "Dance Studio Instructor",
+      "Performing Artist",
+      "Stage Coordinator"
+    ],
+    "lateralEntry": [
+      "2nd Year of BPA (Bachelor of Performing Arts)",
+      "2nd Year of BA in Dance",
+      "2nd Year of BFA in Dance"
+    ]
+  },
+  {
+    "name": "Diploma in Museology and Heritage Management (DMHM)",
+    "interests": [
+      "Preserving old historical artifacts, cataloging antique museum items, and planning gallery exhibition timelines"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "Artifact Conservation",
+      "Exhibition Design",
+      "Cultural Heritage Laws",
+      "Archives Classification"
+    ],
+    "entranceExams": [
+      "Institutional aptitude checks",
+      "Merit-based direct entry"
+    ],
+    "careers": [
+      "Museum Assistant",
+      "Heritage Site Tour Coordinator",
+      "Archive Care Assistant"
+    ],
+    "lateralEntry": [
+      "2nd Year of BA/B.Sc in Museology",
+      "2nd Year of BA in Archaeology",
+      "2nd Year of BA in Heritage Management"
+    ]
+  },
+  {
+    "name": "Diploma in Makeup Artistry and Cosmetology (DMAC)",
+    "interests": [
+      "Applying high-definition bridal cosmetics, building prosthetic special effects, and handling fashion runway styling"
+    ],
+    "duration": "6 months to 1 year",
+    "coreSubjects": [
+      "Skin Physiology",
+      "Special Effects (SFX) Makeup",
+      "Hair Styling Art",
+      "Fashion Runway Cosmetics"
+    ],
+    "entranceExams": [
+      "Direct institutional entry"
+    ],
+    "careers": [
+      "Bridal Makeup Artist",
+      "SFX Makeup Assistant",
+      "Salon Manager",
+      "Celebrity Stylist Assistant"
+    ],
+    "lateralEntry": [
+      "2nd Year of B.Sc in Cosmetology",
+      "2nd Year of B.Des in Makeup & Hair Design",
+      "2nd Year of B.Voc in Beauty and Wellness"
+    ]
+  },
+  {
+    "name": "Diploma in Advertising and Brand Management (DABM)",
+    "interests": [
+      "Brainstorming viral ad taglines, building media buying sheets, and handling client account targets"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "Consumer Insights",
+      "Copywriting Basics",
+      "Media Buying Frameworks",
+      "Campaign Strategy"
+    ],
+    "entranceExams": [
+      "University or college entrance screening"
+    ],
+    "careers": [
+      "Account Executive",
+      "Assistant Media Planner",
+      "Copywriter Trainee",
+      "Brand Coordinator"
+    ],
+    "lateralEntry": [
+      "2nd Year of BBA in Advertising and Brand Management",
+      "2nd Year of B.Des in Communication Design",
+      "2nd Year of B.Sc in Mass Communication"
+    ]
+  },
+  {
+    "name": "Diploma in Bakery and Confectionery (DBC)",
+    "interests": [
+      "Baking multi-tiered cakes, tempering fine chocolate batches, and scaling commercial artisan bread weights"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "Yeast Technology",
+      "Cake Craft and Decor",
+      "Chocolate Production",
+      "Food Sanitation"
+    ],
+    "entranceExams": [
+      "Direct institutional merit list evaluation"
+    ],
+    "careers": [
+      "Pastry Chef Assistant",
+      "Baker",
+      "Cake Stylist",
+      "Bakery Shop Owner"
+    ],
+    "lateralEntry": [
+      "2nd Year of B.Sc in Bakery and Confectionery",
+      "2nd Year of B.Sc in Culinary Arts",
+      "2nd Year of BHM (Bachelor of Hotel Management)"
+    ]
+  },
+  {
+    "name": "Diploma in Human Rights (DHR)",
+    "interests": [
+      "Studying constitutional rights, tracking global human rights violations, and assisting legal aid groups"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "International Covenants",
+      "Constitutional Law Frameworks",
+      "Rights of Women and Children",
+      "NGO Fieldwork"
+    ],
+    "entranceExams": [
+      "Direct admission based on 12th board marks"
+    ],
+    "careers": [
+      "Legal Aid Assistant",
+      "Human Rights Researcher Trainee",
+      "NGO Policy Associate"
+    ],
+    "lateralEntry": [
+      "2nd Year of BA in Political Science",
+      "2nd Year of BA in Sociology",
+      "2nd Year of BA in Human Rights (offered by select universities like IGNOU, NALSAR, etc.)"
+    ]
+  }
+]

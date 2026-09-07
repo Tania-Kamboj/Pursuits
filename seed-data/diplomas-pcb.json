@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Diploma in General Nursing and Midwifery (GNM)",
+    "interests": ["Providing bedside patient care", "assisting doctors in clinical setups", "and managing maternity or newborn healthcare"],
+    "duration": "3 years",
+    "coreSubjects": ["Anatomy & Physiology", "Microbiology", "Community Health Nursing", "Mental Health Nursing", "Midwifery"],
+    "entranceExams": ["State-specific nursing entrance exams (e.g., WBJEE GNM, Bihar BCECE)", "direct merit-based admission"],
+    "careers": ["Staff Nurse", "Home Health Nurse", "Community Health Worker", "Forensic Nurse"]
+  },
+  {
+    "name": "Diploma in Medical Laboratory Technology (DMLT)",
+    "interests": ["Conducting chemical, microscopic, and bacteriological tests on blood, tissue, and bodily fluids to help diagnose diseases"],
+    "duration": "2 years",
+    "coreSubjects": ["Clinical Biochemistry", "Hematology", "Blood Banking", "Clinical Pathology", "Microbiology"],
+    "entranceExams": ["State Para-Medical Board Exams", "university-specific merit testing"],
+    "careers": ["Lab Technician", "Pathology Lab Assistant", "Blood Bank Technician", "Medical Lab Coordinator"]
+  },
+  {
+    "name": "Diploma in Pharmacy (D.Pharm)",
+    "interests": ["Dispensing medicines", "compounding drugs", "managing retail pharmacies", "and understanding drug interactions"],
+    "duration": "2 years",
+    "coreSubjects": ["Pharmaceutics", "Pharmaceutical Chemistry", "Pharmacognosy", "Pharmacology", "Hospital & Clinical Pharmacy"],
+    "entranceExams": ["NEET UG", "CUET UG", "State-level pharmacy tests (e.g., MH-CET, UPSEE)"],
+    "careers": ["Pharmacist", "Medical Representative", "Drug Quality Controller", "Hospital Pharmacy Assistant"]
+  },
+  {
+    "name": "Diploma in Physiotherapy (DPT)",
+    "interests": ["Helping patients recover from physical injuries", "managing pain", "and restoring physical movement using exercises and therapies"],
+    "duration": "2 to 3 years",
+    "coreSubjects": ["Exercise Therapy", "Electrotherapy", "Biomechanics", "Pathology", "Orthopedics & Sports Injuries"],
+    "entranceExams": ["State Para-Medical counseling", "direct institutional merit screening"],
+    "careers": ["Assistant Physiotherapist", "Sports Rehab Assistant", "Fitness Clinic Instructor", "Home Care Therapist"]
+  },
+  {
+    "name": "Diploma in Operation Theatre Technology (DOTT)",
+    "interests": ["Preparing operating rooms", "sterilising surgical instruments", "and assisting surgeons and anaesthetists during surgeries"],
+    "duration": "2 years",
+    "coreSubjects": ["Operational Theatre Equipment", "Surgical Procedures", "Anaesthesia Drugs", "Sterilisation & Disinfection"],
+    "entranceExams": ["State Medical Faculty Entrance Exams", "merit-based admissions"],
+    "careers": ["OT Technician", "Lab Assistant", "Anaesthesia Assistant", "Central Sterile Supply Department (CSSD) Assistant"]
+  },
+  {
+    "name": "Diploma in Medical Radiography Technology (DMRT)",
+    "interests": ["Operating diagnostic imaging equipment like X-rays", "CT scans", "and MRI machines to diagnose internal health issues"],
+    "duration": "2 years",
+    "coreSubjects": ["Radiation Physics", "Radiographic Techniques", "Anatomy", "Darkroom Procedures", "Radiation Safety"],
+    "entranceExams": ["State paramedical boards", "direct college merit"],
+    "careers": ["X-Ray Technician", "MRI Technologist", "CT Scan Assistant", "Radiology Lab Specialist"]
+  },
+  {
+    "name": "Diploma in Optometry (DO)",
+    "interests": ["Testing vision", "prescribing corrective lenses", "diagnosing basic eye health issues", "and helping patients select eyewear"],
+    "duration": "2 to 3 years",
+    "coreSubjects": ["Ocular Anatomy", "Visual Optics", "Optometric Instruments", "Contact Lenses", "Ocular Diseases"],
+    "entranceExams": ["University-specific entrance exams", "class 12th board merit"],
+    "careers": ["Optometrist Assistant", "Ophthalmic Technician", "Eye Clinic Coordinator", "Lens Expert"]
+  },
+  {
+    "name": "Diploma in Dialysis Technology (DDT)",
+    "interests": ["Operating dialysis machines and monitoring patients undergoing artificial blood purification treatment due to kidney failure"],
+    "duration": "2 years",
+    "coreSubjects": ["Nephrology", "Dialysis Systems and Equipment", "Patient Monitoring", "Infection Control"],
+    "entranceExams": ["State-level medical faculty counseling", "direct admission"],
+    "careers": ["Dialysis Technician", "Nephrology Lab Assistant", "Medical Equipment Executive"]
+  },
+  {
+    "name": "Diploma in Cardiac Care Technology (DCCT)",
+    "interests": ["Monitoring heart rate", "conducting ECGs", "and assisting cardiologists during invasive heart procedures"],
+    "duration": "2 years",
+    "coreSubjects": ["Cardiovascular Anatomy", "Electrocardiography (ECG)", "Echocardiography", "Cardiac Pathology"],
+    "entranceExams": ["Combined paramedical competitive exams", "merit list evaluation"],
+    "careers": ["Cardiac Technician", "ECG Specialist", "Cath Lab Assistant", "Cardiovascular Care Specialist"]
+  },
+  {
+    "name": "Diploma in Veterinary Science and Animal Husbandry (DVSc & AH)",
+    "interests": ["Treating sick animals", "managing livestock health", "breeding techniques", "and running veterinary clinics"],
+    "duration": "2 to 3 years",
+    "coreSubjects": ["Animal Nutrition", "Veterinary Medicine", "Veterinary Gynecology", "Livestock Management"],
+    "entranceExams": ["State veterinary board exams (e.g., RPVT, MP PPT)", "merit tracking"],
+    "careers": ["Veterinary Assistant", "Livestock Inspector", "Animal Farm Supervisor", "Dairy Consultant"]
+  },
+  {
+    "name": "Diploma in Dental Hygienist (DDH)",
+    "interests": ["Cleaning teeth", "checking patients for oral diseases", "and educating patients on preventative oral health care"],
+    "duration": "2 years",
+    "coreSubjects": ["Dental Anatomy", "Oral Pathology", "Radiology", "Dental Materials", "Periodontics"],
+    "entranceExams": ["State dental council admission tests", "merit-based selection"],
+    "careers": ["Dental Hygienist", "Dental Assistant", "Oral Health Educator", "Dental Clinic Lab Technician"]
+  },
+  {
+    "name": "Diploma in Medical Record Technology (DMRT)",
+    "interests": ["Standardising medical terminology", "coding diagnoses", "and maintaining patient health information databases"],
+    "duration": "1 to 2 years",
+    "coreSubjects": ["Medical Terminology", "Health Information Management", "Biostatistics", "Hospital Administration"],
+    "entranceExams": ["Direct admission based on 12th class percentage"],
+    "careers": ["Medical Record Technician", "Health Data Analyst", "Billing Clerk", "Medical Coder"]
+  },
+  {
+    "name": "Diploma in Nutrition and Dietetics (DND)",
+    "interests": ["Studying how food affects health", "planning diet charts", "and managing nutritional needs for different diseases"],
+    "duration": "1 to 2 years",
+    "coreSubjects": ["Clinical Nutrition", "Food Science", "Biochemistry", "Community Nutrition", "Diet Counseling"],
+    "entranceExams": ["Direct college merit screening"],
+    "careers": ["Assistant Dietitian", "Nutrition Assistant", "Fitness Center Counselor", "Catering Manager"]
+  },
+  {
+    "name": "Diploma in Ayurvedic Pharmacy (D.Pharm Ayur)",
+    "interests": ["Processing raw herbal ingredients", "preparation of Ayurvedic medicines", "and managing traditional medicine pharmacies"],
+    "duration": "2 years",
+    "coreSubjects": ["Ayurvedic Pharmaceutics (Bheshaj Kalpana)", "Herbology (Dravyaguna)", "Quality Control"],
+    "entranceExams": ["State Ayurvedic university entrance exams", "merit evaluation"],
+    "careers": ["Ayurvedic Pharmacist", "Herb Cultivation Executive", "Quality Analyst"]
+  },
+  {
+    "name": "Diploma in Anaesthesia Technology (DAT)",
+    "interests": ["Helping anaesthetists prepare the required dosages of drugs and monitoring patient vitals during surgery"],
+    "duration": "2 years",
+    "coreSubjects": ["Anaesthetic Agents", "Emergency Medicine", "Airway Management Equipment", "Critical Care"],
+    "entranceExams": ["Paramedical joint entrance examinations", "merit-based"],
+    "careers": ["Anaesthesia Technician", "Intensive Care Assistant", "Surgical Trauma Technician"]
+  },
+  {
+    "name": "Diploma in Clinical Pathology (DCP)",
+    "interests": ["Analysing blood, urine, and stool samples to screen for viral infections, bacterial growth, and genetic conditions"],
+    "duration": "2 years",
+    "coreSubjects": ["Histopathology", "Cytology", "Hematology", "Chemical Pathology", "Microbiology"],
+    "entranceExams": ["Paramedical board entrance exams", "merit matching"],
+    "careers": ["Pathology Associate", "Diagnostic Consultant Assistant", "Research Lab Associate"]
+  },
+  {
+    "name": "Diploma in Hearing, Language, and Speech (DHLS)",
+    "interests": ["Assessing people with speech deficiencies or hearing loss and assisting them with speech therapy and hearing aids"],
+    "duration": "1 year",
+    "coreSubjects": ["Hearing Science", "Audiometry", "Speech-Language Pathology", "Rehabilitative Audiology"],
+    "entranceExams": ["AIISH Entrance Exam", "university-level aptitude tests"],
+    "careers": ["Speech Therapy Assistant", "Audiometry Technician", "Hearing Aid Consultant"]
+  },
+  {
+    "name": "Diploma in Ophthalmic Technology (DOT)",
+    "interests": ["Setting up eye testing apparatus", "testing visual acuity", "and assisting ophthalmologists during eye surgeries like cataracts"],
+    "duration": "2 years",
+    "coreSubjects": ["Ocular Pathology", "Refraction", "Ophthalmic Instruments", "Community Ophthalmology"],
+    "entranceExams": ["University or state-level paramedical entry screening"],
+    "careers": ["Ophthalmic Assistant", "Refractionist", "Eye Care Center Executive"]
+  },
+  {
+    "name": "Diploma in Respiratory Therapy Technology (DRTT)",
+    "interests": ["Treating patients with breathing difficulties", "managing mechanical ventilators", "and performing pulmonary tests"],
+    "duration": "2 years",
+    "coreSubjects": ["Respiratory Physiology", "Oxygen Therapy", "Ventilator Management", "Pulmonary Function Tests"],
+    "entranceExams": ["Merit-based entry or direct state paramedical admissions"],
+    "careers": ["Respiratory Technician", "Pulmonary Lab Assistant", "Intensive Care Specialist"]
+  },
+  {
+    "name": "Diploma in Emergency and Trauma Care Technology (DETCT)",
+    "interests": ["Offering immediate, life-saving medical care to accident victims, cardiac patients, or trauma cases in casualty units"],
+    "duration": "2 years",
+    "coreSubjects": ["Basic Life Support (BLS)", "Advanced Cardiac Life Support (ACLS)", "Disaster Management", "Emergency Drugs"],
+    "entranceExams": ["Institutional medical board screening", "merit tracking"],
+    "careers": ["Emergency Medical Technician (EMT)", "Trauma Care Assistant", "Ambulance Coordinator"]
+  },
+  {
+    "name": "Diploma in Health Inspector (DHI)",
+    "interests": ["Monitoring public hygiene", "enforcing health and sanitation guidelines", "and tracking communicable diseases in public sectors"],
+    "duration": "1 to 2 years",
+    "coreSubjects": ["Environmental Sanitation", "Communicable Diseases", "Public Health Law", "Waste Management"],
+    "entranceExams": ["State public health board entrance checks", "direct merit admissions"],
+    "careers": ["Health Inspector", "Sanitation Inspector", "Food Safety Assistant", "Public Health Worker"]
+  },
+  {
+    "name": "Diploma in Orthopaedics Technology (DOT)",
+    "interests": ["Applying plaster casts", "preparing splints", "assembling traction rigs", "and maintaining orthopaedic surgical tools"],
+    "duration": "2 years",
+    "coreSubjects": ["Bone & Joint Anatomy", "Plaster Techniques", "Traction Procedures", "Orthopaedic Implants"],
+    "entranceExams": ["State paramedical board selection", "class 12th merit"],
+    "careers": ["Orthopaedic Technician", "Plaster Room Assistant", "Orthotics Assistant"]
+  },
+  {
+    "name": "Diploma in Homeopathy Pharmacy (DHP)",
+    "interests": ["Preparing, standardising, dispensing, and managing storage systems for homeopathic dilutions and mother tinctures"],
+    "duration": "2 years",
+    "coreSubjects": ["Homeopathic Pharmaceutics", "Pharmacognosy", "Materia Medica", "Toxicology"],
+    "entranceExams": ["Directorate of Homeopathy state exams", "merit evaluation"],
+    "careers": ["Homeopathic Pharmacist", "Homeo-Dispensation Executive", "Pharmacy Owner"]
+  },
+  {
+    "name": "Diploma in Blood Bank Technology (DBBT)",
+    "interests": ["Blood collection procedures", "matching blood groups safely", "screening for infectious diseases", "and storing plasma components"],
+    "duration": "2 years",
+    "coreSubjects": ["Immunohematology", "Blood Collection Methods", "Component Separation", "Transfusion Safety"],
+    "entranceExams": ["Paramedical entrance exams", "institutional merit lists"],
+    "careers": ["Blood Bank Officer Assistant", "Transfusion Technician", "Apheresis Associate"]
+  },
+  {
+    "name": "Diploma in Forensic Science (DFS)",
+    "interests": ["Collecting biological evidence from crime scenes", "examining fingerprints", "and handling forensic samples"],
+    "duration": "1 to 2 years",
+    "coreSubjects": ["Forensic Biology", "Fingerprint Analysis", "Criminal Law", "Toxicology", "Cyber Forensics"],
+    "entranceExams": ["University aptitude tests (e.g., NFSU entrance checks)", "merit-based direct entry"],
+    "careers": ["Forensic Lab Assistant", "Crime Scene Investigator Trainee", "Fingerprint Analyst Intern"]
+  },
+  {
+    "name": "Diploma in Biomedical Engineering Technology (DBET)",
+    "interests": ["Testing, repairing, calibrating, and installing sophisticated hospital electronics and medical machinery"],
+    "duration": "2 to 3 years",
+    "coreSubjects": ["Medical Electronics", "Human Anatomy", "Equipment Calibration", "Sensors and Transducers"],
+    "entranceExams": ["State polytechnic exams (e.g., JEECUP, JEXPO)", "merit evaluation"],
+    "careers": ["Biomedical Equipment Technician", "Hospital Equipment Maintenance Executive", "Sales Support Assistant"]
+  },
+  {
+    "name": "Diploma in Endoscopy Technology (DET)",
+    "interests": ["Maintaining sensitive optical endoscopes and preparing gastrointestinal diagnostic rooms for screening procedures"],
+    "duration": "2 years",
+    "coreSubjects": ["Gastrointestinal Tract Anatomy", "Endoscope Sterilisation", "Biopsy Handling", "Diagnostic Radiology"],
+    "entranceExams": ["Institutional medical board clearance", "merit listing"],
+    "careers": ["Endoscopy Technician", "GI Lab Technician", "Gastro-surgical Assistant"]
+  },
+  {
+    "name": "Diploma in EEG and EMG Technology (DEET)",
+    "interests": ["Mapping brainwave activities and checking neuromuscular electrical reflexes for nerve disorders"],
+    "duration": "2 years",
+    "coreSubjects": ["Neuroanatomy", "Neurophysiology", "Electroencephalography (EEG) Recording", "Electromyography (EMG) Testing"],
+    "entranceExams": ["Direct merit-based medical institute admission"],
+    "careers": ["EEG Technologist", "Neurophysiology Assistant", "Sleep Study Technician"]
+  },
+  {
+    "name": "Diploma in Critical Care Technology (DCCT)",
+    "interests": ["Monitoring critical parameters of high-risk patients inside Intensive Care Units (ICUs) and managing emergency life-support systems"],
+    "duration": "2 years",
+    "coreSubjects": ["Intensive Care Nursing", "Life Support Machinery", "Advanced Trauma Management", "Cardiopulmonary Monitoring"],
+    "entranceExams": ["State paramedical board clearance", "direct medical merit screening"],
+    "careers": ["ICU Care Technician", "Trauma Specialist Assistant", "Critical Care Coordinator"]
+  },
+  {
+    "name": "Diploma in Rural Health Care (DRHC)",
+    "interests": ["Managing community primary health centers", "organizing vaccination drives", "and educating rural populations on hygiene and safe water"],
+    "duration": "1 year",
+    "coreSubjects": ["Community Medicine", "First Aid & Emergencies", "Maternity Welfare", "Pharmacology Basics"],
+    "entranceExams": ["Local district counseling or direct merit-based selection"],
+    "careers": ["Rural Health Assistant", "Community Development Worker", "Primary Healthcare Supervisor"]
+  }
+]

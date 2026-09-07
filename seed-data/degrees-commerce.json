@@ -1,0 +1,492 @@
+[
+  {
+    "category": "Regular Commerce (Without Maths)",
+    "degrees": [
+      {
+        "name": "B.Com. in General Commerce",
+        "interests": ["Traditional bookkeeping, office administration, and understanding standard retail or wholesale business trades."],
+        "duration": "3 years",
+        "coreSubjects": ["Financial Accounting", "Business Law", "Principles of Management", "Company Law"],
+        "entranceExams": ["CUET-UG", "State-level merit", "University direct admission"],
+        "careers": ["Accountant", "Accounts clerk", "Billing coordinator", "Office administrator"]
+      },
+      {
+        "name": "B.Com. in Accounting and Finance (BAF)",
+        "interests": ["Tracking how corporate funds move, reviewing financial statements, and preparing financial audit trails."],
+        "duration": "3 years",
+        "coreSubjects": ["Advanced Financial Accounting", "Cost Accounting", "Auditing", "Corporate Finance Foundations"],
+        "entranceExams": ["CUET-UG", "NMIMS NPAT", "SET"],
+        "careers": ["Financial accountant", "Junior auditor", "Cost executive", "Accounting supervisor"]
+      },
+      {
+        "name": "B.Com. in Banking and Insurance (BBI)",
+        "interests": ["Learning how retail banks run, credit clearing, loan disbursals, and managing life/general insurance policy underwriting."],
+        "duration": "3 years",
+        "coreSubjects": ["Banking Laws", "Insurance Risk Analysis", "Central Banking Operations", "Treasury Management"],
+        "entranceExams": ["CUET-UG", "Christ University Entrance Test", "University merit"],
+        "careers": ["Bank probationary officer (PO)", "Insurance underwriting assistant", "Credit coordinator", "Customer service manager"]
+      },
+      {
+        "name": "B.Com. in Corporate Secretaryship (BCCS)",
+        "interests": ["Organizing high-level board meetings, corporate governance laws, and managing statutory compliance documents."],
+        "duration": "3 years",
+        "coreSubjects": ["Secretarial Practice", "Company Law", "Industrial Legislations", "Corporate Ethics"],
+        "entranceExams": ["CUET-UG", "College-specific merit"],
+        "careers": ["Compliance executive", "Corporate legal assistant", "Secretarial officer", "Governance trainee"]
+      },
+      {
+        "name": "B.Com. in Taxation and Tax Procedures",
+        "interests": ["Filing tax forms, calculating corporate income taxes, and helping businesses optimize their GST payments."],
+        "duration": "3 years",
+        "coreSubjects": ["Direct Tax Law (Income Tax)", "Indirect Taxes (GST/Customs)", "Tax Planning", "Auditing Methods"],
+        "entranceExams": ["CUET-UG", "Regional university entry tests"],
+        "careers": ["Tax assistant", "GST practitioner", "Tax consultant", "Internal corporate auditor"]
+      },
+      {
+        "name": "B.Com. in Marketing Management",
+        "interests": ["Studying consumer purchasing habits, public relations, advertising layouts, and brand distribution channels."],
+        "duration": "3 years",
+        "coreSubjects": ["Consumer Behavior", "Advertising", "Brand Management", "Retail Trade Operations"],
+        "entranceExams": ["CUET-UG", "SET", "IPU CET"],
+        "careers": ["Marketing executive", "Brand coordinator", "Sales executive", "Market research associate"]
+      },
+      {
+        "name": "B.Com. in Human Resource Management (HRM)",
+        "interests": ["Managing payroll systems, organizing employee recruitment drives, and maintaining peaceful industrial relations."],
+        "duration": "3 years",
+        "coreSubjects": ["Personnel Management", "Organizational Behavior", "Labor Laws", "Compensation Systems"],
+        "entranceExams": ["CUET-UG", "University merit lists"],
+        "careers": ["HR assistant", "Talent acquisition recruiter", "Payroll executive", "Employee welfare officer"]
+      },
+      {
+        "name": "B.Com. in E-Commerce and Digital Trade",
+        "interests": ["Understanding online marketplace drop-shipping, payment gateways, and managing web store inventories."],
+        "duration": "3 years",
+        "coreSubjects": ["E-Commerce Infrastructure", "Cyber Laws", "Digital Supply Chain", "Online Consumer Trends"],
+        "entranceExams": ["CUET-UG", "State university tests"],
+        "careers": ["E-commerce operations manager", "Inventory coordinator", "Digital storefront planner", "Online merchant support analyst"]
+      },
+      {
+        "name": "B.Com. in International Business (BIB)",
+        "interests": ["Learning how import-export customs work, shipping logistics, and managing global dry cargo operations."],
+        "duration": "3 years",
+        "coreSubjects": ["International Trade Laws", "Export-Import Procedures", "Global Logistics", "Foreign Exchange Basics"],
+        "entranceExams": ["CUET-UG", "Christ University ET", "Symbiosis entrance"],
+        "careers": ["Import-export coordinator", "Customs clearing executive", "Global logistics planner", "Trade document specialist"]
+      },
+      {
+        "name": "B.Com. in Travel and Tourism Management",
+        "interests": ["Global ticketing systems, cruise operations, managing itinerary flights, and cultural heritage tours."],
+        "duration": "3 years",
+        "coreSubjects": ["Tourism Principles", "Air Cargo Logistics", "Ticketing Softwares (Amadeus/Sabre)", "Hospitality Marketing"],
+        "entranceExams": ["CUET-UG", "NCHMCT JEE", "Institute-specific evaluations"],
+        "careers": ["Tour coordinator", "Ticketing desk manager", "Travel operations analyst", "Destination planner"]
+      },
+      {
+        "name": "B.Com. in Foreign Trade Management",
+        "interests": ["Bilateral trade agreements, international maritime laws, and managing sea/air cargo trade documentation."],
+        "duration": "3 years",
+        "coreSubjects": ["India's Foreign Trade Policy", "Commercial Geography", "Maritime Law", "Letters of Credit"],
+        "entranceExams": ["CUET-UG", "University-specific tests"],
+        "careers": ["Foreign trade assistant", "Shipping operations executive", "Documentation specialist", "Global procurement coordinator"]
+      },
+      {
+        "name": "B.Com. in Supply Chain and Logistics",
+        "interests": ["Moving warehousing freight, coordinating courier distribution hubs, and managing manufacturing storage inventories."],
+        "duration": "3 years",
+        "coreSubjects": ["Warehouse Management", "Materials Handling", "Transportation Systems", "Operations Strategy"],
+        "entranceExams": ["CUET-UG", "Vocational entrance tests"],
+        "careers": ["Logistics analyst", "Warehouse supervisor", "Supply chain executive", "Inventory controller"]
+      },
+      {
+        "name": "Bachelor of Business Administration (BBA General)",
+        "interests": ["Broader business administration frameworks, entrepreneurial scaling, and leadership supervisory roles."],
+        "duration": "3 years",
+        "coreSubjects": ["Business Policy", "Human Resource Planning", "Basic Finance", "Marketing Management"],
+        "entranceExams": ["IPMAT via IIM Indore", "JIPMAT", "NMIMS NPAT", "SET", "CUET-UG"],
+        "careers": ["Management trainee", "Business operations supervisor", "Project associate", "Corporate strategy planner"]
+      },
+      {
+        "name": "BBA in Human Resource Management",
+        "interests": ["Developing corporate workplace training programs, resolving employee grievances, and talent retention."],
+        "duration": "3 years",
+        "coreSubjects": ["Strategic HRM", "Industrial Relations", "Performance Management", "Training and Development"],
+        "entranceExams": ["CUET-UG", "SET", "IPU CET", "NMIMS NPAT"],
+        "careers": ["HR generalist", "Training coordinator", "Employee relations assistant", "Corporate recruiter"]
+      },
+      {
+        "name": "BBA in Marketing and Sales",
+        "interests": ["Direct business-to-business (B2B) sales pitches, managing field distribution networks, and digital lead generation."],
+        "duration": "3 years",
+        "coreSubjects": ["Sales Management", "Retail Operations", "Services Marketing", "Customer Relationship Management (CRM)"],
+        "entranceExams": ["IPMAT", "JIPMAT", "SET", "CUET-UG"],
+        "careers": ["Business development executive (BDE)", "Sales manager", "Customer success specialist", "Channel distribution manager"]
+      },
+      {
+        "name": "BBA in Digital Marketing",
+        "interests": ["Search Engine Optimization (SEO), executing paid social media ad campaigns, and viral social content curation."],
+        "duration": "3 years",
+        "coreSubjects": ["SEO Theory", "Content Marketing", "Social Media Analytics", "Web Conversion Optimization"],
+        "entranceExams": ["CUET-UG", "SET", "Direct institute tests"],
+        "careers": ["Digital marketing executive", "SEO specialist", "Social media manager", "PPC analyst"]
+      },
+      {
+        "name": "BBA in Logistics and Supply Chain Management",
+        "interests": ["Optimizing delivery fleet routes, third-party logistics fulfillment, and reducing warehouse handling costs."],
+        "duration": "3 years",
+        "coreSubjects": ["Procurement Systems", "Freight Management", "Port Operations", "Enterprise Resource Planning (ERP)"],
+        "entranceExams": ["CUET-UG", "IPU CET", "Specialized logistics institute entrances"],
+        "careers": ["Fulfillment operations manager", "Procurement assistant", "Route planner", "Fleet manager"]
+      },
+      {
+        "name": "BBA in Foreign Trade",
+        "interests": ["Exploring international tariff systems, cross-border business setups, and multinational corporate structures."],
+        "duration": "3 years",
+        "coreSubjects": ["International Marketing", "Export Financing", "Global Business Environment", "Tariff Frameworks"],
+        "entranceExams": ["CUET-UG", "SET", "University tests"],
+        "careers": ["Global sourcing executive", "Export marketing consultant", "International trade advisor"]
+      },
+      {
+        "name": "BBA in Event Management",
+        "interests": ["Coordinating live entertainment concerts, planning destination corporate expos, weddings, and massive public sports events."],
+        "duration": "3 years",
+        "coreSubjects": ["Event Planning", "Vendor Management", "Public Relations", "Stage & Production Logistics"],
+        "entranceExams": ["CUET-UG", "Direct vocational college entry"],
+        "careers": ["Event coordinator", "Wedding planner", "PR manager", "Corporate hospitality executive"]
+      },
+      {
+        "name": "BBA in Hospitality and Hotel Administration",
+        "interests": ["Five-star front desk management, culinary services operations, luxury resort hosting, and guest relation frameworks."],
+        "duration": "3 years",
+        "coreSubjects": ["Front Office Operations", "Food & Beverage Production", "Housekeeping Systems", "Hospitality Laws"],
+        "entranceExams": ["NCHMCT JEE", "CUET-UG", "Direct university screening"],
+        "careers": ["Guest relations executive", "Hotel desk supervisor", "Catering manager", "Resort cruise admin"]
+      },
+      {
+        "name": "BBA in Retail Management",
+        "interests": ["Managing fast-moving consumer goods (FMCG) supermarkets, shopping mall visual merchandising, and stock supply planning."],
+        "duration": "3 years",
+        "coreSubjects": ["Store Operations", "Visual Merchandising", "Retail Inventory Planning", "Consumer Behavior"],
+        "entranceExams": ["CUET-UG", "SET", "IPU CET"],
+        "careers": ["Retail store manager", "Category floor manager", "Visual merchandising assistant", "Inventory layout coordinator"]
+      },
+      {
+        "name": "Bachelor of Management Studies (BMS General)",
+        "interests": ["Case-study driven strategy formulation, management analytics, and resolving critical corporate operational problems."],
+        "duration": "3 years",
+        "coreSubjects": ["Corporate Strategy", "Business Analytics Foundations", "Production Operations", "Business Communication"],
+        "entranceExams": ["CUET-UG", "St. Xavier's Entrance Test"],
+        "careers": ["Management analyst", "Strategy consultant trainee", "Operations executive", "Business researcher"]
+      },
+      {
+        "name": "BMS in Healthcare Management",
+        "interests": ["Managing hospital administrative desks, patient flow networks, diagnostic center logistics, and medical billing compliance."],
+        "duration": "3 years",
+        "coreSubjects": ["Hospital Administration", "Healthcare Quality Control", "Medical Laws & Ethics", "Patient Records Management"],
+        "entranceExams": ["CUET-UG", "College-specific entrance screening"],
+        "careers": ["Hospital operations coordinator", "Healthcare administrator", "Clinic floor manager", "Medical billing analyst"]
+      },
+      {
+        "name": "Integrated B.Com. LL.B. (Honours)",
+        "interests": ["Merging business operations directly with litigation corporate law chambers, courtroom defenses, and civil dispute resolution."],
+        "duration": "5 years",
+        "coreSubjects": ["Financial Accounting", "Constitutional Law", "Code of Civil Procedure (CPC)", "Corporate Law", "Family Law"],
+        "entranceExams": ["CLAT via Consortium of NLUs", "AILET", "MHCET Law", "LSAT-India"],
+        "careers": ["Corporate advocate", "Legal counsel", "Compliance officer", "Legal process outsource analyst"]
+      },
+      {
+        "name": "Integrated BBA LL.B. (Honours)",
+        "interests": ["Merging core business management strategy directly with corporate mergers, intellectual property filings, and industrial patent law."],
+        "duration": "5 years",
+        "coreSubjects": ["Principles of Management", "Law of Torts", "Intellectual Property Rights (IPR)", "Labor Law", "Mergers & Acquisitions law"],
+        "entranceExams": ["CLAT", "AILET", "SLAT", "LSAT-India"],
+        "careers": ["M&A associate legal counsel", "IP consultant", "Contract drafting specialist", "Independent corporate attorney"]
+      },
+      {
+        "name": "Bachelor of Vocation (B.Voc.) in Retail & Logistics",
+        "interests": ["Highly practical, vocational shopfloor training, inventory stock checking, and physical e-commerce delivery logistics."],
+        "duration": "3 years",
+        "coreSubjects": ["Practical Store Auditing", "Inventory Control", "Customer Engagement Skills", "Logistics Management"],
+        "entranceExams": ["CUET-UG", "Direct application based on Class 12 marks"],
+        "careers": ["Retail team leader", "Inventory auditor", "Dispatch center head", "Customer fulfillment supervisor"]
+      },
+      {
+        "name": "Bachelor of Business Studies (BBS)",
+        "interests": ["Highly practical business modeling, startup operations, and studying actual case histories of market failures."],
+        "duration": "3 years",
+        "coreSubjects": ["Micro-Business Systems", "Business Ethics", "Marketing Policy", "Basic Capital Budgeting"],
+        "entranceExams": ["CUET-UG", "State university exams"],
+        "careers": ["Business unit manager", "Startup operations lead", "Project analyst", "Junior market consultant"]
+      },
+      {
+        "name": "BBA in Entrepreneurship",
+        "interests": ["Conceptualizing your own new venture business models, securing funding investors, and incubation pitch decks."],
+        "duration": "3 years",
+        "coreSubjects": ["New Venture Creation", "Venture Capital Basics", "Business Plan Pitching", "Family Business Growth"],
+        "entranceExams": ["CUET-UG", "SET", "NPAT"],
+        "careers": ["Startup incubator associate", "Business founder", "Venture capitalist analyst", "Family business administrator"]
+      },
+      {
+        "name": "B.Com. in Corporate Communications",
+        "interests": ["Handling business-to-press press releases, internal corporate employee bulletins, and media relations during corporate crises."],
+        "duration": "3 years",
+        "coreSubjects": ["Business Journalism", "Mass Media Basics", "Public Relations Theory", "Corporate Copywriting"],
+        "entranceExams": ["CUET-UG", "College media entrance exams"],
+        "careers": ["PR officer", "Media relations specialist", "Corporate communications coordinator", "Internal brand copywriter"]
+      },
+      {
+        "name": "B.Com. in Office Management & Secretarial Practice",
+        "interests": ["Organizing large corporate executive offices, scheduling high-priority meetings, automated office workflows, and records retention."],
+        "duration": "3 years",
+        "coreSubjects": ["Office Automation", "Stenography/Typewriting Principles", "Business Communication", "Record Management"],
+        "entranceExams": ["CUET-UG", "State vocational boards"],
+        "careers": ["Executive assistant", "Personal secretary", "Office administrative controller", "Records supervisor"]
+      }
+    ]
+  },
+  {
+    "category": "Commerce (With Maths)",
+    "degrees": [
+      {
+        "name": "B.Com. (Honours)",
+        "interests": ["Elite financial reporting, clearing high-difficulty professional exams like CA/CMA, and mathematically intensive cost valuations."],
+        "duration": "3-4 years",
+        "coreSubjects": ["Higher Corporate Accounting", "Business Mathematics & Statistics", "Financial Management", "Costing Systems"],
+        "entranceExams": ["CUET-UG", "NMIMS NPAT"],
+        "careers": ["Financial analyst", "Corporate treasurer", "Accounts strategist", "Tax compliance manager"]
+      },
+      {
+        "name": "B.Sc. (Honours) in Economics",
+        "interests": ["Graphing micro/macro economic equilibrium, calculus-driven public policy analytics, and structural financial forecasting models."],
+        "duration": "3-4 years",
+        "coreSubjects": ["Mathematical Economics", "Econometrics", "Microeconomic Theory via Calculus", "Statistical Inferences"],
+        "entranceExams": ["CUET-UG", "Indian Statistical Institute (ISI) Admission Test", "NMIMS NPAT"],
+        "careers": ["Quantitative economist", "Policy data analyst", "Economic consultant", "Macroeconomic trend researcher"]
+      },
+      {
+        "name": "B.A. (Honours) in Economics",
+        "interests": ["Blending qualitative global trade policies with mathematical data sets and public asset development metrics."],
+        "duration": "3-4 years",
+        "coreSubjects": ["Introductory Econometrics", "Public Economics", "Development Models", "Linear Algebra for Economics"],
+        "entranceExams": ["CUET-UG", "Ashoka Aptitude Test (AAT)", "University entry tests"],
+        "careers": ["Research analyst", "Policy analyst", "International trade advisor", "Financial planning expert"]
+      },
+      {
+        "name": "B.Sc. (Honours) in Actuarial Science",
+        "interests": ["Calculating compound probability risk models for life insurance firms, future asset liability cash flows, and mathematical modeling of catastrophes."],
+        "duration": "3 years",
+        "coreSubjects": ["Probability Theory", "Actuarial Mathematics", "Loss Models", "Stochastic Operations", "Financial Calculus"],
+        "entranceExams": ["CUET-UG", "Amity Entrance", "Institute of Actuaries of India (IAI) ACET"],
+        "careers": ["Actuarial analyst", "Risk modeling specialist", "Pricing analyst", "Pension valuations officer"]
+      },
+      {
+        "name": "B.Sc. (Honours) in Statistics",
+        "interests": ["Running advanced regression algorithms, design of scientific data experiments, and multi-variable analytics."],
+        "duration": "3-4 years",
+        "coreSubjects": ["Regression Analysis", "Statistical Quality Control", "Probability Distributions", "Multi-Variate Calculus"],
+        "entranceExams": ["ISI Admission Test", "CUET-UG", "State university tests"],
+        "careers": ["Statistician", "Data modeling analyst", "Biostatistician assistant", "Financial risk analyst"]
+      },
+      {
+        "name": "B.Com. in Financial Markets (BFM)",
+        "interests": ["High-frequency algorithmic stock trading, tracking derivatives pricing curves, equity analysis, and mutual fund arbitrage."],
+        "duration": "3 years",
+        "coreSubjects": ["Equity Markets", "Debt Instruments", "Commodity Derivatives", "Portfolio Mathematics"],
+        "entranceExams": ["CUET-UG", "NMIMS NPAT", "Mumbai University merit"],
+        "careers": ["Stockbroker", "Equity research analyst", "Investment portfolio manager assistant", "Derivatives trader"]
+      },
+      {
+        "name": "BBA in Financial Analysis",
+        "interests": ["Corporate mergers and acquisitions projections, valuing assets using discounted cash flows (DCF), and deep corporate financial modeling."],
+        "duration": "3 years",
+        "coreSubjects": ["Advanced Corporate Finance", "Financial Modeling via Excel", "Valuation Methodologies", "Portfolio Construction"],
+        "entranceExams": ["IPMAT", "CUET-UG", "SET"],
+        "careers": ["Valuation analyst", "M&A associate", "Asset management associate", "Financial research consultant"]
+      },
+      {
+        "name": "BBA in Business Analytics",
+        "interests": ["Merging business data patterns with coding languages like Python, SQL queries, and interactive data visualization charts."],
+        "duration": "3 years",
+        "coreSubjects": ["Data Mining", "Business Intelligence", "Python for Analytics", "Predictive Modeling Frameworks"],
+        "entranceExams": ["IPMAT", "JIPMAT", "SET", "CUET-UG"],
+        "careers": ["Business analyst", "Data visualization engineer", "Analytics consultant", "Operations data scientist"]
+      },
+      {
+        "name": "Bachelor of Financial Investment and Analysis (BFIA)",
+        "interests": ["Elite investment banking operations, portfolio hedging, private equity investments, and capital market structuring."],
+        "duration": "3 years",
+        "coreSubjects": ["Investment Banking Dynamics", "Financial Derivatives", "Fixed Income Securities", "Strategic Corporate Finance"],
+        "entranceExams": ["CUET-UG"],
+        "careers": ["Investment banking analyst", "Private equity associate", "Risk manager", "Venture capital researcher"]
+      },
+      {
+        "name": "B.Sc. in Data Science (for Commerce)",
+        "interests": ["Using artificial intelligence algorithms to forecast company market sales, detect financial fraud patterns, and clean big corporate datasets."],
+        "duration": "3-4 years",
+        "coreSubjects": ["Machine Learning for Finance", "Linear Algebra", "Database Management Systems (DBMS)", "Applied Statistics"],
+        "entranceExams": ["CUET-UG", "IIT Madras BS Data Science Entrance", "Individual university tests"],
+        "careers": ["Financial data analyst", "Fraud detection investigator", "Predictive modeler", "Operations database analyst"]
+      },
+      {
+        "name": "Bachelor of Computer Applications (BCA in FinTech)",
+        "interests": ["Developing software applications for digital wallets, blockchain finance registers, peer-to-peer lending platforms, and smart automated contracts."],
+        "duration": "3 years",
+        "coreSubjects": ["Financial Technologies", "Blockchain Architectures", "Java/C++ Object Oriented Programming", "Web Ledger Security"],
+        "entranceExams": ["IPU CET", "CUET-UG", "SET", "University tests"],
+        "careers": ["FinTech developer", "Blockchain ledger administrator", "Systems applications programmer", "Technical business analyst"]
+      },
+      {
+        "name": "B.Com. in Computer Applications (with Higher Math)",
+        "interests": ["Writing custom database software queries for automated enterprise resource ledger engines like Tally and SAP."],
+        "duration": "3 years",
+        "coreSubjects": ["E-Accounting Software Systems", "Relational Databases (RDBMS)", "Quantitative Business Methods", "Systems Analysis"],
+        "entranceExams": ["CUET-UG", "Regional state metrics"],
+        "careers": ["MIS administrator", "Accounting software systems engineer", "Computer ledger data manager", "Tech audit associate"]
+      },
+      {
+        "name": "B.Sc. in Finance",
+        "interests": ["Advanced risk modeling, international cross-border investment strategies, and corporate capital structures."],
+        "duration": "3 years",
+        "coreSubjects": ["Quantitative Corporate Finance", "Asset Pricing Models", "Derivatives Risk Management", "Econometrics"],
+        "entranceExams": ["NMIMS NPAT", "CUET-UG", "Symbiosis Entrance"],
+        "careers": ["Corporate treasury executive", "Quantitative risk assistant", "Market research analyst", "Portfolio tracker"]
+      },
+      {
+        "name": "BBA in Risk Management",
+        "interests": ["Identifying corporate credit defaults, predicting market liquidity crashes, and planning business disaster continuity."],
+        "duration": "3 years",
+        "coreSubjects": ["Credit Risk Assessment", "Operational Risk Frameworks", "Liquidity Management", "Business Continuity Modeling"],
+        "entranceExams": ["IPMAT", "CUET-UG", "Institute screening"],
+        "careers": ["Risk compliance officer", "Operational risk associate", "Credit manager", "Enterprise insurance risk planner"]
+      },
+      {
+        "name": "B.Com. (Honours) in International Finance",
+        "interests": ["Tracking currency fluctuations, hedging against international foreign exchange risks, and studying international taxation."],
+        "duration": "3-4 years",
+        "coreSubjects": ["Forex Market Mechanics", "Global Investment Portfolios", "Cross-Border Accounting Standards", "IFRS"],
+        "entranceExams": ["CUET-UG", "Premium central university screenings"],
+        "careers": ["Forex trading analyst", "Global financial compliance officer", "International accountant", "Multinational financial planner"]
+      },
+      {
+        "name": "B.Com. in Applied Statistics and Economics",
+        "interests": ["Gathering large consumer market trends, computing inflation indexes, and using statistical formulas to predict market demands."],
+        "duration": "3 years",
+        "coreSubjects": ["Sampling Methods", "Economic Indicators Forecasting", "Applied Multi-Variable Statistics", "Production Economics"],
+        "entranceExams": ["CUET-UG", "Regional university tests"],
+        "careers": ["Market research statistician", "Demand forecaster", "Pricing data analyst", "Actuarial specialist assistant"]
+      },
+      {
+        "name": "B.Sc. in Operational Research",
+        "interests": ["Using mathematical programming to optimize company fleet distribution paths, reduce assembly line waste, and schedule massive inventory arrays."],
+        "duration": "3 years",
+        "coreSubjects": ["Linear Programming", "Queueing Theory", "Optimization Calculus", "Inventory Management Models"],
+        "entranceExams": ["CUET-UG"],
+        "careers": ["Operations researcher", "Distribution optimization analyst", "Supply chain modeler", "Inventory strategist"]
+      },
+      {
+        "name": "BBA in Financial Engineering",
+        "interests": ["Creating complex structured financial derivative assets, automated trading software models, and advanced math hedging designs."],
+        "duration": "3-4 years",
+        "coreSubjects": ["Stochastic Calculus", "Derivatives Pricing Models", "Computational Finance", "Algorithms for Financial Structures"],
+        "entranceExams": ["Specialized university technology examinations", "CUET-UG metrics"],
+        "careers": ["Computational finance analyst", "Algorithmic trader assistant", "Quantitative derivative pricing modeler", "Structurer"]
+      },
+      {
+        "name": "B.Com. (Honours) in Strategic Finance",
+        "interests": ["Corporate capital budgeting planning, forecasting long-term investment expansions, and strategic cost management."],
+        "duration": "3-4 years",
+        "coreSubjects": ["Strategic Planning", "Advanced Costing Frameworks", "Performance Evaluation", "Corporate Investment Decisions"],
+        "entranceExams": ["CUET-UG", "Direct institute entrance tests"],
+        "careers": ["Corporate strategic associate", "Financial planner", "Cost management lead", "Budget director helper"]
+      },
+      {
+        "name": "B.Sc. (Honours) in Mathematics and Economics",
+        "interests": ["Advanced abstract mathematical proofs, vector spaces, and economic equilibrium formulations."],
+        "duration": "3-4 years",
+        "coreSubjects": ["Real Analysis", "Advanced Calculus", "Vector Calculus", "Micro/Macro Systems Modeling"],
+        "entranceExams": ["CUET-UG", "ISI Entrance", "Ashoka Aptitude Test"],
+        "careers": ["Quantitative economic researcher", "Structural risk architect", "Data modeler", "Academic analyst"]
+      },
+      {
+        "name": "BBA in FinTech and Digital Banking",
+        "interests": ["Designing online mobile banking applications, automated credit loan screening bots, and neo-banking architectures."],
+        "duration": "3 years",
+        "coreSubjects": ["Digital Banking Cryptography", "FinTech Regulatory Frameworks", "Consumer Data Mining", "Digital Payment Systems"],
+        "entranceExams": ["CUET-UG", "SET", "NMIMS NPAT"],
+        "careers": ["Neo-bank operations coordinator", "FinTech product manager assistant", "Digital banking analyst", "Consumer asset tech support"]
+      },
+      {
+        "name": "B.Com. with Actuarial Studies Integration",
+        "interests": ["Combining the core commercial accounting foundations of a standard B.Com degree with basic insurance risk pricing metrics simultaneously."],
+        "duration": "3 years",
+        "coreSubjects": ["Financial Accounting", "Demography", "Theory of Interest", "Survival Distributions"],
+        "entranceExams": ["CUET-UG", "Direct university screening"],
+        "careers": ["Insurance analyst", "Benefits analyst", "Risk valuation trainee", "Retirement plan designer"]
+      },
+      {
+        "name": "BBA in Accounting and Quantitative Methods",
+        "interests": ["Applying linear mathematical programming and regression analysis models to solve corporate bookkeeping and production costing variances."],
+        "duration": "3 years",
+        "coreSubjects": ["Multi-Variable Costing", "Quantitative Managerial Decisions", "Financial Accounting Standards", "Business Data Forecasting"],
+        "entranceExams": ["IPMAT", "JIPMAT", "SET"],
+        "careers": ["Quantitative accountant", "Corporate budget analyst", "Production cost auditor", "Management supervisor"]
+      },
+      {
+        "name": "B.Sc. in Quantitative Economics",
+        "interests": ["Pure data-driven testing of economic trends, tracking inflation movements, and calculating global macroeconomic equilibrium models."],
+        "duration": "3 years",
+        "coreSubjects": ["Linear Algebra", "Game Theory Models", "Advanced Mathematical Statistics", "Econometric Data Computing"],
+        "entranceExams": ["ISI Admission Test", "CUET-UG", "Specialized central campus screenings"],
+        "careers": ["Econometrician", "Research analyst", "Central bank tracking associate", "Corporate economic forecaster"]
+      },
+      {
+        "name": "B.Com. (Honours) in Business Analytics",
+        "interests": ["Cleaning and transforming corporate finance records into predictive corporate data visual dashboards."],
+        "duration": "3-4 years",
+        "coreSubjects": ["Business Forecasting Math", "SQL/Database Structures", "Visual Analytics (Tableau/PowerBI)", "Financial Record Mining"],
+        "entranceExams": ["CUET-UG", "SET", "IPU CET"],
+        "careers": ["Corporate business analyst", "Data auditor", "Financial reporting specialist", "Operational data tracker"]
+      },
+      {
+        "name": "B.Sc. in Applied Econometrics",
+        "interests": ["Testing real-world market assumptions, calculating consumer demand changes, and building data forecast models using R programming."],
+        "duration": "3 years",
+        "coreSubjects": ["Structural Econometrics", "Time-Series Modeling", "Hypothesis Testing", "Applied Statistical R-Coding"],
+        "entranceExams": ["CUET-UG", "ISI Entrance", "University screenings"],
+        "careers": ["Forecasting analyst", "Time-series modeler", "Data strategist", "Policy database assistant"]
+      },
+      {
+        "name": "BBA in Investment Banking Operations",
+        "interests": ["Navigating global equity transactions, processing cross-border security clearing settlements, and corporate asset restructuring calculations."],
+        "duration": "3 years",
+        "coreSubjects": ["Global Capital Markets", "Derivative Settlements", "Mergers and Acquisitions Analysis", "Quantitative Trade Operations"],
+        "entranceExams": ["IPMAT", "CUET-UG", "NMIMS NPAT"],
+        "careers": ["Investment banking operations analyst", "Settlements executive", "Clearings associate", "Corporate actions officer"]
+      },
+      {
+        "name": "B.Com. in Quantitative Finance",
+        "interests": ["Applying differential calculus and mathematical sequences to track asset pricing and manage portfolio risk variance."],
+        "duration": "3 years",
+        "coreSubjects": ["Quantitative Asset Pricing", "Financial Probability Math", "Matrix Algebra", "Risk Hedging Frameworks"],
+        "entranceExams": ["CUET-UG", "Individual elite tier campus exams"],
+        "careers": ["Quantitative research analyst", "Risk tracking manager", "Portfolio analyst assistant", "Bond market trader"]
+      },
+      {
+        "name": "B.Sc. in Financial Modeling & Data Visualization",
+        "interests": ["Writing complex spreadsheet macro codes, building dynamic corporate business pitch decks, and creating real-time financial tracking widgets."],
+        "duration": "3 years",
+        "coreSubjects": ["Spreadsheet Macros & Automation", "Dynamic Visual Structures", "Forecasting Models", "Business Metric Mining"],
+        "entranceExams": ["CUET-UG", "College-specific technical evaluation tests"],
+        "careers": ["Financial modeler", "Data visualization designer", "Corporate pitch developer", "Operational dashboard executive"]
+      },
+      {
+        "name": "B.Com. (Honours) in Banking and Quantitative Technology",
+        "interests": ["Managing core commercial banking systems, automated risk screening software platforms, and quantitative liquidity tracking."],
+        "duration": "3-4 years",
+        "coreSubjects": ["Automated Banking Networks", "Quantitative Credit Models", "Central Bank Regulations", "Financial Data Computing"],
+        "entranceExams": ["CUET-UG", "University-specific math-track exams"],
+        "careers": ["Quantitative bank officer", "Credit risk modeler assistant", "Digital banking analyst", "Automated data clerk"]
+      }
+    ]
+  }
+]

@@ -1,0 +1,3830 @@
+[
+  {
+    "category": "Historical Research, Museology, and Archival Studies",
+    "degrees": [
+      {
+        "name": "BA in History / BA with Archaeology, Museology & Archival Electives",
+        "interests": [
+          "Understanding deep human timelines, chronicling political and social shifts, analyzing ancient texts, and exploring how societies record memory"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Ancient, Medieval, and Modern Indian/World History",
+          "Introduction to Archaeology and Field Methods",
+          "Basics of Museology and Museum Administration",
+          "Archival Science and Record Management",
+          "Epigraphy, Numismatics, and Palaeography"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Individual institutional tests (e.g., JNU, BHU guidelines)"
+        ],
+        "careers": [
+          "Research Assistant / Historical Project Coordinator",
+          "Curatorial Assistant or Archive Trainee",
+          "Heritage Tourism Guide / Cultural Program Coordinator",
+          "Civil Services Aspirant (History is a core optional subject)",
+          "Content Writer or Editor for historical publications"
+        ]
+      },
+      {
+        "name": "BA in Archaeology and Museology",
+        "interests": [
+          "Physical excavation of historical sites, hands-on touch and preservation of artifacts, cataloging ancient tools, and designing museum exhibits"
+        ],
+        "duration": "3 years",
+        "coreSubjects": [
+          "Principles of Prehistoric and Proto-historic Archaeology",
+          "Art and Architecture of Ancient India",
+          "Museum Architecture, Display, and Lighting",
+          "Conservation and Preservation of Cultural Property",
+          "Field Surveying, Photogrammetry, and Site Documentation"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Specific university entrance tests (e.g., Maharaja Sayajirao University of Baroda or Calcutta University)"
+        ],
+        "careers": [
+          "Field Assistant in archaeological excavations",
+          "Museum Technician or Documentation Assistant",
+          "Heritage Conservation Assistant",
+          "Junior Researcher in cultural resource management firms"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Public Policy, Governance, and Political Systems",
+    "degrees": [
+      {
+        "name": "BA (Hons.) / B.Sc. in Public Policy and Governance",
+        "interests": [
+          "Analyzing large-scale social problems using data",
+          "Designing government welfare programs and economic policies",
+          "Working directly with think tanks, regulatory bodies, and corporate affairs divisions"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Foundations of Public Policy and Formulation",
+          "Microeconomics and Macroeconomics for Policy Analysts",
+          "Quantitative Research Methods and Statistical Tools",
+          "Policy Evaluation and Implementation Matrix",
+          "Urban Governance and Sustainable Human Development"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "JSAT (Jindal Scholastic Aptitude Test)",
+          "SNUSAT (Shiv Nadar University)"
+        ],
+        "careers": [
+          "Junior Policy Analyst",
+          "Corporate Affairs Executive in multinational companies",
+          "Research Associate in think tanks (like NITI Aayog or CPR)",
+          "Management Trainee in Non-Governmental Organisations (NGOs)"
+        ]
+      },
+      {
+        "name": "BA (Hons.) in Political Science",
+        "interests": [
+          "Studying political philosophies and ideologies",
+          "Analyzing constitutional laws, legal frameworks, and human rights",
+          "Understanding international relations, global geopolitics, and electoral dynamics"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Classical and Modern Western Political Thought",
+          "Indian Political Philosophy and National Movement",
+          "Comparative Political Analysis and Systems",
+          "International Relations and Global Geopolitics",
+          "Electoral Studies and Voting Behaviour in India"
+        ],
+        "entranceExams": [
+          "CUET UG (Mandatory for Delhi University, BHU, and Jamia Millia Islamia)",
+          "State or college-specific entrance/merit tests (e.g., Presidency University or St. Xavier's)"
+        ],
+        "careers": [
+          "Political Campaign Strategist or Media Analyst",
+          "Legislative Assistant to Members of Parliament (LAMP Fellowship)",
+          "Political Journalist or Content Writer",
+          "Core foundation role for Civil Services Exams (UPSC / State PSC)"
+        ]
+      },
+      {
+        "name": "BA in Public Administration",
+        "interests": [
+          "Understanding the inner workings of government bureaucracy",
+          "Managing municipal corporations, city systems, and local bodies",
+          "Executing personnel management and fiscal administration within state machinery"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Administrative Theories, Principles, and Behaviour",
+          "Indian Administration and Local Self-Government (Panchayati Raj)",
+          "Public Personnel and Financial Administration",
+          "Ethics, Integrity, and Aptitude in Public Service",
+          "Disaster Management and Internal Security Frameworks"
+        ],
+        "entranceExams": ["CUET UG", "MIT-WPU CET"],
+        "careers": [
+          "Executive assistant in Public Sector Undertakings (PSUs)",
+          "Corporate Social Responsibility (CSR) Project Officer",
+          "Operations Coordinator in public welfare foundations",
+          "Administrative specialist in non-profit organisations"
+        ]
+      },
+      {
+        "name": "Integrated B.A. B.Ed. (Political Science Specialisation)",
+        "interests": [
+          "Teaching political systems and civic education to high school students",
+          "Developing academic curricula and textbooks for educational boards"
+        ],
+        "duration": "4 years",
+        "coreSubjects": [
+          "Foundations of Indian Democracy and International Politics",
+          "Child Development and Learning Theories",
+          "Pedagogy of Social Sciences",
+          "Educational Technology and Assessment"
+        ],
+        "entranceExams": ["NCET (National Common Entrance Test for ITEP)"],
+        "careers": [
+          "TGT (Trained Graduate Teacher) in Social Science/Civics",
+          "Educational Content Developer for EdTech companies",
+          "Curriculum Designer for private and international school boards"
+        ]
+      },
+      {
+        "name": "B.Sc. / B.S. in Management and Public Policy",
+        "interests": [
+          "Applying business administration and management logic to public sector enterprises",
+          "Structuring public-private partnerships (PPP model) and large-scale public utilities"
+        ],
+        "duration": "4 years",
+        "coreSubjects": [
+          "Organizational Behaviour and Public Leadership",
+          "Public-Private Partnerships and Infrastructure Management",
+          "Strategic Management for Public Systems",
+          "Data Analytics and Project Evaluation"
+        ],
+        "entranceExams": [
+          "Institutional aptitude tests and interview rounds (pioneering IIMs or technical institutes)"
+        ],
+        "careers": [
+          "Business Analyst for Government Consultancies (e.g., PwC, EY advisory wings)",
+          "Operations Specialist in public utilities and smart city projects",
+          "Management Executive in corporate public policy cells"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Geospatial Analysis, Cartography, and Urban Planning",
+    "degrees": [
+      {
+        "name": "Bachelor of Planning (B.Plan)",
+        "interests": [
+          "Designing smart cities, master-planning urban layouts, and managing municipal infrastructure",
+          "Creating transport networks, zoning laws, and housing policies for metropolitan regions"
+        ],
+        "duration": "4 years",
+        "coreSubjects": [
+          "Fundamentals of Urban and Regional Planning",
+          "Housing, Transport, and Infrastructure Planning",
+          "GIS (Geographic Information Systems) and Remote Sensing in Planning",
+          "Socio-Economic and Environmental Aspects of Planning",
+          "Planning Legislation, Urban Governance, and Real Estate Markets"
+        ],
+        "entranceExams": [
+          "JEE Main (Paper 2B - B.Planning)",
+          "CUET UG",
+          "NATA or state-level engineering exams (e.g., MHT-CET, TNEA)"
+        ],
+        "careers": [
+          "Urban Planner / Regional Planner",
+          "GIS Analyst in municipal corporations and smart city cells",
+          "Planning Consultant in private real estate and infrastructure firms (e.g., JLL, Knight Frank)",
+          "Transport Planning Assistant"
+        ]
+      },
+      {
+        "name": "B.Tech in Geoinformatics Engineering / Geospatial Technology",
+        "interests": [
+          "Coding and developing mapping software, algorithms, and satellite data processing systems",
+          "Leveraging drone data, GPS tracking systems, and satellite imagery to solve industrial problems"
+        ],
+        "duration": "4 years",
+        "coreSubjects": [
+          "Satellite Remote Sensing and Photogrammetry",
+          "Digital Image Processing and Spatial Data Structures",
+          "Web GIS and Spatial Database Management Systems (DBMS)",
+          "Programming for Spatial Data Analytics (Python, R, and SQL)",
+          "Geodesy and Global Positioning Systems (GPS/GNSS)"
+        ],
+        "entranceExams": [
+          "JEE Main / JEE Advanced",
+          "TNEA",
+          "MHT-CET",
+          "AP EAPCET"
+        ],
+        "careers": [
+          "Geospatial Software Engineer / Developer",
+          "Remote Sensing Scientist / Image Analyst",
+          "GIS Data Architect or Database Administrator",
+          "Navigation Analyst for mapping firms (e.g., Google Maps, Apple Maps, HERE Technologies)"
+        ]
+      },
+      {
+        "name": "B.Sc. (Hons.) / BA (Hons.) in Geography (with GIS & Cartography Specialisation)",
+        "interests": [
+          "Analyzing physical terrain, weather trends, demographic patterns, and physical map-making",
+          "Merging traditional earth sciences with modern computer-based mapping tools"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Principles of Cartography and Map Projection",
+          "Theoretical and Practical Remote Sensing",
+          "Spatial Statistics and Quantitative Geography",
+          "Human, Economic, and Physical Geography",
+          "Environmental Impact Assessment (EIA) using GIS"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "State or college-specific merit shortlists (e.g., Presidency University or Jadavpur University)"
+        ],
+        "careers": [
+          "Junior Cartographer or Digital Map Maker",
+          "Environment and Climate Change Research Associate",
+          "GIS Technician / Data Verification Specialist",
+          "Demographic Data Analyst for market research firms"
+        ]
+      },
+      {
+        "name": "B.Voc (Bachelor of Vocation) in Geo-Informatics / Geospatial Technology",
+        "interests": [
+          "Gaining direct, hands-on industry skills with minimal theoretical theory",
+          "Rapidly learning field-survey techniques, operating drone sensors, and entering the job market early"
+        ],
+        "duration": "3 years",
+        "coreSubjects": [
+          "Land Surveying Methods (Total Station, DGPS)",
+          "Basic Cartography and Open Source GIS Software (QGIS)",
+          "Drone Mapping and Data Acquisition",
+          "CAD (Computer-Aided Design) and Spatial Data Digitisation"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Institutional-level direct skill merit lists"
+        ],
+        "careers": [
+          "Land Surveyor / Cadastral Surveyor",
+          "GIS Digitiser or Map Editor",
+          "Drone Survey Technician",
+          "Field Data Collection Specialist"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Social Dynamics, Community Development, and Anthropology",
+    "degrees": [
+      {
+        "name": "BA (Hons.) / B.Sc. (Hons.) in Anthropology",
+        "interests": [
+          "Studying human evolution, fossil records, and biological variations across global populations",
+          "Immersing yourself in tribal cultures, indigenous traditions, languages, and social kinship systems",
+          "Exploring the material remains of past cultures through an ethnographic lens"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Introduction to Socio-Cultural Anthropology",
+          "Biological/Physical Anthropology and Human Evolution",
+          "Archaeological Anthropology and Material Culture",
+          "Research Methods and Fieldwork Traditions (Ethnography)",
+          "Theories of Culture, Society, and Kinship Systems"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "State or college-specific merit shortlists (e.g., Calcutta University or Panjab University)"
+        ],
+        "careers": [
+          "Ethnographic Researcher or Fieldwork Coordinator",
+          "Technical Assistant in Anthropological Surveys (e.g., Anthropological Survey of India)",
+          "Cultural Resource Management Specialist",
+          "Content and Documentation Consultant for tribal development wings",
+          "Civil Services Aspirant (Anthropology is a top UPSC optional)"
+        ]
+      },
+      {
+        "name": "Bachelor of Social Work (BSW) / BA in Social Work",
+        "interests": [
+          "Designing, managing, and implementing ground-level community development projects",
+          "Working directly with marginalized groups, refugees, rural communities, and urban slums",
+          "Addressing immediate social problems like child labor, domestic abuse, and substance addiction through institutional intervention"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Foundations of Social Work and Social Welfare",
+          "Community Organisation and Social Action",
+          "Social Case Work and Group Work Dynamics",
+          "Human Behaviour and Social Environment",
+          "Concurrent Fieldwork Practicum (mandatory weekly NGO/community visits)"
+        ],
+        "entranceExams": ["CUET UG", "TISS-BAT", "AMU entrance tests"],
+        "careers": [
+          "Community Development Officer (CDO)",
+          "Program Coordinator or Field Executive in NGOs (e.g., CRY, Oxfam, Smile Foundation)",
+          "Corporate Social Responsibility (CSR) Project Associate",
+          "Medical Social Worker or Rehabilitation Counselor"
+        ]
+      },
+      {
+        "name": "BA (Hons.) in Sociology / Social Dynamics",
+        "interests": [
+          "Analyzing institutional power structures, gender roles, caste dynamics, and religious frameworks in modern India",
+          "Studying urban migration, consumer culture, social movements, and collective human behavior",
+          "Using qualitative research, questionnaires, and case studies to decode complex societal trends"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Introduction to Sociology and Sociological Concepts",
+          "Indian Society: Images, Realities, and Structural Castes",
+          "Classical and Modern Sociological Thinkers (Marx, Weber, Durkheim, Ghurye)",
+          "Sociology of Gender, Religion, and Development",
+          "Methods of Sociological Research (Qualitative and Quantitative)"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Independent institutional tests or regional board merit shortlists (e.g., St. Xavier's College Mumbai or Jadavpur University)"
+        ],
+        "careers": [
+          "Social Research Assistant or Policy Tracker",
+          "Media Researcher / Human Rights Advocate",
+          "PR and Communications Executive for social enterprises",
+          "Human Resources (HR) Analyst"
+        ]
+      },
+      {
+        "name": "BA / B.Sc. in Rural Development / Sustainable Development",
+        "interests": [
+          "Transforming India's agrarian economy, improving village infrastructure, and managing rural cooperatives",
+          "Implementing sustainable agriculture techniques and microfinance schemes for rural women",
+          "Working closely with Panchayat systems and government rural welfare programs"
+        ],
+        "duration": "3 years",
+        "coreSubjects": [
+          "Rural Society, Economy, and Democratic Decentralisation",
+          "Micro-Credit and Rural Cooperatives Management",
+          "Natural Resource Management and Sustainable Agriculture",
+          "Formulation and Evaluation of Rural Projects",
+          "Digital Technologies in Rural Governance"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "State-level rural university entrance tests (e.g., Gandhigram Rural Institute)"
+        ],
+        "careers": [
+          "Rural Program Officer or Microfinance Executive",
+          "Executive in agricultural cooperatives and federations (like AMUL or NDDB tracks)",
+          "Consultant for National Rural Livelihood Mission (NRLM) or NABARD-assisted projects",
+          "Field Operations Manager for social tech startups"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Clinical and Organizational Mental Health",
+    "degrees": [
+      {
+        "name": "B.Sc. (Hons.) / BA (Hons.) in Psychology",
+        "interests": [
+          "Understanding human behavior, brain functions, memory, and emotional disorders",
+          "Building a strong foundational base to later specialize in clinical therapy, counseling, or neuropsychology",
+          "Conducting laboratory experiments on cognitive processes and psychological testing"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Foundations of Psychology and Cognitive Processes",
+          "Biopsychology (Brain and Behavior)",
+          "Psychopathology / Abnormal Psychology",
+          "Psychological Testing and Psychometrics",
+          "Research Methodology and Statistical Data Analysis"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Christ University Entrance Test",
+          "NMIMS-NPAT"
+        ],
+        "careers": [
+          "Mental Health Content Writer",
+          "Research Assistant in psychiatric clinics",
+          "Rehabilitation Assistant",
+          "Intake Coordinator / Case Manager"
+        ]
+      },
+      {
+        "name": "BA (Hons.) in Applied Psychology",
+        "interests": [
+          "Applying psychological theories directly to real-world problems rather than focusing purely on laboratory theory",
+          "Exploring how environmental, social, and community factors impact individual mental health",
+          "Developing foundational skills in counseling, crisis intervention, and community rehabilitation"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Introduction to Applied Psychology",
+          "Counseling Psychology and Therapeutic Approaches",
+          "Community Mental Health and Social Psychology",
+          "Health and Wellbeing Optimization",
+          "Practicum: Case Study Documentation and Fieldwork"
+        ],
+        "entranceExams": ["CUET UG", "State or institutional merit shortlists"],
+        "careers": [
+          "Junior Counselor in NGOs",
+          "Behavior Therapist Assistant",
+          "Social Welfare Coordinator",
+          "Academic Coordinator"
+        ]
+      },
+      {
+        "name": "BA / B.Sc. in Psychology with Industrial/Organizational (I/O) Specialization",
+        "interests": [
+          "Improving employee mental health, reducing workplace burnout, and resolving office conflicts",
+          "Using psychological principles to design workplace cultures, hire the right talent, and evaluate employee performance",
+          "Bridging the gap between human psychology and corporate management systems"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Organizational Behavior and Workplace Dynamics",
+          "Human Resource Psychology and Talent Assessment",
+          "Consumer Behavior and Market Psychology",
+          "Training and Development Modalities",
+          "Workplace Stress Management and Ergonomics"
+        ],
+        "entranceExams": ["CUET UG", "MET", "JSAT", "SYMBIOSIS (SET)"],
+        "careers": [
+          "Corporate HR Generalist",
+          "Employee Wellness Coordinator",
+          "Market Research Assistant",
+          "Corporate Training Assistant"
+        ]
+      },
+      {
+        "name": "B.Sc. in Clinical Psychology (Specialized Professional Track)",
+        "interests": [
+          "Gaining direct exposure to hospital settings, psychiatric wards, and clinical case histories early in your studies",
+          "Learning how to assist senior psychiatrists and clinical psychologists with diagnostic tests and patient history taking"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Clinical Psychopathology and Symptomatology",
+          "Neuropsychological Assessment Basics",
+          "Therapeutic Communication and Interviewing Skills",
+          "Pharmacology and Mental Health Foundations",
+          "Ethics in Clinical Settings"
+        ],
+        "entranceExams": [
+          "Institutional entrance exams",
+          "Merit lists conducted by allied health sciences universities"
+        ],
+        "careers": [
+          "Psychometrician / Psychological Assessment Assistant",
+          "Clinical Coordinator",
+          "De-addiction Center Support Worker",
+          "Psychiatric Ward Care Manager"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Quantitative and Theoretical Economic Analytics",
+    "degrees": [
+      {
+        "name": "B.Sc. (Hons.) / BA (Hons.) in Economics (Quantitative Track)",
+        "interests": [
+          "Decoding complex market behaviors using advanced mathematics and calculus",
+          "Building theoretical economic models to predict inflation, trade balances, and market trends",
+          "Pursuing a highly rigorous academic foundation for global master's or PhD programs"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Mathematical Methods for Economics",
+          "Intermediate and Advanced Microeconomic Theory",
+          "Intermediate and Advanced Macroeconomic Theory",
+          "Statistical Methods for Economics",
+          "Introductory Econometrics"
+        ],
+        "entranceExams": ["CUET UG", "NMIMS-NPAT", "SYMBIOSIS (SET)"],
+        "careers": [
+          "Risk Advisory Associate",
+          "Economic Research Assistant",
+          "Graduate Analyst in investment banks",
+          "Business Operations Analyst"
+        ]
+      },
+      {
+        "name": "B.Sc. (Hons.) / BA (Hons.) in Econometrics and Data Science",
+        "interests": [
+          "Applying heavy statistical models and coding to massive datasets to test economic theories",
+          "Programming economic simulations using Python, R, and SQL",
+          "Merging traditional economics with modern corporate data analytics and predictive modeling"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Applied Econometrics and Time-Series Analysis",
+          "Coding for Economists (R / Python / SQL)",
+          "Machine Learning Applications in Economics",
+          "Big Data Analytics and Spatial Econometrics",
+          "Financial Econometrics"
+        ],
+        "entranceExams": ["CUET UG", "SNUSAT", "JSAT"],
+        "careers": [
+          "Junior Data Scientist",
+          "Quantitative Data Analyst",
+          "Business Intelligence Developer",
+          "Pricing and Revenue Optimization Analyst"
+        ]
+      },
+      {
+        "name": "B.Sc. (Hons.) / Bachelor of Science in Financial Economics",
+        "interests": [
+          "Analyzing stock markets, asset pricing, derivative models, and corporate financial structures",
+          "Understanding how macroeconomic policies directly impact banking and financial markets",
+          "Working on trading floors, portfolio management teams, or investment strategy cells"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Corporate Finance and Financial Markets",
+          "Investment Analysis and Portfolio Theory",
+          "Derivatives and Risk Management",
+          "Monetary Economics and Banking Systems",
+          "Econometric Modeling of Financial Markets"
+        ],
+        "entranceExams": ["CUET UG", "GAT", "Krea Aptitude Test"],
+        "careers": [
+          "Investment Banking Analyst",
+          "Financial Risk Analyst",
+          "Portfolio Management Assistant",
+          "Equity Research Associate"
+        ]
+      },
+      {
+        "name": "B.Sc. / B.S. in Economic Sciences (Engineering-Adjacent Track)",
+        "interests": [
+          "Approaching economics with the structural mind of an engineer or computer scientist",
+          "Mastering game theory, network economics, and complex algorithmic market mechanisms",
+          "Achieving the highest standard of quantitative training available at the undergraduate level in India"
+        ],
+        "duration": "4 years",
+        "coreSubjects": [
+          "Advanced Calculus and Stochastic Processes",
+          "Game Theory and Mechanism Design",
+          "Algorithmic Economics and Network Theory",
+          "Micro-econometrics and Macro-econometrics",
+          "Computational Economics and Optimization"
+        ],
+        "entranceExams": ["JEE Main", "JEE Advanced"],
+        "careers": [
+          "Quantitative Trader",
+          "Algorithmic Strategist",
+          "Data Engineer / Economic Modeler",
+          "Direct entry into elite global PhD programs"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "International Relations and Geopolitical Strategy",
+    "degrees": [
+      {
+        "name": "BA (Hons.) in International Relations / Global Affairs",
+        "interests": [
+          "Understanding global conflicts, war strategy, peace-building, and foreign policy tracking",
+          "Analyzing how superpowers interact, negotiate treaties, and enforce international law",
+          "Studying the role of global bodies like the United Nations, WTO, and G20"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Theories of International Relations",
+          "Global Geopolitics and Strategic Studies",
+          "International Law, Treaties, and Global Governance",
+          "Foreign Policy of India and Major Powers",
+          "Security Studies, Conflict Resolution, and Peace Evaluation"
+        ],
+        "entranceExams": ["CUET UG", "JSAT", "SNUSAT"],
+        "careers": [
+          "Foreign Policy Research Assistant",
+          "Geopolitical Risk Analyst",
+          "International Program Coordinator",
+          "Intelligence or Security Analyst Trainee"
+        ]
+      },
+      {
+        "name": "BA (Hons.) in Political Science with an International Relations Track",
+        "interests": [
+          "Balancing a deep understanding of domestic political systems with global affairs",
+          "Learning how a country's internal laws and constitutional setup shape its foreign policy decisions",
+          "Preparing a rock-solid foundation for civil service and diplomatic exams"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Comparative Political Systems and Global Institutions",
+          "International Political Economy (IPE)",
+          "Area Studies",
+          "India’s Foreign Relations and Neighborhood Policy",
+          "Diplomacy, Statecraft, and Negotiation Methods"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "SYMBIOSIS (SET)",
+          "Christ University Entrance Test"
+        ],
+        "careers": [
+          "Political Campaign or Policy Advisory Executive",
+          "Legislative Assistant to Members of Parliament",
+          "Foreign Affairs Journalist",
+          "Core foundational role for Civil Services Exams"
+        ]
+      },
+      {
+        "name": "BA (Hons.) in Strategic and Defence Studies / Military Science",
+        "interests": [
+          "Studying military history, national security, maritime strategy, and border management",
+          "Analyzing unconventional warfare, including cyber threats, terrorism, and information warfare",
+          "Understanding the defense procurement, nuclear doctrines, and weapon logistics of nations"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Introduction to Strategic Thought and Military History",
+          "National Security Architecture of India",
+          "Science, Technology, and National Security",
+          "Disaster Management and Internal Security Dynamics",
+          "Geopolitics of the Indian Ocean Region"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "State or institutional-specific entrance matrix"
+        ],
+        "careers": [
+          "Defense and Security Analyst",
+          "Risk and Security Consultant",
+          "Direct SSB Entry aspirant",
+          "Executive in maritime logistics"
+        ]
+      },
+      {
+        "name": "BA (Hons.) in Global Studies / Liberal Arts (International Specialisation)",
+        "interests": [
+          "Exploring world affairs through an interdisciplinary lens, combining geography, culture, and history",
+          "Learning a foreign language alongside global political structures",
+          "Working across cross-cultural borders in international business or corporate communication"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "World Civilizations and Global History",
+          "Cross-Cultural Communications and Global Media",
+          "Globalization, Migration, and Diaspora Studies",
+          "Mandatory Foreign Language Modules",
+          "International Trade Foundations and Global Markets"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "FLAME Entrance Test",
+          "Krea Aptitude Test",
+          "Ashoka Aptitude Test"
+        ],
+        "careers": [
+          "Cross-Border Corporate Communications Specialist",
+          "International Trade and Operations Associate",
+          "Public Relations Executive",
+          "Foreign Language and Cultural Consultant"
+        ]
+      },
+      {
+        "name": "Five-Year Integrated BA LLB (Hons.) with Specialisation in International Law",
+        "interests": [
+          "Settling cross-border trade disputes, working with maritime boundaries, handling international human rights violations, or advising multinational corporations on global compliance"
+        ],
+        "duration": "5 years",
+        "coreSubjects": [
+          "Public International Law and Humanitarian Law",
+          "Private International Law",
+          "WTO Law and International Trade Regulations",
+          "Geopolitical Strategy and Foreign Policy",
+          "Law of the Sea and Airspace Regulations"
+        ],
+        "entranceExams": ["CLAT", "AILET", "LSAT-India"],
+        "careers": [
+          "International Arbitration Lawyer",
+          "Corporate Legal Advisor",
+          "Legal Consultant for international bodies",
+          "Human Rights Advocate"
+        ]
+      },
+      {
+        "name": "Five-Year Integrated MA in International Relations / Political Science",
+        "interests": [
+          "Skipping the stress of re-applying for a master's degree, securing an unbroken 5-year academic run, and deep-diving straight into high-level strategic research and geopolitical modeling"
+        ],
+        "duration": "5 years",
+        "coreSubjects": [
+          "Advanced Strategic Thought and Geopolitical Mapping",
+          "International Political Economy",
+          "Foreign Policy Analysis and Diplomatic History",
+          "Quantitative and Qualitative Global Research Methods",
+          "Regional Security Dynamics"
+        ],
+        "entranceExams": ["CUET UG", "Institutional entrance tests"],
+        "careers": [
+          "Senior Geopolitical Consultant",
+          "Policy Specialist at global think tanks",
+          "Risk Assessment Director",
+          "Academician or Lecturer"
+        ]
+      },
+      {
+        "name": "B.Voc in International Trade and Border Logistics",
+        "interests": [
+          "The practical, business-heavy side of geopolitics—managing trade corridors, handling customs regulations across international borders, and understanding supply chain vulnerabilities during global conflicts"
+        ],
+        "duration": "3 years",
+        "coreSubjects": [
+          "International Trade Policies and Tariffs",
+          "Customs Documentation and Port Management",
+          "Global Supply Chain Security",
+          "Cross-Border E-Commerce Regulations",
+          "Commercial Geography and Trade Routes"
+        ],
+        "entranceExams": ["CUET UG", "Direct merit shortlists"],
+        "careers": [
+          "Cross-Border Logistics Coordinator",
+          "Customs Clearance Executive",
+          "Import-Export Compliance Specialist",
+          "Supply Chain Risk Analyst"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Civil Services and Public Administration",
+    "degrees": [
+      {
+        "name": "BA (Hons.) in Public Administration",
+        "interests": [
+          "Understanding how government departments operate, public policy implementation, bureaucratic structures, and managing government finances"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Administrative Theories and Principles",
+          "Public Personnel Administration",
+          "Financial Administration and Budgeting in India",
+          "Local Self-Government",
+          "Comparative Public Administration"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "State-level university merit or entrance exams"
+        ],
+        "careers": [
+          "Executive Assistant in PSUs",
+          "CSR Specialist",
+          "Administrative Executive in non-profits",
+          "Preparation for UPSC CSE"
+        ]
+      },
+      {
+        "name": "BA in Public Administration & Governance (Civil Services Track)",
+        "interests": [
+          "Getting a 3-to-4-year early start on your UPSC CSE or State PSC preparation while earning your college degree"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Indian Constitution, Polity, and Governance",
+          "Indian Economy and Economic Development",
+          "Geography of India and the World",
+          "Ethics, Integrity, and Aptitude",
+          "Internal Security and Disaster Management"
+        ],
+        "entranceExams": ["CUET UG", "MIT-WPU CET"],
+        "careers": [
+          "Full-time Civil Services Aspirant",
+          "Legislative Assistant (LAMP Fellowship)",
+          "Research Assistant in public policy cells",
+          "Operations Coordinator in social welfare programs"
+        ]
+      },
+      {
+        "name": "Five-Year Integrated MA in Public Administration / Public Policy",
+        "interests": [
+          "Securing an uninterrupted 5-year academic track that covers both fundamental administrative mechanics and high-level policy analysis without re-applying for a master's"
+        ],
+        "duration": "5 years",
+        "coreSubjects": [
+          "Advanced Bureaucratic Structures and Governance",
+          "Research Methodology and Statistical Tools for Policy",
+          "Social Welfare Administration and Public Law",
+          "E-Governance and Digital Public Infrastructure",
+          "Urban and Rural Development Planning"
+        ],
+        "entranceExams": ["CUET UG"],
+        "careers": [
+          "Program Officer in international bodies",
+          "Policy Fellow at state governance cells",
+          "Research Associate in national think tanks",
+          "Academician or Lecturer"
+        ]
+      },
+      {
+        "name": "BA (Hons.) in Political Science & Public Administration (Dual Major Combo)",
+        "interests": [
+          "Balancing political philosophy, statecraft, and voting behaviors with the practical execution of laws by the bureaucracy"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Classical and Modern Political Thought",
+          "Indian Government and Political Dynamics",
+          "Public Policy Formulation and Evaluation",
+          "International Relations and Global Admin Frameworks",
+          "Citizens and Administration Interface"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "State or college-specific merit shortlists"
+        ],
+        "careers": [
+          "Political Campaign Strategist",
+          "Content and Research Associate",
+          "Public Relations Officer",
+          "Foundation for competitive government exams"
+        ]
+      },
+      {
+        "name": "Five-Year Integrated BA LLB (Hons.) with Specialisation in Administrative Law",
+        "interests": [
+          "The legal framework of governance, regulatory compliance, settling public sector disputes, and checking the abuse of power by state bodies"
+        ],
+        "duration": "5 years",
+        "coreSubjects": [
+          "Constitutional Law and Judicial Review",
+          "Administrative Law and Principles of Natural Justice",
+          "Public International Law and Human Rights",
+          "Right to Information (RTI) and Anti-Corruption Laws",
+          "Service Rules and Public Employment Jurisprudence"
+        ],
+        "entranceExams": ["CLAT", "AILET", "LSAT-India", "MH-CET Law"],
+        "careers": [
+          "Legal Advisor to government ministries",
+          "Administrative Law Practitioner",
+          "Legal Consultant for PSUs",
+          "Judicial Services Aspirant"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Social Work and Grassroots Welfare Execution",
+    "degrees": [
+      {
+        "name": "Bachelor of Social Work (BSW) / BSW (Hons.)",
+        "interests": [
+          "Direct, on-the-ground human intervention, organizing community welfare camps, helping marginalized communities, and working closely with non-profits (NGOs)"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Foundations and History of Professional Social Work",
+          "Social Case Work (Individual Counselling) and Group Work Dynamics",
+          "Community Organisation and Social Action",
+          "Social Welfare Administration and Policy",
+          "Mandatory Fieldwork Practicum"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Institutional tests or direct board merit criteria"
+        ],
+        "careers": [
+          "NGO Program Coordinator / Field Executive",
+          "Community Development Officer (CDO)",
+          "Corporate Social Responsibility (CSR) Project Assistant",
+          "Welfare Officer in orphanages or shelter homes"
+        ]
+      },
+      {
+        "name": "BA (Hons.) / B.Sc. in Rural Development & Grassroots Governance",
+        "interests": [
+          "Transforming village economies, executing Panchayati Raj systems, solving agrarian issues, and implementing clean water or microfinance schemes for rural women"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Rural Society, Economy, and Democratic Decentralisation",
+          "Micro-Credit, Self-Help Groups (SHGs), and Rural Cooperatives",
+          "Sustainable Agriculture and Natural Resource Management",
+          "Planning, Execution, and Monitoring of Rural Welfare Projects",
+          "E-Governance in Rural Systems"
+        ],
+        "entranceExams": ["CUET UG", "State rural university entrance tests"],
+        "careers": [
+          "Rural Program Officer under NRLM",
+          "Executive in agricultural federations",
+          "Field Operations Manager for social tech startups",
+          "Microfinance Operations Executive"
+        ]
+      },
+      {
+        "name": "Five-Year Integrated MA in Social Work / Development Studies",
+        "interests": [
+          "Securing an unbroken 5-year academic track to qualify for high-level programmatic and policy roles without the hassle of re-applying for a master's degree"
+        ],
+        "duration": "5 years",
+        "coreSubjects": [
+          "Social Science Concepts for Social Work Practice",
+          "Quantitative and Qualitative Social Research Methodology",
+          "Gender, Intersectionality, and Grassroots Development",
+          "Human Rights, Social Legislation, and Advocacy",
+          "Disaster Management and Community Resilience"
+        ],
+        "entranceExams": ["CUET UG", "Institutional entrance tests"],
+        "careers": [
+          "Senior Social Policy Analyst or Researcher",
+          "Program Manager in international development bodies",
+          "CSR Project Director",
+          "Academician or Social Work Lecturer"
+        ]
+      },
+      {
+        "name": "B.Voc (Bachelor of Vocation) in Social Work and Community Development",
+        "interests": [
+          "Highly practical, vocational skill acquisition with direct industry job-matching, bypassing intense theoretical or historical social theories"
+        ],
+        "duration": "3 years",
+        "coreSubjects": [
+          "Field Survey Techniques and Participatory Rural Appraisal (PRA)",
+          "Basic Counseling and Crisis Management Skills",
+          "Documentation, Reporting, and Grant Writing for NGOs",
+          "Public Health Basics and Sanitation Drive Execution"
+        ],
+        "entranceExams": ["CUET UG", "Direct merit shortlists"],
+        "careers": [
+          "Grassroots Mobilizer / Field Supervisor",
+          "Data Collection and Documentation Executive",
+          "Health and Sanitation Drive Coordinator",
+          "Rehabilitation Assistant"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Print, Broadcast, and Investigative Journalism",
+    "degrees": [
+      {
+        "name": "Bachelor of Arts (BA) in Journalism / BA (Hons.) Journalism",
+        "interests": [
+          "Core reporting, writing news articles, investigative reporting, digital news curation, and working in traditional print or modern digital newsrooms"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Introduction to Journalism and News Culture",
+          "Reporting and Editing for Print Media",
+          "Investigative and In-Depth Journalism",
+          "Media Laws, Ethics, and Constitutional Frameworks",
+          "Cyber Journalism and Digital Footprint Curation"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "IIMC Entrance Test / CUET PG Special routes"
+        ],
+        "careers": [
+          "Beat Reporter / Correspondent",
+          "Sub-Editor / Copy Editor",
+          "Investigative Journalist (Junior Trainee)",
+          "Digital Content Curator / Fact-Checker"
+        ]
+      },
+      {
+        "name": "Bachelor of Journalism and Mass Communication (BJMC) / BA-JMC",
+        "interests": [
+          "Broadcast media (TV/Radio), anchor tracking, video editing, studio production, along with multi-media storytelling across diverse platforms"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Broadcast Journalism (TV and Radio Production)",
+          "Camera Aesthetics, Video Editing, and Sound Design",
+          "Mobile Journalism (MoJo) and Live Reporting",
+          "Advertising, Public Relations, and Media Management",
+          "Documentary Film-making and Photojournalism"
+        ],
+        "entranceExams": [
+          "IPU CET",
+          "SYMBIOSIS (SET)",
+          "Christ University Entrance Test"
+        ],
+        "careers": [
+          "Broadcast Journalist / News Anchor",
+          "Video Editor / Panel Producer",
+          "Scriptwriter / Content Producer",
+          "Photojournalist / Documentary Assistant"
+        ]
+      },
+      {
+        "name": "BA (Hons.) in English / Political Science (With Media & Journalism Electives)",
+        "interests": [
+          "Developing intense subject-matter expertise while using elective modules to break into high-end editorial and investigative desks"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Classical Literature or Political Ideologies",
+          "Media Writing and Specialized Public Communication",
+          "Political Journalism and Electoral Analysis",
+          "International Communication Frameworks"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Merit lists based on Class 12 board marks"
+        ],
+        "careers": [
+          "Op-Ed Writer / Columnist",
+          "Foreign Policy or Political News Analyst",
+          "Editorial Assistant",
+          "Communications Officer for think tanks"
+        ]
+      },
+      {
+        "name": "B.Voc (Bachelor of Vocation) in Broadcast Journalism & Digital Media Production",
+        "interests": [
+          "Gaining strict, hands-on mechanical skills—such as live-streaming engineering, operating professional studio mixers, or direct video editing"
+        ],
+        "duration": "3 years",
+        "coreSubjects": [
+          "Studio Lighting and Audio Engineering Basics",
+          "Non-Linear Editing Software (Adobe Premiere Pro, Final Cut Pro)",
+          "Live News Broadcasting Frameworks",
+          "Social Media Algorithms and Content Distribution"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Institutional-level direct vocational merit lists"
+        ],
+        "careers": [
+          "Broadcast Studio Technician",
+          "Video Editor / Motion Graphics Artist",
+          "Digital Media Manager",
+          "Independent MoJo Content Creator"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Corporate Communications and Public Relations",
+    "degrees": [
+      {
+        "name": "Bachelor of Arts (BA) in Mass Communication / BA (Hons.) Media and Communication",
+        "interests": [
+          "Brand storytelling, crisis management, crafting corporate press releases, managing media relations, and designing public image campaigns"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Principles of Public Relations and Corporate Image",
+          "Crisis Communication and Reputation Management",
+          "Media Relations and Press Release Writing",
+          "Internal Corporate Communication and Newsletters",
+          "Media Laws, Ethics, and Defamation Frameworks"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "SYMBIOSIS (SET)",
+          "Christ University Entrance Test"
+        ],
+        "careers": [
+          "PR Executive / Media Relations Officer",
+          "Corporate Communications Associate",
+          "Brand Reputation Management Trainee",
+          "Content Strategist"
+        ]
+      },
+      {
+        "name": "Bachelor of Business Administration (BBA) in Media Management / Corporate Communication",
+        "interests": [
+          "The business and strategic side of PR—managing large communication budgets, analyzing market demographics, dealing with investor relations"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Corporate Governance and Business Ethics",
+          "Marketing Management and Consumer Behaviour",
+          "Strategic Corporate Communication and PR Management",
+          "Investor Relations and Financial Communication",
+          "Digital Media Marketing and Analytics"
+        ],
+        "entranceExams": [
+          "NMIMS-NPAT",
+          "CUET UG",
+          "IPU CET",
+          "SYMBIOSIS (SET)"
+        ],
+        "careers": [
+          "Investor Relations Analyst",
+          "CSR Communications Executive",
+          "Public Affairs Assistant",
+          "Corporate Brand Manager"
+        ]
+      },
+      {
+        "name": "BA (Hons.) in English / Applied Psychology / Sociology (With Corporate Electives)",
+        "interests": [
+          "Understanding human behavior, group dynamics, or mastering advanced copywriting to craft highly persuasive speeches and consumer campaigns"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Organizational Psychology or Consumer Sociology",
+          "Advanced Rhetoric and Persuasive Writing",
+          "Interpersonal and Cross-Cultural Communication",
+          "Public Relations Elective Modules"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Merit lists based on Class 12 board marks"
+        ],
+        "careers": [
+          "Speechwriter / Executive Communications Assistant",
+          "Internal Communications Coordinator",
+          "Copywriter",
+          "Internal DEI Communicator"
+        ]
+      },
+      {
+        "name": "B.Voc (Bachelor of Vocation) in Public Relations and Digital Media Marketing",
+        "interests": [
+          "Frontline operational skills—learning how to set up press conferences, pitching to journalists, tracking media impressions using digital dashboards"
+        ],
+        "duration": "3 years",
+        "coreSubjects": [
+          "Media Pitching and Journalist Database Management",
+          "Social Media Handling and Influencer Relations",
+          "Event Management and Press Conference Logistics",
+          "SEO, Google Analytics, and PR Metrics tracking"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Institutional-level direct vocational merit lists"
+        ],
+        "careers": [
+          "PR Operations Executive",
+          "Influencer Relations Coordinator",
+          "Digital PR Specialist",
+          "Media Monitoring Associate"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Corporate and Civil Law Foundations",
+    "degrees": [
+      {
+        "name": "B.A. LL.B. (Honours)",
+        "interests": [
+          "Civil litigation, constitutional law, human rights, family law property disputes, and policy analysis mixed with civil law foundations"
+        ],
+        "duration": "5 years",
+        "coreSubjects": [
+          "Law of Torts and Consumer Protection",
+          "Law of Contracts",
+          "Code of Civil Procedure (CPC) and Law of Limitation",
+          "Family Law",
+          "Property Law and Easements"
+        ],
+        "entranceExams": ["CLAT", "AILET", "MHCET Law / SLAT / LSAT-India"],
+        "careers": [
+          "Civil Litigator",
+          "Judicial Services Officer",
+          "Legal Associate in Civil Law firms",
+          "In-house Legal Counsel for NGOs"
+        ]
+      },
+      {
+        "name": "B.B.A. LL.B. (Honours)",
+        "interests": [
+          "Corporate law, mergers and acquisitions (M&A), intellectual property rights (IPR), commercial arbitration, and corporate boardroom compliance"
+        ],
+        "duration": "5 years",
+        "coreSubjects": [
+          "Corporate Law / Companies Act provisions",
+          "Law of Banking and Insurance",
+          "Mergers, Acquisitions, and Corporate Restructuring",
+          "Competition Law and Antitrust Regulations",
+          "International Trade Law and ADR"
+        ],
+        "entranceExams": [
+          "CLAT",
+          "AILET",
+          "LSAT-India",
+          "NMIMS-LAT / Symbiosis SLAT"
+        ],
+        "careers": [
+          "Corporate Legal Associate",
+          "Corporate Legal Advisor",
+          "Compliance Officer",
+          "Investment Banking Legal Consultant"
+        ]
+      },
+      {
+        "name": "B.Com. LL.B. (Honours)",
+        "interests": [
+          "Corporate taxation, financial frauds, white-collar crimes, insolvency and bankruptcy proceedings, and forensic auditing"
+        ],
+        "duration": "5 years",
+        "coreSubjects": [
+          "Direct and Indirect Tax Laws (GST, Income Tax)",
+          "Insolvency and Bankruptcy Code (IBC)",
+          "Law of Corporate Finance and Securities",
+          "Forensic Accounting and Economic Offences",
+          "Auditing Foundations"
+        ],
+        "entranceExams": [
+          "CLAT",
+          "State engineering/commerce law joint entry portals"
+        ],
+        "careers": [
+          "Corporate Tax Consultant",
+          "Securities and Capital Markets Attorney",
+          "Insolvency Professional Assistant",
+          "Legal Advisor in Financial Institutions"
+        ]
+      },
+      {
+        "name": "LL.B. (Bachelor of Laws) – Traditional 3-Year Track",
+        "interests": [
+          "Transitioning into corporate or civil law after already having completed a prior bachelor's degree"
+        ],
+        "duration": "3 years",
+        "coreSubjects": [
+          "Constitutional Jurisprudence",
+          "Law of Evidence and Civil Procedure",
+          "Corporate Governance and Company Law",
+          "Environmental Law and Civil Liabilities",
+          "Drafting, Pleading, and Conveyancing"
+        ],
+        "entranceExams": ["CUET PG", "MHCET Law (3-Year)", "NLSAT"],
+        "careers": [
+          "Independent Civil Advocate",
+          "Corporate In-house Consultant",
+          "Legal Executive in PSUs",
+          "Legal Journalist"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) / B.Com. (Hons.) in Legal Studies (Academic Foundation)",
+        "interests": [
+          "Understanding the philosophy of law, legal history, corporate ethics, and paralegal mechanics without wanting to become a practicing courtroom lawyer"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Introduction to the Indian Legal System and Jurisprudence",
+          "Foundations of Corporate Ethics and Governance",
+          "Basics of Civil Rights and Constitutional History",
+          "Paralegal Drafting and Legal Document Verification",
+          "Alternative Dispute Resolution Basics"
+        ],
+        "entranceExams": ["CUET UG"],
+        "careers": [
+          "Corporate Compliance Assistant",
+          "Legal Researcher / Analyst",
+          "Paralegal Executive",
+          "Legal Content Writer"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Linguistics, Translation, and Cultural Training",
+    "degrees": [
+      {
+        "name": "B.A. (Hons.) in Linguistics",
+        "interests": [
+          "Decoding the structural mechanics of human speech, analyzing how languages evolve, understanding language processing in the human brain, or programming AI models for Natural Language Processing (NLP)."
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Phonetics and Phonology",
+          "Morphology and Syntax",
+          "Semantics and Pragmatics",
+          "Sociolinguistics",
+          "Psycholinguistics and Computational Linguistics"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "State-level university merit screening based on Class 12 marks"
+        ],
+        "careers": [
+          "Computational Linguist Assistant",
+          "Language Researcher or Field Ethnographer",
+          "Lexicographer",
+          "Speech-Language Pathology Assistant"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) in Foreign Languages",
+        "interests": [
+          "Achieving native-level fluency in a specific global language (French, German, Mandarin, etc.), moving across international borders, translating documents, and facilitating diplomatic or corporate cross-cultural training."
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Language Grammar and Advanced Writing",
+          "Translation Techniques",
+          "History and Civilization of the Target Region",
+          "Literature and Cultural Expressions",
+          "Interpretation Basics"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Specialized private university tests (e.g., Amity, Symbiosis)"
+        ],
+        "careers": [
+          "Corporate Translator / Interpreter",
+          "Language Analyst in foreign embassies",
+          "Bilingual Customer Success Executive",
+          "Content Localization Specialist"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) / B.Voc in Translation and Interpretation Studies",
+        "interests": [
+          "The practical industry application of rewriting subtitles, translating corporate legal contracts, localizing apps or websites, and working on live conference interpretation platforms."
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Theories of Translation and Machine Translation Tools (CAT tools)",
+          "Subtitling and Audiovisual Localization",
+          "Commercial and Technical Translation",
+          "Cross-Cultural Communication Mechanics",
+          "Proofreading and Editing"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Direct entry merit tracks at vocational and technical community colleges"
+        ],
+        "careers": [
+          "Audiovisual Subtitler / Media Translator",
+          "Localization Project Coordinator",
+          "Freelance Commercial Translator",
+          "Editorial Assistant at translation bureaus"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) in Cultural Studies / Liberal Arts (Cultural Specialisation)",
+        "interests": [
+          "Exploring human heritage, identifying how global media affects culture, managing cross-cultural corporate training modules, or curating international exchange programs."
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Introduction to Culture Theories and Popular Culture",
+          "Gender, Media, and Society",
+          "Globalisation and Transnational Cultural Flows",
+          "Heritage Management and Cultural Tourism",
+          "Intercultural Business Communication"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Ashoka Aptitude Test (AAT)",
+          "FLAME Entrance Test (FEAT)",
+          "Krea Aptitude Test"
+        ],
+        "careers": [
+          "Cross-Cultural Diversity and Inclusion (DEI) Consultant",
+          "International Student Exchange Program Coordinator",
+          "Cultural Program Assistant",
+          "Public Relations Associate for global arts festivals"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Sustainable Development and Environmental Policy",
+    "degrees": [
+      {
+        "name": "B.Sc. (Hons.) / B.A. (Hons.) in Environmental Studies",
+        "interests": [
+          "Studying ecosystems, climate change mechanics, formulating environmental impact assessments (EIA), and studying policy frameworks like the Paris Agreement or India's NGT rules."
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Ecology and Ecosystem Dynamics",
+          "Environmental Chemistry and Pollution Control",
+          "Natural Resource Management",
+          "Environmental Legislation and Policies",
+          "Environmental Impact Assessment (EIA)"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "State or college-specific merit shortlists based on Class 12 board marks"
+        ],
+        "careers": [
+          "Environmental Consultant (Junior Trainee)",
+          "Sustainability Data Analyst",
+          "EIA Assistant",
+          "Research Associate at environmental think tanks"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) / B.Sc. (Hons.) in Sustainable Development",
+        "interests": [
+          "Balancing economic growth with environmental safety, implementing the UN Sustainable Development Goals (SDGs) at corporate levels, and designing green business models and circular economy loops."
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Foundations of Sustainable Development and UN SDGs",
+          "Climate Change Economics and Carbon Accounting",
+          "Renewable Energy Systems and Energy Policy",
+          "Sustainable Cities and Agriculture",
+          "Corporate Social Responsibility (CSR) and Green Management"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Ashoka Aptitude Test (AAT)",
+          "FLAME Entrance Test (FEAT)",
+          "Krea Aptitude Test"
+        ],
+        "careers": [
+          "Sustainability Officer / ESG Associate",
+          "CSR Project Coordinator",
+          "Sustainable Supply Chain Assistant",
+          "Program Executive in climate-focused NGOs"
+        ]
+      },
+      {
+        "name": "Bachelor of Planning (B.Plan) - Environmental Planning Specialization",
+        "interests": [
+          "Designing smart cities, green corridors, sustainable public transit, and creating master plans for cities to tackle urban flooding, heat islands, and waste disposal systems."
+        ],
+        "duration": "4 years",
+        "coreSubjects": [
+          "Evolution of Human Settlements and Planning Theory",
+          "GIS and Remote Sensing",
+          "Urban Environmental Infrastructure",
+          "Planning Legislation and Real Estate",
+          "Disaster Management and Climate Resilient Planning"
+        ],
+        "entranceExams": [
+          "JEE Main (Paper 2B - B.Planning)",
+          "NATA",
+          "State-level engineering entrance exams"
+        ],
+        "careers": [
+          "Urban Planner / Environmental Planner",
+          "GIS Analyst in smart city cells",
+          "Project Associate in infrastructure consulting",
+          "Transport Planning Assistant"
+        ]
+      },
+      {
+        "name": "B.Tech in Environmental Engineering / Geoinformatics",
+        "interests": [
+          "Building practical, technical solutions to fight pollution like designing water treatment plants, or using satellite data and drones to track deforestation and rising sea levels."
+        ],
+        "duration": "4 years",
+        "coreSubjects": [
+          "Water and Wastewater Engineering",
+          "Air Pollution Control and Solid Waste Management",
+          "Remote Sensing and Satellite Photogrammetry",
+          "Environmental Modeling",
+          "Industrial Safety and Hazardous Waste Management"
+        ],
+        "entranceExams": [
+          "JEE Main",
+          "JEE Advanced",
+          "State engineering entrance exams (WBJEE, MHT-CET, COMEDK)"
+        ],
+        "careers": [
+          "Environmental Engineer",
+          "Remote Sensing Specialist",
+          "Water Treatment Plant Operations Manager",
+          "Safety and Compliance Officer"
+        ]
+      },
+      {
+        "name": "B.Voc in Green Energy Technology / Waste Management",
+        "interests": [
+          "Skipping intense theoretical research and diving straight into hands-on operational fieldwork like solar panel installation, maintaining wind turbines, or operating municipal recycling plants."
+        ],
+        "duration": "3 years",
+        "coreSubjects": [
+          "Solar Photovoltaic Systems Installation",
+          "Bio-Energy and Waste-to-Energy Conversion",
+          "Solid and Liquid Waste Segregation",
+          "E-Waste Recycling Systems and Industrial Safety"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Direct merit shortlists based on Class 12 board marks"
+        ],
+        "careers": [
+          "Solar Project Field Supervisor",
+          "Renewable Energy Technical Assistant",
+          "Recycling Operations Coordinator",
+          "Energy Auditor Assistant"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Demographic Studies and Population Analytics",
+    "degrees": [
+      {
+        "name": "B.Sc. (Hons.) / B.A. (Hons.) in Geography (Population & Demography Specialisation)",
+        "interests": [
+          "Studying population distribution, migration trends, urban congestion, and analyzing spatial demographics and census data trends using modern Geographic Information Systems (GIS)."
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Fundamentals of Population Geography",
+          "Cartographic Techniques and Spatial Mapping",
+          "GIS and Remote Sensing",
+          "Human Migration and Urbanisation Dynamics",
+          "Quantitative Techniques and Statistical Geography"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "State or college-specific merit shortlists based on Class 12 board marks"
+        ],
+        "careers": [
+          "Demographic Data Surveyor",
+          "GIS Analyst or Mapping Assistant",
+          "Market Research Assistant",
+          "Spatial Analyst / Census Assistant"
+        ]
+      },
+      {
+        "name": "B.Sc. (Hons.) in Statistics / Applied Statistics",
+        "interests": [
+          "The mathematical and actuarial side of population trends, building life tables, projecting mortality and fertility rates, and mastering big data and survey sampling methodologies."
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Probability Distributions and Statistical Inference",
+          "Vital Statistics and Demography",
+          "Survey Sampling Techniques",
+          "Actuarial Statistics and Risk Modeling",
+          "Computational Statistics (R, Python, SPSS)"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "ISI Admission Test (Indian Statistical Institute)"
+        ],
+        "careers": [
+          "Junior Data Analyst / Statistician",
+          "Risk Assessment Analyst",
+          "Survey Operations Coordinator",
+          "Business Intelligence (BI) Analyst"
+        ]
+      },
+      {
+        "name": "B.Sc. (Hons.) / B.A. (Hons.) in Economics (Quantitative & Development Track)",
+        "interests": [
+          "Understanding how population metrics like aging, dependency ratios, and birth rates shape a nation's economy, analyzing labor supply, and utilizing econometrics to test public welfare outcomes."
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Development Economics",
+          "Mathematical Methods for Economics",
+          "Introductory and Applied Econometrics",
+          "Labor Economics and Human Resource Analytics",
+          "Public Economics and Fiscal Policy"
+        ],
+        "entranceExams": ["CUET UG", "NMIMS-NPAT", "SYMBIOSIS (SET)"],
+        "careers": [
+          "Economic Research Assistant",
+          "Corporate Strategy / Business Operations Analyst",
+          "Policy Tracker for global development groups",
+          "Data Analyst in banking and credit evaluation"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) in Sociology / Social Analytics",
+        "interests": [
+          "Investigating the qualitative and cultural reasons behind population shifts, studying the sociology of families, shifting marriage age trends, gender disparities, and conducting field surveys."
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Sociology of India",
+          "Sociology of Gender, Family, and Kinship",
+          "Methods of Sociological Research",
+          "Urban Sociology and Migration Trends",
+          "Population and Society Core Electives"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Ashoka Aptitude Test (AAT)",
+          "FLAME (FEAT)",
+          "Krea Aptitude Test"
+        ],
+        "careers": [
+          "Social Researcher / Field Coordinator",
+          "Public Health Campaign Assistant",
+          "CSR Executive / Community Engagement Specialist",
+          "Content and Media Analyst for socio-political think tanks"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Heritage Management and Sustainable Tourism",
+    "degrees": [
+      {
+        "name": "Bachelor of Tourism and Travel Management (BTTM)",
+        "interests": [
+          "Managing sustainable travel operations, planning eco-tours, running heritage hotel experiences, and understanding global destination marketing without damaging local ecosystems."
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Tourism Principles, Practices, and Ethics",
+          "Heritage and Cultural Tourism Resources",
+          "Sustainable Tourism and Eco-Tourism Management",
+          "Tour Guiding and Interpretation",
+          "Travel Agency and Tour Operations Management"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "NCHM JEE",
+          "IPU CET",
+          "State or institutional exams"
+        ],
+        "careers": [
+          "Sustainable Tour Operations Executive",
+          "Heritage Destination Manager",
+          "Eco-Tourism Field Coordinator",
+          "Travel Consultant / Inbound Tour Planner"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) / B.Sc. (Hons.) in Heritage Management",
+        "interests": [
+          "Documenting, preserving, and managing cultural, built, and natural heritage sites, handling museum collections, and working with crafts and indigenous communities."
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Introduction to Heritage Management and Conservation Laws",
+          "Inventorying and Archival Methods",
+          "Community-Based Heritage Conservation",
+          "Heritage Tourism and Public Engagement",
+          "Traditional Knowledge Systems and IPR"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Institutional aptitude tests (e.g., Ahmedabad University)"
+        ],
+        "careers": [
+          "Heritage Site Executive",
+          "Curatorial Assistant at private museums",
+          "Cultural Resource Management Trainee",
+          "Archive and Inventory Assistant"
+        ]
+      },
+      {
+        "name": "B.Voc in Travel, Tourism, and Hospitality Management",
+        "interests": [
+          "Acquiring immediate, hands-on field skills like booking global flights via GDS systems, working as a local heritage guide, or managing homestays with less emphasis on theoretical history essays."
+        ],
+        "duration": "3 years",
+        "coreSubjects": [
+          "Itinerary Preparation and Costing Matrix",
+          "Digital Ticketing and Global Distribution Systems (Amadeus/Sabre)",
+          "Homestay and Rural Tourism Logistics",
+          "Customer Relationship Management (CRM) in Hospitality"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Direct merit shortlists based on Class 12 board marks"
+        ],
+        "careers": [
+          "Frontline Heritage Tour Guide",
+          "Homestay Operations Manager",
+          "Ticketing and Reservation Executive",
+          "Event Operations Assistant for cultural festivals"
+        ]
+      },
+      {
+        "name": "B.B.A. in Tourism and Hospitality",
+        "interests": [
+          "The corporate and financial side of the sector—running boutique luxury eco-resorts, analyzing corporate travel budgets, funding conservation projects, and marketing heritage destinations globally."
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Hospitality and Tourism Marketing Strategy",
+          "Financial Accounting and Cost Management",
+          "Human Resource Management in Service Industries",
+          "Entrepreneurship in Sustainable Tourism",
+          "Event and MICE Management"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "NMIMS-NPAT",
+          "SYMBIOSIS (SET)",
+          "Christ University Entrance Test"
+        ],
+        "careers": [
+          "Revenue and Sales Management Trainee",
+          "Corporate Travel Executive",
+          "MICE Event Coordinator",
+          "Marketing Executive for state tourism boards"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Liberal Arts and Multidisciplinary Systems",
+    "degrees": [
+      {
+        "name": "B.A. / B.Sc. in Liberal Arts (Hons.)",
+        "interests": [
+          "Crafting a highly unique major/minor combination (e.g., majoring in Computer Science while minoring in Philosophy)",
+          "Solving modern, complex human problems using multiple academic angles rather than a single discipline",
+          "Keeping career choices completely fluid across tech, management, creative writing, or public service"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Critical Thinking and Quantitative Reasoning",
+          "Environmental Studies and Literature",
+          "Custom Major/Minor Pathways",
+          "History of Science and Expressive Arts"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Ashoka Aptitude Test (AAT)",
+          "FLAME Entrance Test (FEAT)",
+          "JSAT (Jindal Scholastic Aptitude Test)"
+        ],
+        "careers": [
+          "Strategy Consultant",
+          "Corporate Communications Specialist",
+          "Policy Analyst",
+          "Digital Content and UX Researcher"
+        ]
+      },
+      {
+        "name": "Bachelor of Liberal Arts / Liberal Studies (BLA / BLS)",
+        "interests": [
+          "Fully immersive, humanities-first intellectual training",
+          "Developing superior capabilities in writing, debating, analytical research, and cross-cultural workplace communication",
+          "Pursuing global corporate fellowships or international Ivy League master's tracks"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Classical Literature and Rhetoric",
+          "Comparative Religion and Global Civilizations",
+          "Ethics, Jurisprudence, and Social Philosophy",
+          "Qualitative Field Research and Ethnography"
+        ],
+        "entranceExams": [
+          "Christ University Entrance Test",
+          "Xavier Admissions Test",
+          "SAT India / Pearson Undergraduate Entrance Exam"
+        ],
+        "careers": [
+          "Speechwriter / Executive Assistant to C-Suite Leaders",
+          "Public Relations Client Manager",
+          "Creative Director",
+          "Human Resources Specialist"
+        ]
+      },
+      {
+        "name": "Integrated Five-Year Dual Degree (BA-MA / B.Sc.-M.Sc.) in Interdisciplinary Studies",
+        "interests": [
+          "Eliminating the stress of securing post-graduate admission and ensuring an uninterrupted 5-year academic run",
+          "Deep-diving into high-level thematic research early (e.g., Gender Studies, Cognitive Sciences, or Global Development)"
+        ],
+        "duration": "5 years",
+        "coreSubjects": [
+          "Advanced Interdisciplinary Research Methodologies",
+          "Applied Data Statistics for Social Sciences",
+          "Global Political Economy and Resource Distribution",
+          "Dissertation and Field Practicum"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Institutional aptitude tests conducted by state or autonomous institutes"
+        ],
+        "careers": [
+          "Senior Fellow at international think tanks",
+          "Quantitative Researcher for developmental programs",
+          "Corporate Sustainability (ESG) Advisor",
+          "Academician / University Lecturer"
+        ]
+      },
+      {
+        "name": "B.Voc in Applied Liberal Arts and Social Entrepreneurship",
+        "interests": [
+          "Blending the open-mindedness of a liberal arts perspective with practical, execution-heavy business mechanics",
+          "Setting up your own social enterprise, NGO, or modern digital creative agency straight out of college"
+        ],
+        "duration": "3 years",
+        "coreSubjects": [
+          "Design Thinking and Product Prototyping",
+          "Principles of Social Entrepreneurship and Crowdfunding",
+          "Corporate Governance and Small Business Legalities",
+          "Digital Marketing and Social Media Management"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Direct institutional merit verification matching Class 12 board marks"
+        ],
+        "careers": [
+          "Social Startup Founder",
+          "NGO Grant Writer and Funding Coordinator",
+          "Community Program Manager",
+          "Incubation Center Associate"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Human Resource Administration and Labor Studies",
+    "degrees": [
+      {
+        "name": "B.B.A. (Hons.) in Human Resource Management",
+        "interests": [
+          "Managing corporate talent, designing employee compensation packages, and structuring workplace training programs",
+          "Developing company workplace cultures, handling employee performance tracking, and optimizing talent hiring"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Foundations of Human Resource Management",
+          "Organizational Behaviour and Workplace Dynamics",
+          "Compensation and Benefits Management",
+          "Performance Management Systems",
+          "Talent Acquisition and Strategic Workforce Planning"
+        ],
+        "entranceExams": [
+          "NMIMS-NPAT",
+          "SYMBIOSIS (SET)",
+          "CUET UG",
+          "Christ University Entrance Test"
+        ],
+        "careers": [
+          "HR Generalist",
+          "Talent Acquisition Specialist",
+          "Compensation and Benefits Analyst",
+          "Corporate Training Coordinator"
+        ]
+      },
+      {
+        "name": "B.A. / B.Sc. (Hons.) in Industrial Relations and Labor Studies",
+        "interests": [
+          "Resolving workplace conflicts, negotiating collective bargaining agreements, and dealing with labor trade unions",
+          "Protecting worker rights, understanding fair wages, and auditing factory conditions to ensure ethical labor practices"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Dynamics of Industrial Relations",
+          "Labor Economics and Trade Unionism",
+          "Collective Bargaining and Dispute Settlement Mechanisms",
+          "Industrial Sociology and Worker Welfare",
+          "International Labor Standards (ILO Frameworks)"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Institutional merit screening or direct board marks shortlists"
+        ],
+        "careers": [
+          "Industrial Relations Officer",
+          "Labor Welfare Officer",
+          "Employee Relations Specialist",
+          "Personnel Executive in PSUs"
+        ]
+      },
+      {
+        "name": "Five-Year Integrated B.B.A. LL.B. (Specialization in Labor and Employment Law)",
+        "interests": [
+          "Masterfully navigating employment contracts, wage disputes, wrongful termination lawsuits, and corporate compliance with state labor codes",
+          "Advising corporate boardrooms on legal safety laws, POSH compliance, and trade union rules"
+        ],
+        "duration": "5 years",
+        "coreSubjects": [
+          "General Principles of Corporate Law",
+          "Law of Industrial Disputes and Trade Unions",
+          "Social Security Legislations (PF, ESI, Gratuity)",
+          "Law of Wages and Bonus Provisions",
+          "POSH Act Jurisprudence"
+        ],
+        "entranceExams": ["CLAT", "AILET", "LSAT-India", "Symbiosis SLAT"],
+        "careers": [
+          "Labor and Employment Law Advocate",
+          "In-House Employment Counsel for MNCs",
+          "Labor Compliance Officer",
+          "HR Advisory Specialist at law firms"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) in Applied Psychology / Sociology (With Organizational Electives)",
+        "interests": [
+          "Understanding the psychological mindsets behind worker motivation, fighting employee burnout, and decoding consumer behavior",
+          "Studying the sociology of workspaces, diversity and inclusion parameters, and multi-cultural workforces"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Industrial / Organizational Psychology",
+          "Psychometrics and Assessment Centers",
+          "Sociology of Work and Organizations",
+          "Corporate Ethics and Workplace Counseling",
+          "Diversity, Equity, and Inclusion (DEI) Foundations"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Ashoka Aptitude Test (AAT)",
+          "FLAME Entrance Test (FEAT)",
+          "Krea Aptitude Test"
+        ],
+        "careers": [
+          "Employee Wellness Coordinator",
+          "Diversity and Inclusion Program Analyst",
+          "HR Assessment Coordinator",
+          "Internal Branding Associate"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Applied Behavioral Design and Consumer Psychology",
+    "degrees": [
+      {
+        "name": "B.Sc. / B.A. (Hons.) in Applied Psychology (Consumer or Organizational Track)",
+        "interests": [
+          "Decoding the hidden psychological triggers behind why humans buy specific products",
+          "Conducting focus groups, eye-tracking studies, and psychological experiments to test brand perception",
+          "Investigating cognitive biases, advertising mechanics, and emotional branding strategies"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Foundations of Cognitive Psychology and Perception",
+          "Consumer Behavior and Market Dynamics",
+          "Psychometrics and Behavioral Assessment",
+          "Advertising Psychology and Brand Rhetoric",
+          "Quantitative Research Methods (SPSS/R)"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Christ University Entrance Test",
+          "NMIMS-NPAT"
+        ],
+        "careers": [
+          "Consumer Insights Analyst",
+          "Market Research Associate",
+          "Brand Strategy Assistant",
+          "Advertising Account Executive"
+        ]
+      },
+      {
+        "name": "Bachelor of Design (B.Des.) in Interaction Design / User Experience (UX) Design",
+        "interests": [
+          "Applying behavioral design to digital spaces—structuring apps to make users scroll longer or click buy buttons faster",
+          "Designing user journeys, app wireframes, and digital interfaces based on cognitive ergonomics"
+        ],
+        "duration": "4 years",
+        "coreSubjects": [
+          "Human-Computer Interaction (HCI) Principles",
+          "Cognitive Psychology in Design and Visual Perception",
+          "User Research Methodologies and Persona Mapping",
+          "Information Architecture and Wireframing",
+          "Usability Testing and Behavioral Analytics"
+        ],
+        "entranceExams": ["UCEED", "NID DAT", "SEED", "NIFT Entrance Exam"],
+        "careers": [
+          "UX/UI Researcher",
+          "Interaction Designer",
+          "Product Design Associate",
+          "Digital Usability Analyst"
+        ]
+      },
+      {
+        "name": "B.Sc. / B.A. (Hons.) in Behavioral Economics / Social Analytics",
+        "interests": [
+          "Merging economics with psychology to understand irrational decision-making patterns",
+          "Designing 'nudges' for corporate systems, fintech applications, or government welfare programs",
+          "Working with data to predict financial spending patterns and choice architecture"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Microeconomic Foundations and Choice Theory",
+          "Behavioral Economics and Bounded Rationality",
+          "Heuristics, Cognitive Biases, and Nudge Theory",
+          "Game Theory and Strategic Human Interaction",
+          "Experimental Economics and Data Coding (Python/R)"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "FLAME Entrance Test (FEAT)",
+          "Ashoka Aptitude Test (AAT)",
+          "Krea Aptitude Test"
+        ],
+        "careers": [
+          "Behavioral Data Analyst",
+          "Nudge Unit Project Assistant",
+          "Pricing Analyst",
+          "Product Growth Associate"
+        ]
+      },
+      {
+        "name": "B.B.A. (Hons.) in Marketing and Consumer Insights",
+        "interests": [
+          "The business-heavy deployment of consumer psychology",
+          "Managing digital growth hacking loops, content engagement algorithms, and corporate product positioning",
+          "Tracking return on investment (ROI) for large-scale consumer behavioral campaigns"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Principles of Marketing Management",
+          "Digital Marketing Analytics and SEO Architecture",
+          "Consumer Psychology and Predictive Intelligence",
+          "Product and Brand Management",
+          "Marketing Research and Big Data Tracking"
+        ],
+        "entranceExams": ["NMIMS-NPAT", "SYMBIOSIS (SET)", "CUET UG"],
+        "careers": [
+          "Growth Hacker",
+          "Brand Specialist",
+          "Customer Experience (CX) Coordinator",
+          "Marketing Data Modeler"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Digital Humanities and Data Curation",
+    "degrees": [
+      {
+        "name": "B.A. / B.Sc. (Hons.) in Digital Humanities",
+        "interests": [
+          "Using computer tools, coding, and AI to analyze historical texts, literature, and cultural trends",
+          "Mapping cultural data, creating digital historical timelines, and investigating how social media alters human communication"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Introduction to Digital Humanities and Cultural Analytics",
+          "Coding for Humanists (Python, HTML, Markdown)",
+          "Text Mining and Natural Language Processing (NLP)",
+          "GIS and Spatial Humanities",
+          "Ethics of Big Data and Privacy"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Ashoka Aptitude Test (AAT)",
+          "FLAME Entrance Test (FEAT)",
+          "Krea Aptitude Test"
+        ],
+        "careers": [
+          "Digital Content and Media Researcher",
+          "Junior Data Analyst (Cultural Fields)",
+          "UX/UI Researcher",
+          "Digital Archivist"
+        ]
+      },
+      {
+        "name": "B.Sc. (Hons.) in Data Science and Humanities (Hybrid Track)",
+        "interests": [
+          "The computational side of human records—handling massive social datasets and cultural archives",
+          "Building algorithms to spot trends in historical records, museum logs, and public surveys",
+          "Merging heavy data science foundations with social logic"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Data Structures and Object-Oriented Programming",
+          "Statistical Analysis for Social Systems",
+          "Data Visualization Tools (Tableau, PowerBI)",
+          "Computational Social Sciences",
+          "Machine Learning Models in Culture and Language"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Shiv Nadar University (SNUSAT)",
+          "NMIMS Portals"
+        ],
+        "careers": [
+          "Data Visualization Specialist",
+          "Business Intelligence Analyst",
+          "Data Consultant for think tanks",
+          "Applied Data Scientist"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) in Library Science and Information Management / Digital Archivism",
+        "interests": [
+          "Preserving digital historical records, old manuscripts, rare art collections, and institutional databases",
+          "Setting up cloud-based metadata systems, building online public catalogs, and managing corporate digital assets"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Foundations of Information Management",
+          "Metadata Standards (Dublin Core, XML) and Cataloging",
+          "Database Management Systems (SQL and NoSQL)",
+          "Digital Preservation and Cybersecurity Basics",
+          "Open Access Systems and Intellectual Property Rights"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Regional state university merit list cutoffs"
+        ],
+        "careers": [
+          "Digital Asset Manager (DAM)",
+          "Data Curator in national libraries",
+          "Information Management Executive",
+          "Records Compliance Officer"
+        ]
+      },
+      {
+        "name": "B.Voc in Digital Media Production and Archiving",
+        "interests": [
+          "Gaining purely practical skills, skipping deep history essays, and focusing entirely on managing files, editing data, and digitizing physical content",
+          "Scanning ancient documents, restoring corrupted video/audio clips, and indexing media assets for newsrooms"
+        ],
+        "duration": "3 years",
+        "coreSubjects": [
+          "Digital Scanning and Document Restoration",
+          "Audio-Visual File Encoding and Compression",
+          "Media Asset Management (MAM) Systems",
+          "Cloud Storage Basics and File Tagging Logistics"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Direct vocational merit criteria checked by community colleges"
+        ],
+        "careers": [
+          "Media Archivist",
+          "Content Tagger for OTT platforms",
+          "Digital Records Technician",
+          "Technical Assistant in broadcasting libraries"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Archeological Science and Epigraphy",
+    "degrees": [
+      {
+        "name": "B.A. (Hons.) / B.Sc. (Hons.) in Archaeology and Ancient History",
+        "interests": [
+          "Participating in live field excavations, identifying historic strata, and uncovering material ruins",
+          "Analyzing the evolution of early human settlements, trade routes, and weapon technologies",
+          "Merging historical literature with real, physical field discoveries"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Principles and Methods of Archaeology",
+          "Prehistoric and Protohistoric Cultures of India",
+          "Architectural and Iconographic Traditions",
+          "Field Surveying, Grid Mapping, and Documentation",
+          "Environmental Archaeology and Geoarchaeology"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "State or college-specific entrance tests (e.g., Maharaja Sayajirao University of Baroda or University of Calcutta)"
+        ],
+        "careers": [
+          "Archaeological Field Assistant / Excavation Trainee",
+          "Cultural Resource Management (CRM) Consultant",
+          "Site Documentation Specialist / Illustrator",
+          "Heritage Site Walk Leader / Tour Coordinator"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) / B.Sc. (Hons.) in Epigraphy and Heritage Studies",
+        "interests": [
+          "Deciphering ancient writing systems like Brahmi, Kharosthi, or Indus scripts",
+          "Studying edicts carved on temple walls, stone pillars, and copper plates to reconstruct political timelines",
+          "Analyzing ancient currencies (Numismatics) to decode historic economic structures"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Paleography (Evolution of Ancient Scripts)",
+          "Indian Epigraphy: Royal Edicts and Inscriptions",
+          "Introduction to Numismatics (Ancient Indian Coins)",
+          "Classical Languages (Basics of Sanskrit, Prakrit, Tamil, or Pali)",
+          "Archival Conservation and Digitization of Inscriptions"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Institutional merit-list criteria based on Class 12 board marks"
+        ],
+        "careers": [
+          "Epigraphical Research Assistant",
+          "Document and Manuscript Conservator",
+          "Coin/Numismatic Cataloger for auction houses and museums",
+          "Archival Record Assistant"
+        ]
+      },
+      {
+        "name": "B.Sc. (Hons.) in Anthropology (Physical and Archaeological Track)",
+        "interests": [
+          "Examining human skeletal remains (Osteology) to determine age, sex, and ancient diseases",
+          "Applying forensics and biological sciences directly to historical and archaeological field contexts",
+          "Studying the material culture, fossil records, and evolutionary biology of early human species"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Archaeological Anthropology and Material Culture",
+          "Human Osteology and Forensic Anthropology",
+          "Physical Anthropology and Human Evolution",
+          "Research Methods and Statistical Fieldwork",
+          "Biomolecular Archaeology and Genetics Basics"
+        ],
+        "entranceExams": ["CUET UG", "State university common entrance exams"],
+        "careers": [
+          "Bioarchaeological Field Assistant",
+          "Forensic Lab Assistant (Junior track)",
+          "Laboratory Technician in Anthropological Surveys",
+          "Research Intern at paleosciences institutions"
+        ]
+      },
+      {
+        "name": "B.Voc (Bachelor of Vocation) in Excavation Technology and Material Conservation",
+        "interests": [
+          "Acquiring direct, vocational field skills without writing heavy historical philosophy essays",
+          "Learning how to handle delicate excavation tools, cleaning chemical crusts off artifacts, and using ground-penetrating radar",
+          "Getting into the field early via technical and operational execution roles"
+        ],
+        "duration": "3 years",
+        "coreSubjects": [
+          "Trenching Layouts and Stratigraphic Excavation Methods",
+          "Chemical Conservation of Metallic, Terracotta, and Bone Artifacts",
+          "Archaeological Photography and 3D Site Scanning",
+          "Total Station Surveying and GIS Mapping"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Direct skill-merit quotas verified by community or vocational training colleges"
+        ],
+        "careers": [
+          "Archaeological Excavation Technician",
+          "Artifact Conservation Assistant",
+          "3D Spatial Scanner / Drone Survey Assistant",
+          "Site Preservation Coordinator"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Defense, Strategic, and National Security Studies",
+    "degrees": [
+      {
+        "name": "B.A. (Hons.) / B.Sc. (Hons.) in Defense and Strategic Studies",
+        "interests": [
+          "Studying military history, battle tactics, weapons logistics, and war theories",
+          "Analyzing land, air, and maritime border threats, especially concerning India’s neighbors",
+          "Preparing a solid academic foundation for entering the Indian Armed Forces or clearing defense civil exams"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Evolution of Warfare and Military History of India",
+          "Strategic Thought (Kautilya, Clausewitz, Sun Tzu)",
+          "National Security Architecture and Internal Security of India",
+          "Nuclear Warfare, Deterrence, and Disarmament Doctrines",
+          "War and International Law"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "State or college-specific merit criteria based on Class 12 board marks"
+        ],
+        "careers": [
+          "Direct Entry Aspirant for the Indian Armed Forces (via CDSE / AFCAT / NCC)",
+          "Junior Defense and Security Analyst",
+          "Intelligence Analyst Trainee",
+          "Defense Content Writer or Media Reporter"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) / B.Sc. (Hons.) in National Security Studies / Homeland Security",
+        "interests": [
+          "Unconventional, internal, and modern security threats like terrorism, left-wing extremism, and cross-border drug smuggling",
+          "Understanding disaster management, critical infrastructure protection, and civil defense mechanisms",
+          "Working closely with internal law enforcement or security intelligence operations"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Fundamentals of Homeland Security and Border Management",
+          "Terrorism, Counter-Terrorism, and Insurgency Matrix",
+          "Disaster Management, Crisis Response, and Mitigation",
+          "Crowd Management, Intelligence, and Counter-Intelligence",
+          "Policing Systems and Crime Prevention in India"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "RRU CET / Direct Merit Tracks (Rashtriya Raksha University)"
+        ],
+        "careers": [
+          "Security Executive in Corporate Risk Management",
+          "Operations Coordinator in Private Security and Investigation Firms",
+          "State Police or Central Armed Police Forces (CAPF) Aspirant",
+          "Aviation/Maritime Cargo Security Executive"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) / B.Tech in Cyber Security and Defense Technologies (Hybrid Tracks)",
+        "interests": [
+          "Fighting non-physical modern wars, such as state-sponsored hacking, ransomware threats, and disinformation campaigns",
+          "Operating and tracking data from defense tech like military drones, satellite tracking, and radar networks",
+          "Blending technology with strategic military policy"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Cyber Warfare and Digital Forensics",
+          "Cryptography, Network Security, and Ethical Hacking",
+          "Information Warfare and Social Media Manipulation Tracking",
+          "Drone Technology and Spatial Defense Systems",
+          "Electronic Warfare and Threat Intelligence Analytics"
+        ],
+        "entranceExams": [
+          "JEE Main & JEE Advanced (for B.Tech)",
+          "CUET UG or RRU Entry Exams (for B.A./B.Sc.)"
+        ],
+        "careers": [
+          "Cyber Security Analyst / Threat Hunter",
+          "Drone Operations and Data Analyst",
+          "Digital Forensics Assistant",
+          "Corporate IT Risk Auditor"
+        ]
+      },
+      {
+        "name": "B.Voc (Bachelor of Vocation) in Corporate Security and Emergency Management",
+        "interests": [
+          "Skipping long, theoretical history essays and jumping straight into hands-on tactical skills",
+          "Managing industrial safety, fire systems, electronic surveillance (CCTV), and executive body protection protocols",
+          "Breaking into the highly lucrative private corporate security industry quickly"
+        ],
+        "duration": "3 years",
+        "coreSubjects": [
+          "Industrial Security and Asset Protection Systems",
+          "Access Control, CCTV Surveillance, and Smart Building Automation",
+          "First Aid, Fire Fighting, and Life Safety Protocols",
+          "Event Security Logistics and VVIP Movement Planning"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Direct skill-merit quotas checked by community, vocational, or security police colleges"
+        ],
+        "careers": [
+          "Corporate Security Officer (CSO)",
+          "Facility Emergency Response Manager",
+          "Loss Prevention Executive for retail/logistics giants",
+          "Executive Protection / Security Coordinator"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Criminology and Forensic Behavioral Analytics",
+    "degrees": [
+      {
+        "name": "B.Sc. (Hons.) / B.A. (Hons.) in Criminology",
+        "interests": [
+          "Studying the root social and environmental causes of crime",
+          "Understanding prison administration, juvenile delinquency patterns, and rehabilitation models",
+          "Analyzing victimology and the mechanics of the criminal justice system"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Foundations of Criminology and Penology",
+          "Criminal Justice System and Judicial Architecture",
+          "Juvenile Delinquency and Justice Systems",
+          "Victimology and Human Rights Laws",
+          "Forms of Crime (White-Collar, Cyber, and Organised Crime)"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "NFAT (National Forensic Admission Test by NFSU)",
+          "RRU CET / Direct Merit Tracks (Rashtriya Raksha University)"
+        ],
+        "careers": [
+          "Crime Analyst / Data Tracker",
+          "Prison Welfare or Rehabilitation Assistant",
+          "Private Investigator / Legal Researcher",
+          "Probation Assistant Officer"
+        ]
+      },
+      {
+        "name": "B.Sc. (Hons.) in Forensic Psychology",
+        "interests": [
+          "Assessing the mental states of criminals, suspects, and witnesses during investigations",
+          "Learning how psychological testing is utilized to determine legal competency and sanity",
+          "Assisting senior experts in profiling criminal behaviors and conducting forensic interviews"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Introduction to Forensic Psychology and Cognitive Processes",
+          "Abnormal Psychology and Criminal Psychopathology",
+          "Psychological Profiling and Threat Assessment",
+          "Investigative Interviewing Techniques and Eyewitness Testimony",
+          "Research Methods and Psychometrics in Forensic Contexts"
+        ],
+        "entranceExams": ["NFAT (NFSU)", "CUET UG"],
+        "careers": [
+          "Forensic Psychologist Assistant",
+          "Intake Coordinator at Correctional facilities",
+          "Behavior Technician in psychological rehabilitation centers",
+          "Research Assistant in forensic neuroscience labs"
+        ]
+      },
+      {
+        "name": "B.Sc. (Hons.) in Forensic Science (with Behavioral/Digital Specialization)",
+        "interests": [
+          "Combining physical laboratory science (DNA, fingerprints, toxicology) with criminal behavior analytics",
+          "Gathering hard scientific data from a crime scene to prove or disprove a suspect's behavioral alibi",
+          "Working directly within state or central forensic science laboratories"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Criminalistics and Crime Scene Management",
+          "Forensic Biology, Serology, and DNA Profiling",
+          "Questioned Documents and Fingerprint Impressions",
+          "Forensic Toxicology and Pharmacology",
+          "Elements of Forensic Behavioral Analytics"
+        ],
+        "entranceExams": [
+          "NFAT (NFSU)",
+          "CUET UG",
+          "State-level university common entrance screening"
+        ],
+        "careers": [
+          "Forensic Lab Assistant / Technician",
+          "Crime Scene Investigator (CSI) Trainee",
+          "Evidence Custodian / Documentation Officer",
+          "Fingerprint Analyst in private security firms"
+        ]
+      },
+      {
+        "name": "B.Sc. (Hons.) in Digital Forensics and Cyber Criminology",
+        "interests": [
+          "Analyzing the digital behaviors, footprints, and motivations of cybercriminals, hackers, and online fraudsters",
+          "Extracting, preserving, and decoding evidence from hard drives, mobile phones, and cloud networks",
+          "Tracking online threat actors using digital forensic software"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Introduction to Cyber Criminology and Online Anomalies",
+          "Computer and Mobile Device Forensics",
+          "Network Security and Ethical Hacking Foundations",
+          "Digital Evidence Extraction and Chain of Custody",
+          "IT Act and Cyber Laws in India"
+        ],
+        "entranceExams": ["NFAT or RRU Entry Exams", "CUET UG or JEE Main"],
+        "careers": [
+          "Cyber Forensic Analyst",
+          "Incident Response Technician",
+          "Digital Evidence Examiner for corporate legal teams",
+          "Threat Intelligence Analyst Trainee"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) in Police Administration and Behavioral Policing",
+        "interests": [
+          "Understanding the organizational behavior of police forces and how they interact with communities",
+          "Studying crowd psychology, de-escalation tactics, and modern policing methods",
+          "Preparing a practical foundation for competitive exams to join the state police or CAPF"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Principles of Police Administration and Intelligence",
+          "Criminal Law, Indian Penal Code, and CrPC Basics",
+          "Crowd Psychology and Public Order Management",
+          "Human Behavior and Community Policing Frameworks",
+          "Forensic Science Basics for Police Officers"
+        ],
+        "entranceExams": ["RRU CET / Direct Merit Tracks", "CUET UG"],
+        "careers": [
+          "Security Executive in Corporate Risk Intelligence",
+          "Direct Entry Aspirant for State Police Services or UPSC CAPF",
+          "Vigilance Officer Assistant in corporate structures",
+          "Operations Coordinator in private security networks"
+        ]
+      },
+      {
+        "name": "B.Voc (Bachelor of Vocation) in Forensic Investigation and Security Operations",
+        "interests": [
+          "Skipping long, theoretical history essays and focusing entirely on hands-on investigative methods",
+          "Learning how to handle corporate fraud investigations, operate CCTV analytic software, and protect physical assets",
+          "Entering the private corporate security and risk management industry immediately"
+        ],
+        "duration": "3 years",
+        "coreSubjects": [
+          "Physical Security and Asset Protection Systems",
+          "CCTV Analytics and Smart Surveillance Operations",
+          "Corporate Fraud and Private Investigation Techniques",
+          "Disaster Response and First Aid Protocols"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Institutional-level direct vocational merit lists based on Class 12 marks"
+        ],
+        "careers": [
+          "Corporate Security Officer (CSO)",
+          "Loss Prevention Specialist",
+          "Private Fraud Investigator Trainee",
+          "Risk and Compliance Assistant"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Creative Writing, Comparative Literature, and Editing",
+    "degrees": [
+      {
+        "name": "B.A. (Hons.) in English with specialization in Creative Writing",
+        "interests": [
+          "Writing original fiction, poetry, scriptwriting, and drama while building an elite vocabulary and analyzing classical literature"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Foundations of Creative Writing (Poetry and Prose)",
+          "Short Story Writing and Novella Structures",
+          "Scriptwriting and Playwriting Aesthetics",
+          "Literary Genres and Form Analysis",
+          "Copywriting and Brand Storytelling"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Institutional tests for top-tier private universities (e.g., Christ University, Symbiosis)"
+        ],
+        "careers": [
+          "Content Writer / Copywriter",
+          "Script Analyst / Junior Screenwriter",
+          "Creative Content Producer for digital media",
+          "Independent Author / Poet"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) in Comparative Literature",
+        "interests": [
+          "Studying how literature crosses borders, comparing texts across different languages, and exploring cultural connections between global and regional Indian literatures"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Principles of Comparative Literature and Historiography",
+          "Translation Studies: Theory and Methods",
+          "Cross-Cultural Literary Movements",
+          "Indian Literature in Translation",
+          "World Literature and Global Narratives"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Institutional entrance tests (e.g., Jadavpur University or University of Calcutta)"
+        ],
+        "careers": [
+          "Literary Critic / Reviewer",
+          "Cultural Program Coordinator",
+          "Publishing Assistant in international publishing houses",
+          "Research Assistant in humanities research bodies"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) in English and Cultural Studies",
+        "interests": [
+          "Deconstructing how popular media, movies, graphic novels, and digital cultures impact language, text curation, and modern storytelling styles"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Introduction to Cultural Theory and Textual Criticism",
+          "Popular Culture, Media, and Society",
+          "Representation of Gender and Identity in Literature",
+          "Post-Colonial Literature and Diaspora Writing",
+          "Visual Culture and Film Studies"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Ashoka Aptitude Test (AAT)",
+          "FLAME (FEAT)",
+          "Krea Aptitude Test"
+        ],
+        "careers": [
+          "Media Researcher / Trend Analyst",
+          "Content Strategist for creative digital agencies",
+          "Arts Administrator / Curator",
+          "Arts and Culture Journalist"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) in Journalism and Mass Communication (with Editing elective track)",
+        "interests": [
+          "The highly structured, technical side of media text manipulation—sub-editing, copy editing, fact-checking, page layout designing, and writing sharp headlines"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Reporting and News Editing Dynamics",
+          "Advanced Copy Editing and Fact-Checking Protocols",
+          "Layout, Typography, and Page Design (InDesign / QuarkXPress)",
+          "Media Laws, Ethics, and Copyright Frameworks",
+          "Feature Writing and Editorial Production"
+        ],
+        "entranceExams": ["IPU CET", "SYMBIOSIS (SET)", "CUET UG"],
+        "careers": [
+          "Sub-Editor / Copy Editor for newspapers and news portals",
+          "Fact-Checker / Proofreader",
+          "Digital Managing Editor (Junior track)",
+          "Publishing Associate"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) / B.Sc. (Hons.) in Digital Humanities",
+        "interests": [
+          "Merging text formatting and editorial curation with computational data—such as building digital libraries, scanning old manuscripts, or analyzing massive literary datasets via code"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Introduction to Digital Humanities and Cultural Analytics",
+          "Coding for Text Editing (Python, HTML, Markdown, XML)",
+          "Digital Text Mining and Natural Language Processing (NLP) foundations",
+          "Metadata Standards and Electronic Publishing",
+          "Ethics of Digital Curation and Intellectual Property Rights"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "SNUSAT (Shiv Nadar University)",
+          "AAT (Ashoka University)"
+        ],
+        "careers": [
+          "Digital Asset Manager (DAM)",
+          "Content Curation Associate for OTT or web ecosystems",
+          "Digital Archivist / Technical Editor",
+          "Metadata Analyst in academic publishing"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) in Translation and Interpretation Studies",
+        "interests": [
+          "Rewriting and localizing literary texts, subtitles, corporate documents, or legal contracts from a source language to a target language with absolute grammatical precision"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Theories of Translation and Language Transcreation",
+          "Audiovisual Localization and Subtitling Mechanics",
+          "Commercial, Technical, and Literary Translation",
+          "Computer-Assisted Translation (CAT Tools) and Machine Translation Editing",
+          "Cross-Cultural Rhetoric and Style Guides"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Merit shortlists or institutional aptitude screenings"
+        ],
+        "careers": [
+          "Audiovisual Subtitler / Media Translator",
+          "Localization Editor",
+          "Freelance Book/Literary Translator",
+          "Content Editor for multinational language bureaus"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) in Liberal Arts / Liberal Studies (Major in English/Creative Writing)",
+        "interests": [
+          "A highly flexible, interdisciplinary curriculum where you can couple your creative writing or editing major with minor subjects like Psychology, Marketing, or Performing Arts"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Critical Thinking, Logic, and Rhetoric (Foundation tier)",
+          "Advanced Analytical and Expressive Writing",
+          "Genre Crossover Workshop (Fiction, Non-Fiction, Poetry)",
+          "Philosophy of Art and Aesthetics",
+          "Senior Creative Writing / Editorial Capstone Thesis"
+        ],
+        "entranceExams": [
+          "AAT (Ashoka University)",
+          "FEAT (FLAME University)",
+          "JSAT (O.P. Jindal Global University)",
+          "Krea Aptitude Test"
+        ],
+        "careers": [
+          "Corporate Strategy / Content Consultant",
+          "C-Suite Speechwriter / Executive Communications Specialist",
+          "Ghostwriter / Creative Director Trainee",
+          "NGO Grant Writer / Communications Lead"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) in Functional English / Communicative English",
+        "interests": [
+          "Practical, corporate deployment of writing skills—such as technical documentation, creative copywriting for business ads, content checking, and editing business proposals"
+        ],
+        "duration": "3 years",
+        "coreSubjects": [
+          "Business Communication and Corporate Rhetoric",
+          "Technical Writing, Manual Creation, and Document Editing",
+          "Remedial Grammar and Practical Copy Editing",
+          "Creative Advertising and PR Writing",
+          "Media Writing and Electronic Communication"
+        ],
+        "entranceExams": ["CUET UG", "State-level common entrance systems"],
+        "careers": [
+          "Technical Writer / Documentation Specialist",
+          "Corporate Editor / Communications Associate",
+          "Copywriter / Advertising Account Executive",
+          "Instructional Designer (Junior track)"
+        ]
+      },
+      {
+        "name": "B.Voc (Bachelor of Vocation) in Digital Media Production and Content Curation",
+        "interests": [
+          "Dropping intense theoretical lectures and jumping straight into hands-on text management, running blogs, editing scripts via software, and packaging multimedia content"
+        ],
+        "duration": "3 years",
+        "coreSubjects": [
+          "Content Writing for Digital Formats (Blogs, Social Media)",
+          "Content Management Systems (WordPress, Drupal, SEO tools)",
+          "Proofreading, Fact-Checking, and Web Style Management",
+          "Basic Video/Audio Scripting and Timeline Editing",
+          "Social Media Algorithms and Content Formatting"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Direct skill-merit checklists verified by participating community and vocational colleges"
+        ],
+        "careers": [
+          "Digital Content Editor / Web Publisher",
+          "Social Media Content Curator",
+          "SEO Content Specialist",
+          "Media Asset Assistant"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) in Linguistics and Language Curation",
+        "interests": [
+          "The scientific and analytical anatomy of writing—studying sentence syntax, semantic meaning, and phonetic patterns, which helps you become a master stylistic copy editor or lexicographer"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Morphology and Syntax (Word/Sentence Architecture)",
+          "Semantics and Pragmatics (Meaning and Context Analysis)",
+          "Sociolinguistics and Stylistics (Language variations in texts)",
+          "Principles of Lexicography (Dictionary curation)",
+          "Language Editing, Coding, and Text Standardization"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Merit lists based on regional Class 12 board marks"
+        ],
+        "careers": [
+          "Stylistic Copy Editor / Editorial Consultant",
+          "Lexicographer Assistant (Dictionary compilation)",
+          "Content Localization Analyst",
+          "Language Data Evaluator (for tech or automated translation firms)"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Philosophy, Logic, and Cognitive Ethics",
+    "degrees": [
+      {
+        "name": "B.A. (Hons.) in Philosophy",
+        "interests": [
+          "Exploring fundamental questions about existence, knowledge, morality, and the mind",
+          "Mastering classical Eastern and Western philosophical frameworks",
+          "Building a strong foundation for civil services or academic research"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Classical Indian Philosophy (Vedas, Upanishads, Buddhism, Jainism)",
+          "Western Philosophy (Greek, Modern Rationalism, Existentialism)",
+          "Ethics (Meta-ethics, Normative, and Applied Ethics)",
+          "Philosophy of Mind and Epistemology",
+          "Social and Political Philosophy"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Direct merit-list shortlists based on Class 12 board marks"
+        ],
+        "careers": [
+          "Research Assistant / Ethics Advisor",
+          "Civil Services Aspirant (UPSC CSE/State PSCs)",
+          "Content Writer or Editorial Assistant",
+          "Policy Analyst Trainee"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) in Philosophy and Applied Ethics",
+        "interests": [
+          "Resolving real-world moral dilemmas in modern industries",
+          "Analyzing bioethics, environmental policies, corporate governance codes, and human rights violations",
+          "Working at the intersection of traditional philosophy and modern legal/corporate compliance"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Foundations of Applied and Professional Ethics",
+          "Bioethics, Medical Ethics, and Genethics",
+          "Environmental Ethics and Climate Justice",
+          "Business Ethics and Corporate Governance",
+          "Media Ethics and Public Policy"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Ashoka Aptitude Test (AAT)",
+          "FLAME Entrance Test (FEAT)",
+          "Krea Aptitude Test"
+        ],
+        "careers": [
+          "Corporate Compliance and Ethics Assistant",
+          "Sustainability / ESG Analyst",
+          "Policy Tracker for NGOs",
+          "HR Welfare and Diversity Associate"
+        ]
+      },
+      {
+        "name": "B.Sc. (Hons.) in Cognitive Science",
+        "interests": [
+          "The scientific, empirical study of the mind and human thought",
+          "Understanding how brain biology, language processing, artificial intelligence, and psychological perception work together",
+          "Designing human-like artificial intelligence paths and natural language processors"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Introduction to Cognitive Science and Neuroscience",
+          "Philosophy of Mind and Intentionality",
+          "Computational Models of Mind and Artificial Intelligence",
+          "Psycholinguistics and Language Acquisition",
+          "Cognitive Psychology and Human Perception"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Institutional Aptitude Tests (NMIMS, Shiv Nadar University, IIT integrated pipelines)"
+        ],
+        "careers": [
+          "Research Assistant in Neuroscience/AI Labs",
+          "Human-Computer Interaction (HCI) Analyst Trainee",
+          "Data Annotator / Language Data Evaluator",
+          "Behavioral Data Specialist"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) in Philosophy, Politics, and Economics (PPE)",
+        "interests": [
+          "Studying how philosophical ideas shape political ideologies and dictate global economic structures",
+          "Pursuing a highly prestigious, multi-disciplinary leadership degree",
+          "Preparing for top-tier global corporate fellowships, diplomacy, or public policy roles"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Political Philosophy and Distributive Justice",
+          "Microeconomics and Macroeconomics for Policy",
+          "Comparative Politics and Constitutional Governance",
+          "Logic, Critical Thinking, and Rational Choice Theory",
+          "Ethics, Public Policy, and Public Welfare Systematics"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Ashoka Aptitude Test (AAT)",
+          "FLAME Entrance Test (FEAT)",
+          "JSAT (O.P. Jindal Global University)"
+        ],
+        "careers": [
+          "Strategy Consultant / Management Trainee",
+          "Geopolitical Risk Analyst",
+          "Legislative Assistant to Members of Parliament (LAMP Fellowship)",
+          "Junior Economist / Policy Fellow at think tanks"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) in Logic and Mathematical Reasoning",
+        "interests": [
+          "Mastering the absolute rules of structured reasoning, formal syllogisms, and symbolic languages",
+          "Understanding the foundational algorithms behind computer science programming and mathematical proofs",
+          "Bridging abstract philosophy with high-level quantitative logic"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Formal and Informal Logic (Syllogistic and Propositional Logic)",
+          "Symbolic Logic and Set Theory",
+          "Metalogic and Model Theory",
+          "Philosophy of Language and Semantics",
+          "Cognitive Informatics and Argumentation Theory"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "ISI Admission Test",
+          "CMI Entrance Exams"
+        ],
+        "careers": [
+          "Knowledge Engineer / Data Architecture Assistant",
+          "Content Editor for technical software companies",
+          "Quantitative Analyst",
+          "Risk and Logic Modeler"
+        ]
+      },
+      {
+        "name": "B.A. / B.Sc. in Digital Ethics and AI Governance (Hybrid Track)",
+        "interests": [
+          "Dealing with the moral boundaries of artificial intelligence and machine learning",
+          "Combating algorithmic bias, deepfakes, copyright infringement in Generative AI, and surveillance capitalism",
+          "Drafting tech policies and global AI regulations"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Introduction to Artificial Intelligence and Machine Learning logic",
+          "Computer Ethics, Data Privacy, and Surveillance laws",
+          "Algorithmic Fairness, Bias, and Transparency tracking",
+          "Ethics of Generative AI and Digital Content Curation",
+          "Global AI Regulations and Tech Policy"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "SNUSAT / APT (Shiv Nadar University)",
+          "State engineering-adjacent liberal arts metrics"
+        ],
+        "careers": [
+          "AI Ethics Compliance Assistant",
+          "Technology Policy Analyst",
+          "Digital Trust and Safety Associate",
+          "Corporate Tech Risk Auditor"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) in Liberal Arts (Major in Philosophy / Cognitive Studies)",
+        "interests": [
+          "Pairing core modules of philosophical logic and cognitive ethics with minors like Computer Science, Performing Arts, or Marketing",
+          "Enjoying a highly customizable, interdisciplinary curriculum",
+          "Solving complex human problems using multiple academic angles"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Critical Thinking, Rhetoric, and Formal Argumentation",
+          "History of Science, Technology, and Values",
+          "Consciousness Studies and Artificial Minds",
+          "Cross-Cultural Aesthetics and Semiotics",
+          "Senior Capstone Thesis / Philosophy Practicum"
+        ],
+        "entranceExams": [
+          "Ashoka Aptitude Test (AAT)",
+          "FLAME Entrance Test (FEAT)",
+          "JSAT (Jindal Global)",
+          "Krea Aptitude Test",
+          "SAT India / Pearson Undergraduate Test"
+        ],
+        "careers": [
+          "C-Suite Speechwriter / Executive Communications Specialist",
+          "Brand Strategy Consultant",
+          "Digital Content and UX Researcher",
+          "Social Sector Fellow"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) / B.Sc. (Hons.) in Logic and Philosophy of Science",
+        "interests": [
+          "Questioning how scientific knowledge is validated and tracking the shift in human scientific paradigms",
+          "Analyzing medical errors, technological progress ethics, and scientific methodologies",
+          "Examining the epistemology of truth and justified belief"
+        ],
+        "duration": "3 years",
+        "coreSubjects": [
+          "Philosophy of Science: Induction, Falsification, and Paradigms",
+          "Scientific Methodologies and Quantitative Logic",
+          "History of Scientific Revolutions",
+          "Epistemology: Theories of Truth and Justified Belief",
+          "Science, Technology, and Human Values"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "State-level university entrance systems",
+          "Merit lists based on Class 12 board marks"
+        ],
+        "careers": [
+          "Science Journalist / Tech Reporter",
+          "Technical Writer / Documentation Specialist",
+          "Assistant at science policy panels",
+          "Academic Content Curator"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) in Comparative Religion and Cultural Philosophy",
+        "interests": [
+          "Analysing the philosophical systems behind global faiths and tracing historical socio-cultural movements",
+          "Evaluating pluralism, secularism, and developing cross-cultural harmony workflows",
+          "Studying myth, ritual, and cultural hermeneutics"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Philosophy of Religion (Theism, Atheism, Agnosticism)",
+          "Comparative Study of Eastern Religions (Hinduism, Buddhism, Taoism)",
+          "Comparative Study of Abrahamic Religions (Judaism, Christianity, Islam)",
+          "Secularism, Pluralism, and Inter-faith Dialogue",
+          "Myth, Ritual, and Cultural Hermeneutics"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Board merit scores verified by state arts colleges"
+        ],
+        "careers": [
+          "Intercultural Relations / DEI Consultant",
+          "Cultural Program Assistant in non-profits",
+          "Conflict Resolution Associate",
+          "Travel and Heritage Consultant"
+        ]
+      },
+      {
+        "name": "B.Voc (Bachelor of Vocation) in Social Entrepreneurship and Ethical Leadership",
+        "interests": [
+          "Bypassing dense historical theory textbooks to focus purely on the practical deployment of ethical leadership",
+          "Setting up green social startups, running community campaigns, or leading corporate ethics cells",
+          "Learning small business legalities and crowdfunding"
+        ],
+        "duration": "3 years",
+        "coreSubjects": [
+          "Design Thinking, Innovation, and Prototyping",
+          "Principles of Ethical Leadership and Decision-Making Matrix",
+          "CSR Project Execution and Sustainable Community Frameworks",
+          "Small Business Legalities, Crowdfunding, and Social Marketing"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Direct skill-merit quotas checked by vocational training colleges"
+        ],
+        "careers": [
+          "Social Startup Founder / Entrepreneur",
+          "NGO Grant Writer and Project Funding Coordinator",
+          "Corporate Social Responsibility (CSR) Field Executive",
+          "Community Operations Manager"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Advertising, Media Planning, and Copywriting",
+    "degrees": [
+      {
+        "name": "Bachelor of Arts (BA) in Advertising and Brand Management",
+        "interests": [
+          "Crafting complete brand identities and driving large-scale ad campaigns",
+          "Exploring the psychological triggers that influence why people trust specific brands",
+          "Directing television commercials, print ads, and viral social media marketing loops"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Fundamentals of Advertising and Brand Architecture",
+          "Consumer Behaviour and Market Insights",
+          "Creative Art Direction and Visual Designing",
+          "Integrated Marketing Communications (IMC)",
+          "Account Planning and Client Servicing Mechanics"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "SYMBIOSIS (SET)",
+          "Christ University Entrance Test (CUET)"
+        ],
+        "careers": [
+          "Advertising Account Executive",
+          "Brand Management Associate",
+          "Client Servicing Executive",
+          "Creative Art Director (Junior Trainee)"
+        ]
+      },
+      {
+        "name": "Bachelor of Mass Media (BMM) / BA in Journalism and Mass Communication (Advertising Track)",
+        "interests": [
+          "Taking a broad, multi-media approach covering TV, radio, digital layouts, and print copy",
+          "Working inside massive advertising agencies on diverse media campaigns",
+          "Mastering both on-field media creation and backend advertising strategy"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Introduction to Mass Communication and Media History",
+          "Copywriting and Creative Writing Workshops",
+          "Media Laws, Ethics, and Copyright Regulations",
+          "Photography, Layout Design, and Typography Basics",
+          "Public Relations and Event Management"
+        ],
+        "entranceExams": ["Xavier Admissions Test", "IPU CET", "CUET UG"],
+        "careers": [
+          "Junior Copywriter",
+          "Media Planner / Media Buyer Trainee",
+          "Public Relations (PR) Associate",
+          "Content Producer for Digital Media"
+        ]
+      },
+      {
+        "name": "Bachelor of Business Administration (BBA) in Media Management / Digital Marketing",
+        "interests": [
+          "Handling the business, financial, and analytical side of advertising",
+          "Allocating multi-crore ad budgets, tracking Return on Investment (ROI), and managing media agencies",
+          "Growth hacking, Search Engine Optimization (SEO), and data-driven corporate strategy"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Principles of Marketing and Corporate Finance",
+          "Media Planning, Budgeting, and Buying Models",
+          "Digital Media Marketing Analytics (SEO, SEM, Google Analytics)",
+          "Data Analysis and Predictive Intelligence for Markets",
+          "Strategic Management and Business Ethics"
+        ],
+        "entranceExams": ["NMIMS-NPAT", "SYMBIOSIS (SET)", "CUET UG"],
+        "careers": [
+          "Digital Marketing Analyst",
+          "Media Planner / Strategist",
+          "Search Engine Optimization (SEO) Specialist",
+          "Marketing Campaign Operations Executive"
+        ]
+      },
+      {
+        "name": "Bachelor of Design (B.Des.) in Visual Communication / Communication Design",
+        "interests": [
+          "Executing the heavily aesthetic and creative design side of advertising",
+          "Creating high-end graphics, app user-interfaces, typography, and video layouts for brands",
+          "Telling visual stories through illustrations, animations, and package design"
+        ],
+        "duration": "4 years",
+        "coreSubjects": [
+          "Elements of Design, Color Theory, and Geometry",
+          "Typography and Layout Design using professional tools (Adobe Creative Suite)",
+          "Digital Illustration, Storyboarding, and Animation Basics",
+          "Brand Identity Design and Corporate Packaging",
+          "Advertising Photography and Videography"
+        ],
+        "entranceExams": ["UCEED", "NID DAT", "NIFT Entrance Exam", "SEED"],
+        "careers": [
+          "Visual Designer / Graphic Artist",
+          "Creative UI/UX Designer",
+          "Motion Graphics Artist",
+          "Packaging and Brand Identity Designer"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) in English / Communicative English (With Copywriting and Media Electives)",
+        "interests": [
+          "Developing superior command over the English language to write high-converting copy",
+          "Ghost-writing corporate speeches, writing slogans, and working on luxury print ads",
+          "Merging advanced literature and rhetoric studies with real-world corporate writing"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "History of English Literature and Language Metrics",
+          "Advanced Rhetoric, Persuasive Writing, and Copywriting Style Guides",
+          "Technical and Business Writing Formats",
+          "Media Writing and Public Communication Systems",
+          "Proofreading, Editing, and Content Curation"
+        ],
+        "entranceExams": ["CUET UG", "Direct state-board merit cutoffs"],
+        "careers": [
+          "Advertising Copywriter",
+          "Content Strategist / Scriptwriter",
+          "Technical Writer / Documentation Specialist",
+          "Corporate Editorial Associate"
+        ]
+      },
+      {
+        "name": "B.Voc (Bachelor of Vocation) in Public Relations, Advertising, and Digital Marketing",
+        "interests": [
+          "Skipping long, theoretical history lectures to focus entirely on immediate, hands-on industry skills",
+          "Learning how to launch live Facebook/Instagram ads, pitch to influencers, and build WordPress websites",
+          "Entering the job market quickly with an execution-first mindset"
+        ],
+        "duration": "3 years",
+        "coreSubjects": [
+          "Digital Media Handling, SEO, and Content Creation Tools",
+          "Influencer Relations and Social Media Management (SMM)",
+          "Event Management and Press Conference Coordination",
+          "Basic Video/Audio Editing and Copywriting Mechanics"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Institutional-level direct vocational merit lists"
+        ],
+        "careers": [
+          "Social Media Manager",
+          "Influencer Marketing Coordinator",
+          "Digital PR Operations Executive",
+          "Performance Marketing Assistant"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Educational Administration, Guidance, and Counseling",
+    "degrees": [
+      {
+        "name": "B.A. (Hons.) / B.Sc. (Hons.) in Psychology (Counseling Elective Track)",
+        "interests": [
+          "Understanding child development, learning disabilities, and teenage behavioral changes",
+          "Building a scientific foundation to later become a certified school counselor or family therapist",
+          "Learning the fundamentals of psychological testing, emotional diagnostics, and career guidance"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Foundations of Cognitive and Development Psychology",
+          "Counseling Psychology: Theories and Techniques",
+          "Psychological Testing and Psychometrics",
+          "Child and Adolescent Psychopathology",
+          "Statistics and Research Methods in Behavioral Sciences"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Christ University Entrance Test (CUET)",
+          "NMIMS-NPAT"
+        ],
+        "careers": [
+          "Guidance Associate / Trainee Counselor in schools",
+          "Assistant Psychometrician",
+          "Student Wellness Coordinator",
+          "Research Assistant in child psychology projects"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) / B.Sc. (Hons.) in Applied Psychology (Educational Specialisation)",
+        "interests": [
+          "Applying psychological models directly to classroom learning, curriculum design, and teacher-student interactions",
+          "Resolving real-world school issues like student stress, peer pressure, cyberbullying, and learning motivation",
+          "Designing mental health and emotional well-being programs for educational groups"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Introduction to Applied Educational Psychology",
+          "Behavioral Modification Techniques for Classrooms",
+          "Career Development Theories and Vocational Guidance",
+          "Community Mental Health and Inclusivity",
+          "Practicum: School Case Study and Behavior Observation"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Direct state-level university board merit shortlists"
+        ],
+        "careers": [
+          "Special Education Support Assistant",
+          "School Welfare Program Executive",
+          "Career Information Assistant / Placement Support Coordinator",
+          "Junior Counselor at educational NGOs"
+        ]
+      },
+      {
+        "name": "Integrated B.A. B.Ed. / B.Sc. B.Ed. (Integrated Teacher Education Programme - ITEP)",
+        "interests": [
+          "Mastering pedagogical methods while gaining early training in school management and classroom administration",
+          "Becoming a multi-skilled school leader who can handle teaching, student discipline, and academic planning",
+          "Securing a dual professional degree right after Class 12"
+        ],
+        "duration": "4 years",
+        "coreSubjects": [
+          "Foundations of Education and Learning Theories",
+          "School Management, Leadership, and Educational Administration",
+          "Guidance and Counseling Principles for Teachers",
+          "Inclusive Education and Handling Special Needs (CWSN)",
+          "Mandatory School Internship and Teaching Practicum"
+        ],
+        "entranceExams": [
+          "NCET (National Common Entrance Test conducted by NTA)"
+        ],
+        "careers": [
+          "Trained Graduate Teacher (TGT)",
+          "Academic Coordinator / Assistant School Administrator",
+          "Educational Content Developer for EdTech",
+          "School Program Manager"
+        ]
+      },
+      {
+        "name": "B.B.A. (Bachelor of Business Administration) in Education Management",
+        "interests": [
+          "Handling the business, financial, and operational administration of schools, colleges, and EdTech setups",
+          "Managing school admissions, institutional compliance, marketing, and budgeting",
+          "Coordinating training programs for institutional teachers and support staff"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Principles of Management and Organizational Behavior",
+          "Educational Operations, Admissions, and Facility Management",
+          "Human Resource Management in Educational Institutions",
+          "EdTech Business Models and Digital Learning Architecture",
+          "Financial Management and Budgeting for Institutions"
+        ],
+        "entranceExams": [
+          "NMIMS-NPAT",
+          "SYMBIOSIS (SET)",
+          "Christ University Entrance Test (CUET)",
+          "CUET UG"
+        ],
+        "careers": [
+          "School Admissions Manager / Outreach Executive",
+          "Operations Coordinator at EdTech platforms",
+          "Assistant Center Manager for coaching networks",
+          "Human Resource (HR) Specialist for institutional recruitment"
+        ]
+      },
+      {
+        "name": "Bachelor of Social Work (BSW) - Specialization in Child Rights and School Welfare",
+        "interests": [
+          "Frontline grassroots welfare, helping underprivileged children join the education system",
+          "Implementing government policies like the Right to Education (RTE) and treating school dropouts",
+          "Working directly inside municipal schools or child development non-profits (NGOs)"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Foundations of Social Work and Human Development",
+          "Child Rights, Juvenile Justice, and Social Legislation in India",
+          "School Social Work and Student Welfare Interventions",
+          "Community Mobilisation and Social Case Work Techniques",
+          "Mandatory Weekly Concurrent Fieldwork (NGO/Govt. School postings)"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Merit shortlists based on Class 12 board marks"
+        ],
+        "careers": [
+          "School Social Worker / Welfare Officer",
+          "Project Coordinator in Child Rights NGOs (CRY, Pratham)",
+          "Corporate Social Responsibility (CSR) Education Officer",
+          "Field Operations Supervisor for literacy programs"
+        ]
+      },
+      {
+        "name": "B.Voc (Bachelor of Vocation) in Early Childhood Education and Administration",
+        "interests": [
+          "Focusing entirely on hands-on practical skills required to run preschools or daycare networks",
+          "Learning play-based learning design, early childhood sensory testing, and kindergarten administration",
+          "Entering the early education industry rapidly with direct job-matching"
+        ],
+        "duration": "3 years",
+        "coreSubjects": [
+          "Early Childhood Care and Education (ECCE) Frameworks",
+          "Designing Play-Based Curricula and Learning Tools",
+          "Preschool Infrastructure, Safety, and Daycare Administration",
+          "Child Health, Nutrition, and Emergency Management Protocols"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Institutional-level direct vocational merit lists"
+        ],
+        "careers": [
+          "Preschool / Kindergarten Center Head",
+          "Early Childhood Curriculum Assistant",
+          "Daycare Center Operations Executive",
+          "ECCE Technical Assistant"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Fine Arts Management and Curatorial Practice",
+    "degrees": [
+      {
+        "name": "Bachelor of Fine Arts (BFA) / Bachelor of Visual Arts (BVA) in Art History and Museology",
+        "interests": [
+          "Evaluating historical art movements, authenticating classical paintings, and decoding visual symbolism",
+          "Learning how to handle, catalog, and preserve fragile gallery artifacts",
+          "Building an academic foundation to design exhibits for national museums or high-end private galleries"
+        ],
+        "duration": "4 years",
+        "coreSubjects": [
+          "Indian and Western Art History (Ancient to Contemporary)",
+          "Principles of Museology and Gallery Display Aesthetics",
+          "Archival Methods and Preservation of Art Objects",
+          "Aesthetics, Art Criticism, and Visual Literacy",
+          "Curatorial Writing and Cataloguing"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Institutional Practical & Aptitude Tests (College of Art, Delhi, MSU Baroda)"
+        ],
+        "careers": [
+          "Curatorial Assistant",
+          "Gallery Documentation Executive",
+          "Art Researcher / Archivist",
+          "Museum Cataloguer"
+        ]
+      },
+      {
+        "name": "Bachelor of Business Administration (BBA) in Luxury Brand and Art Management",
+        "interests": [
+          "Managing the highly lucrative, business-heavy corporate side of the art market",
+          "Organizing high-profile art auctions, evaluating investment-grade art assets, and managing corporate collections",
+          "Marketing luxury lifestyle spaces and handling celebrity artist public relations"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Principles of Management and Luxury Markets",
+          "Art Economics, Valuation, and Investment Models",
+          "Event Management and Art Fair Logistics (MICE)",
+          "Marketing Strategy for Creative Industries",
+          "Intellectual Property Rights (IPR) and Copyright in Art"
+        ],
+        "entranceExams": [
+          "NMIMS-NPAT",
+          "SYMBIOSIS (SET)",
+          "Christ University Entrance Test (CUET)",
+          "CUET UG"
+        ],
+        "careers": [
+          "Art Auction Coordinator",
+          "Corporate Art Consultant",
+          "Gallery Business Manager",
+          "Artist Relations Executive"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) in Cultural Studies / Liberal Arts (Art History & Curation Major)",
+        "interests": [
+          "Exploring how art intersects with politics, gender, technology, and sociology",
+          "Customizing your degree to mix art history with minor subjects like Creative Writing or Marketing",
+          "Writing critical reviews for art magazines and designing community art festivals"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Introduction to Cultural Theory and Visual Sociology",
+          "Modern and Contemporary Curatorial Practices",
+          "Critical Art Writing and Journalism",
+          "Exhibition Design and Spatial Semiotics",
+          "Globalisation, Diaspora, and Transnational Art Flow"
+        ],
+        "entranceExams": [
+          "Ashoka Aptitude Test (AAT)",
+          "FLAME Entrance Test (FEAT)",
+          "Krea Aptitude Test",
+          "CUET UG"
+        ],
+        "careers": [
+          "Art Critic / Journalist",
+          "Cultural Program Producer",
+          "Arts Administrator for Non-Profits/NGOs",
+          "Independent Exhibition Project Assistant"
+        ]
+      },
+      {
+        "name": "Bachelor of Design (B.Des.) in Exhibition and Spatial Design",
+        "interests": [
+          "Designing the physical, architectural layout of a museum or art gallery",
+          "Using 3D software, lighting design, and digital graphics to build immersive visitor journeys",
+          "Crafting physical booths for massive international art fairs and trade expos"
+        ],
+        "duration": "4 years",
+        "coreSubjects": [
+          "Information Architecture and Spatial Mapping",
+          "Museum Architecture, Gallery Lighting, and Display Dynamics",
+          "3D Spatial Modelling and Rendering (AutoCAD, SketchUp, Blender)",
+          "Material Testing and Sustainable Exhibit Construction",
+          "Experience Design and Interactive Media Installation"
+        ],
+        "entranceExams": ["UCEED", "NID DAT", "NIFT Entrance Exam", "SEED"],
+        "careers": [
+          "Exhibition Space Designer",
+          "Gallery Scenographer / Visual Merchandiser",
+          "Design Consultant for Cultural Pavilions",
+          "Interactive Installation Assistant"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) / B.Sc. (Hons.) in Digital Humanities and Heritage Management",
+        "interests": [
+          "Using modern technology to digitize traditional art collections and historical archives",
+          "Building virtual museum tours, managing online 3D art catalogs, and handling tech metadata",
+          "Preserving rare visual culture using data science tools and database management"
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Digital Archiving, Scanning, and Imaging Standards",
+          "Metadata Standards (Dublin Core, XML) and Cataloguing",
+          "Virtual Reality (VR) and Augmented Reality (AR) in Heritage Spaces",
+          "Database Management Systems (SQL) for Cultural Assets",
+          "Copyright Law and Digital Open Access Management"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "SNUSAT (Shiv Nadar University)",
+          "University specific merit processing"
+        ],
+        "careers": [
+          "Digital Asset Manager (DAM) for Art Houses",
+          "Digital Collection Registrar",
+          "Online Curator / Content Architect",
+          "Technical Assistant in Cultural Repositories"
+        ]
+      },
+      {
+        "name": "B.Voc (Bachelor of Vocation) in Art and Craft Management / Gallery Operations",
+        "interests": [
+          "Bypassing complex theoretical history papers to focus entirely on on-ground gallery operations",
+          "Learning how to pack and transport high-value art pieces safely, hang paintings correctly, and manage ticket logistics",
+          "Working directly with regional handicraft clusters to market indigenous art patterns"
+        ],
+        "duration": "3 years",
+        "coreSubjects": [
+          "Art Packing, Logistics, and High-Value Transportation Handling",
+          "Gallery Inventory Management Software",
+          "Exhibition Framing, Hanging Techniques, and Basic Lighting",
+          "Indigenous Craft Cluster Marketing and Liaison",
+          "Event Coordination and Vernissage Hosting Logistics"
+        ],
+        "entranceExams": ["CUET UG", "Direct institutional skill-merit quotas"],
+        "careers": [
+          "Gallery Operations Coordinator",
+          "Art Logistics / Registrar Assistant",
+          "Craft Cluster Operations Manager",
+          "Visual Display Assistant"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Museum Curation and Cultural Property Protection",
+    "degrees": [
+      {
+        "name": "Bachelor of Fine Arts (BFA) / Bachelor of Visual Arts (BVA) in Art History and Museology",
+        "interests": [
+          "Studying historical art movements, authenticating classical objects, and decoding visual symbolism.",
+          "Learning how to handle, catalog, inventory, and preserve fragile gallery artifacts.",
+          "Designing exhibit themes and educational programs for national museums or high-end private galleries."
+        ],
+        "duration": "4 years",
+        "coreSubjects": [
+          "Indian and Western Art History (Ancient to Contemporary)",
+          "Principles of Museology, Museum Administration, and Policy",
+          "Archival Methods and Preventive Conservation of Art Objects",
+          "Art Criticism, Aesthetics, and Visual Literacy",
+          "Curatorial Writing, Cataloguing, and Exhibition Planning"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Institutional Practical & Aptitude Tests (e.g., College of Art, Delhi or MSU Baroda)"
+        ],
+        "careers": [
+          "Curatorial Assistant",
+          "Gallery Documentation Executive",
+          "Art Researcher / Museum Archivist",
+          "Museum Cataloguer / Collections Assistant"
+        ]
+      },
+      {
+        "name": "Bachelor of Design (B.Des.) in Exhibition and Spatial Design",
+        "interests": [
+          "Designing the physical, spatial, and architectural layout of a museum gallery or cultural experience center.",
+          "Using 3D modeling software, specialized artifact lighting, and digital graphics to design visitor journeys.",
+          "Designing highly secure display cases and climate-controlled galleries to protect valuable cultural property."
+        ],
+        "duration": "4 years",
+        "coreSubjects": [
+          "Information Architecture and Spatial Mapping",
+          "Museum Architecture, Gallery Lighting, and Display Dynamics",
+          "3D Spatial Modelling and Rendering (AutoCAD, SketchUp, Blender)",
+          "Material Testing and Sustainable Exhibit Construction",
+          "Experience Design and Interactive Media Installation"
+        ],
+        "entranceExams": ["UCEED", "NID DAT", "NIFT Entrance Exam", "SEED"],
+        "careers": [
+          "Exhibition Space Designer",
+          "Gallery Scenographer / Museum Visual Merchandiser",
+          "Design Consultant for Cultural Pavilions and Heritage Centers",
+          "Interactive Installation Assistant"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) / B.Sc. (Hons.) in Heritage Management and Cultural Studies",
+        "interests": [
+          "Exploring the legal protection frameworks, maritime laws, and international treaties that prevent illegal trafficking of antiquities.",
+          "Customizing your degree to mix history and art curation with minor subjects like Business Law, Public Policy, or Marketing.",
+          "Working directly with local communities to catalog and protect local folklore, crafts, and performance traditions."
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Introduction to Heritage Management and Cultural Property Protection Laws",
+          "Inventorying and Archival Methods for Tangible and Intangible Heritage",
+          "Community-Based Cultural Property Conservation",
+          "Heritage Policy, Funding, and Public Engagement",
+          "Traditional Knowledge Systems and Intellectual Property Rights (IPR)"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Institutional aptitude tests (e.g., Ahmedabad University)"
+        ],
+        "careers": [
+          "Heritage Site Executive / Documentation Assistant",
+          "Cultural Resource Management (CRM) Consultant",
+          "Project Assistant for Non-Profits/UNESCO-affiliated bodies",
+          "Independent Exhibition Project Assistant"
+        ]
+      },
+      {
+        "name": "B.Sc. (Hons.) in Anthropology (Material Culture and Forensic Track)",
+        "interests": [
+          "Applying physical and biological science to understand ancient human bone remains, clothing fabric, and early tool technology.",
+          "Reconstructing historical environments and identifying the organic materials used to create ancient relics.",
+          "Working inside specialized museum research labs to evaluate physical, material deterioration."
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Archaeological Anthropology and Material Culture",
+          "Human Osteology and Forensic Anthropology",
+          "Physical Anthropology, Human Evolution, and Fossil Analysis",
+          "Preventive Conservation of Bio-Anthropological Museum Specimens",
+          "Biomolecular Archaeology and Heritage Genetics Basics"
+        ],
+        "entranceExams": ["CUET UG", "State university common entrance exams"],
+        "careers": [
+          "Museum Conservation Laboratory Assistant",
+          "Bioarchaeological Field Coordinator",
+          "Technical Assistant in Anthropological Surveys",
+          "Exhibit Content Researcher"
+        ]
+      },
+      {
+        "name": "B.A. (Hons.) / B.Sc. (Hons.) in Digital Humanities and Asset Curation",
+        "interests": [
+          "Using modern technology to digitize physical museum collections, historical paintings, and fragile paper blueprints.",
+          "Building virtual reality (VR) museum tours, managing online 3D art catalogs, and handling cloud metadata tracking.",
+          "Protecting cultural property by building decentralized digital backup systems for regional archives."
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Digital Archiving, Scanning, and Imaging Standards",
+          "Metadata Standards (Dublin Core, XML) and Museum Cataloguing Systems",
+          "Virtual Reality (VR) and Augmented Reality (AR) in Heritage Spaces",
+          "Database Management Systems (SQL and NoSQL) for Cultural Assets",
+          "Copyright Law and Digital Open Access Management"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "SNUSAT (Shiv Nadar University)",
+          "University-specific merit processing"
+        ],
+        "careers": [
+          "Digital Asset Manager (DAM) for Art Houses and Museums",
+          "Digital Collection Registrar",
+          "Online Curator / Digital Content Architect",
+          "Technical Assistant in Cultural Repositories"
+        ]
+      },
+      {
+        "name": "B.Voc (Bachelor of Vocation) in Gallery Operations and Art Logistics",
+        "interests": [
+          "Bypassing complex theoretical history papers to focus entirely on the on-ground tactical operations of running a gallery space.",
+          "Learning how to pack and transport high-value art pieces safely across customs, hanging heavy frames correctly, and handling climate-control systems.",
+          "Entering the entry-level museum operations job market quickly."
+        ],
+        "duration": "3 years",
+        "coreSubjects": [
+          "Art Packing, Crating, and High-Value Transportation Handling",
+          "Gallery Inventory Management Software and Registry Checklists",
+          "Exhibition Framing, Mounting Techniques, and Basic Track Lighting",
+          "Security Systems, Fire Safety, and Access Control in Cultural Buildings",
+          "Event Coordination, Ticket Logistics, and Vernissage Hosting"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Direct institutional skill-merit quotas matching Class 12 board marks"
+        ],
+        "careers": [
+          "Museum Gallery Operations Coordinator",
+          "Art Logistics Specialist / Registrar Assistant",
+          "Cultural Event Operations Manager",
+          "Visual Display Assistant"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Cartography and Remote Sensing Technology",
+    "degrees": [
+      {
+        "name": "B.Tech in Geoinformatics Engineering / Geospatial Technology",
+        "interests": [
+          "Coding and developing mapping software, algorithms, and satellite data processing pipelines.",
+          "Building location-based services (like GPS navigation apps) and processing raw LiDAR or radar data.",
+          "Approaching map-making through a rigorous, highly technical engineering lens."
+        ],
+        "duration": "4 years",
+        "coreSubjects": [
+          "Satellite Remote Sensing and Photogrammetry",
+          "Digital Image Processing and Spatial Data Structures",
+          "Web GIS and Spatial Database Management Systems (DBMS)",
+          "Programming for Spatial Data Analytics (Python, R, and SQL)",
+          "Geodesy and Global Navigation Satellite Systems (GNSS/GPS)"
+        ],
+        "entranceExams": [
+          "JEE Main",
+          "JEE Advanced",
+          "TNEA",
+          "MHT-CET",
+          "AP EAPCET"
+        ],
+        "careers": [
+          "Geospatial Software Engineer / Developer",
+          "Remote Sensing Scientist / Satellite Image Analyst",
+          "GIS Data Architect / Spatial Database Administrator",
+          "Navigation Analyst for mapping firms"
+        ]
+      },
+      {
+        "name": "B.Sc. (Hons.) in Geography (with GIS and Digital Cartography Specialisation)",
+        "interests": [
+          "Analyzing physical terrain shifts, natural hazards, weather trends, and demographic patterns.",
+          "Designing thematic maps using both traditional cartographic design rules and modern software.",
+          "Merging environmental and earth sciences with data-driven desktop mapping tools."
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Principles of Cartography and Map Projection Methods",
+          "Theoretical and Practical Remote Sensing Foundations",
+          "Spatial Statistics and Quantitative Geography",
+          "Human, Economic, and Physical Geography Matrix",
+          "Environmental Impact Assessment (EIA) using GIS dashboards"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Direct board-merit screening based on Class 12 marks"
+        ],
+        "careers": [
+          "Junior Cartographer / Digital Map Maker",
+          "Environment and Climate Change Research Associate",
+          "GIS Technician / Spatial Data Verification Specialist",
+          "Demographic Data Analyst for urban planning firms"
+        ]
+      },
+      {
+        "name": "Bachelor of Planning (B.Plan) – Specialization in Spatial Data Analytics",
+        "interests": [
+          "Using remote sensing data to design smart city grids, metropolitan layouts, and infrastructure networks.",
+          "Utilizing spatial imagery to map urban heat islands, flood zones, and optimal public transport pathways.",
+          "Applying mapping directly to policy, zoning laws, and urban governance."
+        ],
+        "duration": "4 years",
+        "coreSubjects": [
+          "Fundamentals of Urban and Regional Planning",
+          "Housing, Transport, and Infrastructure Master-planning",
+          "GIS and Satellite Sensing Applications in Urban Planning",
+          "Planning Legislation, Urban Governance, and Real Estate Markets",
+          "Socio-Economic and Environmental Impact Mapping"
+        ],
+        "entranceExams": [
+          "JEE Main (Paper 2B - B.Planning)",
+          "NATA",
+          "State-level engineering entry matrix codes"
+        ],
+        "careers": [
+          "Urban Planner / Regional Planner",
+          "GIS Analyst in municipal corporations and smart city cells",
+          "Planning Consultant in private real estate and infrastructure firms",
+          "Transport Planning Design Assistant"
+        ]
+      },
+      {
+        "name": "B.Sc. (Hons.) in Applied Geology and Geoinformatics",
+        "interests": [
+          "Using satellite data to discover hidden minerals, petroleum reserves, or underground water sources.",
+          "Mapping tectonic plate movements, fault lines, volcanic topography, and landslide hazards.",
+          "Working on physical field surveys combined with radar and thermal satellite data analysis."
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Structural Geology and Tectonics",
+          "Mineralogy, Petrology, and Earth Surface Processes",
+          "Remote Sensing in Geomorphology and Mineral Exploration",
+          "Hydrogeology and Watershed Management using GIS",
+          "Field Geological Mapping and GPS Tracking"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Institutional entrance tests or direct merit lists matching Class 12 science marks"
+        ],
+        "careers": [
+          "Exploration Geologist Assistant",
+          "GIS Analyst for mining, oil, and natural gas corporations",
+          "Ground Water Mapping Specialist",
+          "Geotechnical Surveyor"
+        ]
+      },
+      {
+        "name": "B.Sc. (Hons.) / B.A. (Hons.) in Digital Humanities and Spatial Analytics",
+        "interests": [
+          "Using maps to track historical human migrations, ancient trade routes, or the spread of language patterns.",
+          "Building digital interactive maps, virtual heritage tour platforms, and visual timelines for museums or academic bodies.",
+          "Merging historical, cultural, or social text data with geographic coordination software."
+        ],
+        "duration": "3-4 years",
+        "coreSubjects": [
+          "Introduction to Digital Humanities and Cultural Analytics",
+          "GIS and Spatial Humanities (Mapping historical/social data)",
+          "Coding for Data Manipulation (Basic Python, HTML, and Markdown)",
+          "Digital Text Mining and Natural Language Processing (NLP)",
+          "Metadata Standards, Copyright Laws, and Digital Curation"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Ashoka Aptitude Test (AAT)",
+          "FLAME (FEAT)",
+          "SNUSAT (Shiv Nadar University)"
+        ],
+        "careers": [
+          "Spatial Content Curator for media and travel platforms",
+          "Research Analyst for cultural and socio-political think tanks",
+          "Digital Asset Associate for museums or archive repositories",
+          "UX Research Trainee for location-based applications"
+        ]
+      },
+      {
+        "name": "B.Voc (Bachelor of Vocation) in Geospatial Technology and Drone Mapping",
+        "interests": [
+          "Skipping long, theoretical engineering textbooks and focusing entirely on immediate, hands-on mechanical skills.",
+          "Operating drone mapping sensors, processing drone imagery, and handling field surveying tools like Total Station or DGPS.",
+          "Entering the job market quickly via a practical, frontline operational role."
+        ],
+        "duration": "3 years",
+        "coreSubjects": [
+          "Land Surveying Methods (Total Station, DGPS Logistics)",
+          "Open Source GIS Software Training (e.g., QGIS, Google Earth Engine)",
+          "Drone Flight Dynamics, Regulations, and Data Acquisition",
+          "CAD (Computer-Aided Design) and Map Digitisation Mechanics",
+          "Map Editing, Spatial Attribution, and File Conversion"
+        ],
+        "entranceExams": [
+          "CUET UG",
+          "Institutional-level direct vocational merit lists based on Class 12 marks"
+        ],
+        "careers": [
+          "Drone Survey Technician",
+          "Land Surveyor / Cadastral Surveyor",
+          "GIS Digitiser / Map Editor",
+          "Field Data Collection Specialist"
+        ]
+      }
+    ]
+  }
+]

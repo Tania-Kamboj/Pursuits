@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Joint Entrance Examination - Main (JEE Main)",
+    "stream": "pcm",
+    "conductingBody": "National Testing Agency (NTA)",
+    "purpose": "Admission to B.E./B.Tech programs in NITs, IIITs, and CFTIs.",
+    "eligibility": "Passed Class 12 with Physics, Chemistry, and Mathematics (75% aggregate board cutoff or top 20 percentile).",
+    "subjectsAndWeightage": "Total 300 Marks (90 Questions total, 75 to be attempted). Equal weightage: Physics (100 Marks), Chemistry (100 Marks), Mathematics (100 Marks).",
+    "attemptAndPattern": "Computer-Based Test (CBT) held twice a year. +4 for correct, -1 for incorrect answers.",
+    "preparation": "Standard Class 11 and 12 NCERT conceptual theory followed by extensive problem-solving frameworks."
+  },
+  {
+    "name": "Joint Entrance Examination - Advanced (JEE Advanced)",
+    "stream": "pcm",
+    "conductingBody": "Rotationally by an Indian Institute of Technology (IIT)",
+    "purpose": "Admission to undergraduate Engineering and Science courses across all 23 IITs.",
+    "eligibility": "Must rank in the top 2,50,000 qualifiers of JEE Main.",
+    "subjectsAndWeightage": "Total marks vary yearly (~306–360 Marks). Physics (~33.3%), Chemistry (~33.3%), Mathematics (~33.3%) across two compulsory 3-hour papers.",
+    "attemptAndPattern": "CBT mode with Single Choice, Multiple Choice (Partial Marking), Numerical-type, and Matrix Match questions.",
+    "preparation": "Focus on advanced-level analytical applications, multiple-concept mapping, and mock consistency."
+  },
+  {
+    "name": "National Defence Academy and Naval Academy Examination (NDA & NA)",
+    "stream": "pcm",
+    "conductingBody": "Union Public Service Commission (UPSC)",
+    "purpose": "Commissioned Officer entry into the Indian Army, Navy, and Air Force wings.",
+    "eligibility": "Unmarried candidates aged 16.5 to 19.5 years. Class 12 pass with Physics and Math is mandatory for Navy/Air Force.",
+    "subjectsAndWeightage": "Total 900 Marks (Written) + 900 Marks (SSB Interview). Paper 1: Mathematics (300 Marks). Paper 2: GAT (600 Marks: English 200, GK 400).",
+    "attemptAndPattern": "Offline OMR-based test held twice a year. Negative marking exists.",
+    "preparation": "Focus heavily on Vedic/shortcut Mathematics, grammar rules, and regular current affairs analysis."
+  },
+  {
+    "name": "Indian Army Technical Entry Scheme (TES)",
+    "stream": "pcm",
+    "conductingBody": "Directorate General of Recruiting, Indian Army",
+    "purpose": "Direct permanent commission B.Tech track entry into the Indian Army.",
+    "eligibility": "Unmarried candidates aged 16.5 to 19.5 years. Must have ≥ 60% aggregate in Class 12 PCM.",
+    "subjectsAndWeightage": "Class 12 PCM Aggregate & JEE Main Rank (100% Weight for cutoff). SSB Interview: 900 Marks.",
+    "attemptAndPattern": "Shortlisted direct application candidates bypass written papers and arrive straight at the 5-day SSB interview.",
+    "preparation": "Maximize PCM marks in school, secure a highly competitive rank in JEE Main, and train for military aptitude."
+  },
+  {
+    "name": "Indian Navy B.Tech Cadet Entry / SSR (Agniveer)",
+    "stream": "pcm",
+    "conductingBody": "Indian Navy",
+    "purpose": "Commissioned Officers (B.Tech Entry) or Non-Commissioned sailors (SSR).",
+    "eligibility": "B.Tech Entry: 70% in 12th PCM + valid JEE Main rank. SSR: 12th pass with Math & Physics.",
+    "subjectsAndWeightage": "B.Tech: JEE Main Rank (100% Weight) + SSB. SSR: INET (100 Marks: English 25, Science 25, Math 25, GA 25).",
+    "attemptAndPattern": "SSR is an online computer test with 0.25 negative marks, followed by a mandatory Physical Efficiency Test (PET).",
+    "preparation": "Revise functional formulas for Math/Physics, focus on physical endurance, and general knowledge."
+  },
+  {
+    "name": "IISER Aptitude Test (IAT)",
+    "stream": "pcm",
+    "conductingBody": "Indian Institutes of Science Education and Research (IISER)",
+    "purpose": "Admission to premier 5-year BS-MS dual degree research programs at IISERs and IISc Bangalore.",
+    "eligibility": "Passed Class 12 in the science stream with PCM or PCB.",
+    "subjectsAndWeightage": "Total 240 Marks (60 Questions). Mathematics (60 Marks), Physics (60 Marks), Chemistry (60 Marks), Biology (60 Marks).",
+    "attemptAndPattern": "CBT mode held once a year. +4 marks for correct, -1 mark for wrong choices.",
+    "preparation": "PCM students should optimize their score in Physics, Chemistry, and Math. Reviewing basic biology can grab bonus points."
+  },
+  {
+    "name": "National Entrance Screening Test (NEST)",
+    "stream": "pcm",
+    "conductingBody": "NISER Bhubaneswar and UM-DAE CEBS Mumbai",
+    "purpose": "Admission to the elite 5-year Integrated M.Sc. programs in core basic sciences.",
+    "eligibility": "Class 12 Science stream with a minimum of 60% aggregate marks.",
+    "subjectsAndWeightage": "Total 180 Marks. Physics (50), Chemistry (50), Mathematics (50), Biology (50). Best 3 section scores are calculated.",
+    "attemptAndPattern": "Online CBT. Includes multiple-choice questions with differential partial-marking safety systems.",
+    "preparation": "PCM students can skip Biology entirely and focus exclusively on high-level analytical science and math execution."
+  },
+  {
+    "name": "Common University Entrance Test - Undergraduate (CUET UG)",
+    "stream": "pcm",
+    "conductingBody": "National Testing Agency (NTA)",
+    "purpose": "Admission to central/state universities for B.Sc., B.Tech, or Integrated M.Sc. tracks.",
+    "eligibility": "Class 12 pass with specific subject configurations depending on target course specifications.",
+    "subjectsAndWeightage": "Typical PCM setup targets 600-800 Marks. Language (200), Physics (200), Chemistry (200), Mathematics (200).",
+    "attemptAndPattern": "Hybrid mode (OMR/CBT). Multiple choice items with +5 for correct entries and -1 for errors.",
+    "preparation": "Thoroughly digest the Class 12 NCERT textbook syllabus. Class 11 chapters are generally omitted from domain papers."
+  },
+  {
+    "name": "Staff Selection Commission - Combined Higher Secondary Level (SSC CHSL)",
+    "stream": "pcm",
+    "conductingBody": "Staff Selection Commission",
+    "purpose": "Direct recruitment into administrative ministries for clerical roles (LDC, JSA, DEO).",
+    "eligibility": "10+2 pass. Candidates aiming for DEO vacancies must have a PCM background.",
+    "subjectsAndWeightage": "Tier 1 (200 Marks): English (50), Quantitative Aptitude (50), General Intelligence (50), General Awareness (50).",
+    "attemptAndPattern": "Online CBT. Tier 1 features a -0.50 penalty for mistakes. Tier 2 consists of separate scoring sections.",
+    "preparation": "Master basic arithmetic formulas, mental logical models, basic grammar syntax, and general awareness."
+  },
+  {
+    "name": "Railway Recruitment Board Non-Technical Popular Categories (RRB NTPC Undergraduate)",
+    "stream": "pcm",
+    "conductingBody": "Railway Recruitment Boards (RRBs)",
+    "purpose": "Central Indian Railways career tracks for undergraduate ticket and account clerks.",
+    "eligibility": "Class 12 pass from any background, aged 18 to 33.",
+    "subjectsAndWeightage": "CBT 1 (100 Marks): General Awareness (40), Mathematics (30), General Intelligence and Reasoning (30).",
+    "attemptAndPattern": "Online CBT test formats. Features a strict 1/3 negative mark structure for incorrect submissions.",
+    "preparation": "Focus on high-speed arithmetic simplifications, logical analogies, static GK, and elementary general sciences."
+  },
+  {
+    "name": "National Eligibility cum Entrance Test - Undergraduate (NEET UG)",
+    "stream": "pcb",
+    "conductingBody": "National Testing Agency (NTA)",
+    "purpose": "Admission to MBBS, BDS, AYUSH, BVSc & AH, and BSc Nursing courses across India.",
+    "eligibility": "Class 12 with PCB and English (min 50% aggregate). Minimum age of 17 years by Dec 31 of admission year.",
+    "subjectsAndWeightage": "Total 720 Marks (180 to be attempted). Botany (180), Zoology (180), Physics (180), Chemistry (180).",
+    "attemptAndPattern": "Offline pen-and-paper OMR test held once a year. +4 for correct, -1 for incorrect answers.",
+    "preparation": "Memorise every line, diagram, and summary in Class 11/12 Biology NCERT. Practice calculation-based Physics/Chemistry."
+  },
+  {
+    "name": "National Defence Academy and Naval Academy Examination (NDA & NA - Army Wing)",
+    "stream": "pcb",
+    "conductingBody": "Union Public Service Commission (UPSC)",
+    "purpose": "Commissioned Officer entry into the Indian Army wing.",
+    "eligibility": "Unmarried candidates aged 16.5 to 19.5 years. Class 12 pass from any stream (including PCB) for Army Wing.",
+    "subjectsAndWeightage": "Total 900 Marks (Written) + 900 Marks (SSB). Paper 1: Mathematics (300). Paper 2: GAT (600: English 200, GK 400).",
+    "attemptAndPattern": "Offline pen-and-paper exam held twice a year. Negative marking applies.",
+    "preparation": "PCB students must prepare additionally for Class 11 & 12 Mathematics. Maximize GAT score using PCB fundamentals."
+  },
+  {
+    "name": "Indian Army Military Nursing Service (MNS) B.Sc Nursing",
+    "stream": "pcb",
+    "conductingBody": "Indian Army / Armed Forces Medical Services (AFMS)",
+    "purpose": "Admission to 4-year B.Sc Nursing course, leading to a Commissioned Officer rank in the Indian Army.",
+    "eligibility": "Female candidates aged 17-25. Class 12 with PCB and English (min 50% aggregate). Qualifying NEET UG is mandatory.",
+    "subjectsAndWeightage": "Stage 1: NEET UG Score. Stage 2: ToGIGE (80 Marks). Stage 3: PAT & Interview (100 Marks).",
+    "attemptAndPattern": "After NEET shortlisting, candidates undergo computer-based ToGIGE, medical exam, and panel interview.",
+    "preparation": "Focus entirely on scoring high percentiles in NEET UG. Build English grammar skills and situational confidence."
+  },
+  {
+    "name": "IISER Aptitude Test (IAT)",
+    "stream": "pcb",
+    "conductingBody": "Indian Institutes of Science Education and Research (IISER)",
+    "purpose": "Admission to premier 5-year BS-MS Dual Degree research programs at IISERs and IISc Bangalore.",
+    "eligibility": "Passed Class 12 in the science stream with PCB or PCM.",
+    "subjectsAndWeightage": "Total 240 Marks (60 Questions). Biology (60), Physics (60), Chemistry (60), Mathematics (60).",
+    "attemptAndPattern": "CBT mode held once a year. +4 marks for correct, -1 mark for wrong answers.",
+    "preparation": "PCB students have an advantage in Biology, Chemistry, and Physics. Reviewing basic algebra/geometry unlocks bonus Math points."
+  },
+  {
+    "name": "National Entrance Screening Test (NEST)",
+    "stream": "pcb",
+    "conductingBody": "NISER Bhubaneswar and UM-DAE CEBS Mumbai",
+    "purpose": "Admission to elite 5-year Integrated M.Sc. programs in core basic sciences.",
+    "eligibility": "Class 12 Science stream pass with a minimum of 60% aggregate marks (55% for SC/ST/PwD).",
+    "subjectsAndWeightage": "Total 180 Marks. Biology (50), Chemistry (50), Physics (50), Mathematics (50). Best 3 section scores are calculated.",
+    "attemptAndPattern": "Online CBT. Includes multiple-choice questions with differential partial-marking safety systems.",
+    "preparation": "PCB students can completely skip the Mathematics module and focus fully on Biology, Chemistry, and Physics."
+  },
+  {
+    "name": "Common University Entrance Test - Undergraduate (CUET UG)",
+    "stream": "pcb",
+    "conductingBody": "National Testing Agency (NTA)",
+    "purpose": "Admission to central/state universities for B.Sc. (Hons) Life Sciences, Botany, Zoology, B.Pharma, or Integrated M.Sc.",
+    "eligibility": "Class 12 pass with specific subject configurations depending on the target university's course specifications.",
+    "subjectsAndWeightage": "Typical PCB setup targets 600-800 Marks. Language (200), Biology (200), Chemistry (200), Physics (200).",
+    "attemptAndPattern": "Hybrid mode (OMR/CBT). Multiple-choice questions with +5 for correct entries and -1 for errors.",
+    "preparation": "Thoroughly study the Class 12 NCERT textbook syllabus. Class 11 chapters are generally omitted from domain papers."
+  },
+  {
+    "name": "Staff Selection Commission - Combined Higher Secondary Level (SSC CHSL)",
+    "stream": "pcb",
+    "conductingBody": "Staff Selection Commission",
+    "purpose": "Direct recruitment into central administrative ministries for clerical roles like LDC, JSA, and DEO.",
+    "eligibility": "Passed Class 12 from a recognized board, aged between 18 and 27 years.",
+    "subjectsAndWeightage": "Tier 1 (200 Marks): English (50), Quantitative Aptitude (50), General Intelligence (50), General Awareness (50).",
+    "attemptAndPattern": "Online CBT. Tier 1 features a -0.50 penalty for mistakes. Tier 2 features specialized scoring sections.",
+    "preparation": "Master basic elementary arithmetic, practice logical reasoning templates, build English grammar rules, and track current affairs."
+  },
+  {
+    "name": "Railway Recruitment Board Non-Technical Popular Categories (RRB NTPC Undergraduate)",
+    "stream": "pcb",
+    "conductingBody": "Railway Recruitment Boards (RRBs)",
+    "purpose": "Central Indian Railways career tracks for undergraduate ticket, train, and account clerks.",
+    "eligibility": "Class 12 pass from any background (including PCB), typically aged between 18 and 33 years.",
+    "subjectsAndWeightage": "CBT 1 (100 Marks): General Awareness (40), Mathematics (30), General Intelligence and Reasoning (30).",
+    "attemptAndPattern": "Online CBT test formats. Features a strict 1/3 negative mark structure for incorrect submissions.",
+    "preparation": "Focus on high-speed arithmetic simplifications, logical analogies, basic computer awareness, and static GK."
+  },
+  {
+    "name": "Common University Entrance Test - Undergraduate (CUET UG)",
+    "stream": "commerce",
+    "conductingBody": "National Testing Agency (NTA)",
+    "purpose": "Admission to premier undergraduate commerce courses like B.Com (Hons), BMS, BBA (FIA), and B.A. (Hons) Economics.",
+    "eligibility": "Class 12 pass. Specific university domain configurations apply (e.g., DU requires Accountancy or Math for B.Com Hons).",
+    "subjectsAndWeightage": "Standard Commerce track: Language (200), Accountancy (200), Business Studies (200), Economics/Entrepreneurship (200).",
+    "attemptAndPattern": "Hybrid mode (OMR/CBT). Strictly objective MCQs with +5 reward for correct answers and -1 penalty for incorrect choices.",
+    "preparation": "Master Class 12 NCERT syllabus. Memorize accounting standards, partnership/company adjustments, and economic models."
+  },
+  {
+    "name": "National Defence Academy and Naval Academy Examination (NDA & NA - Army Wing)",
+    "stream": "commerce",
+    "conductingBody": "Union Public Service Commission (UPSC)",
+    "purpose": "Direct entry as a Commissioned Officer into the Indian Army wing.",
+    "eligibility": "Unmarried candidates aged 16.5 to 19.5 years. Class 12 pass from any stream (including Commerce) for Army Wing.",
+    "subjectsAndWeightage": "Total 900 Marks (Written) + 900 Marks (SSB). Paper 1: Mathematics (300). Paper 2: GAT (600: English 200, GK 400).",
+    "attemptAndPattern": "Offline pen-and-paper OMR exam held twice a year. Negative marking applies.",
+    "preparation": "Commerce students should systematically bridge the gap for Paper 1 (Mathematics). Maximize GAT score using Economics/English strengths."
+  },
+  {
+    "name": "Staff Selection Commission - Combined Higher Secondary Level (SSC CHSL)",
+    "stream": "commerce",
+    "conductingBody": "Staff Selection Commission",
+    "purpose": "Recruitment into various central government ministries for clerical cadres like LDC, JSA, and DEO.",
+    "eligibility": "Passed Class 12 from a recognized board, aged between 18 and 27 years.",
+    "subjectsAndWeightage": "Tier 1 (200 Marks): English (50), Quantitative Aptitude (50), General Intelligence (50), General Awareness (50).",
+    "attemptAndPattern": "Online CBT. Tier 1 has a -0.50 penalty. Tier 2 features specialized sections and a mandatory qualifying speed typing test.",
+    "preparation": "Dedicate time to building high-speed mental calculations for quantitative aptitude and read daily newspapers for general awareness."
+  },
+  {
+    "name": "Railway Recruitment Board Non-Technical Popular Categories (RRB NTPC Undergraduate)",
+    "stream": "commerce",
+    "conductingBody": "Railway Recruitment Boards (RRBs)",
+    "purpose": "Securing permanent central Indian Railways clerical jobs such as Commercial-cum-Ticket Clerk, Accounts Clerk-cum-Typist.",
+    "eligibility": "Class 12 pass from a recognized educational board, aged between 18 and 33 years.",
+    "subjectsAndWeightage": "CBT 1 (100 Marks): General Awareness (40), Mathematics (30), General Intelligence and Reasoning (30).",
+    "attemptAndPattern": "Online CBT test formats. Features a strict 1/3 negative mark structure. Tier 1 qualifiers move to CBT 2 and typing assessment.",
+    "preparation": "Focus heavily on fast arithmetic simplifications (ratios, percentages), logical puzzle templates, and static GK."
+  },
+  {
+    "name": "Common University Entrance Test - Undergraduate (CUET UG)",
+    "stream": "arts",
+    "conductingBody": "National Testing Agency (NTA)",
+    "purpose": "Admission to undergraduate humanities programs like B.A. (Hons) in Political Science, History, Sociology, Geography, English.",
+    "eligibility": "Class 12 pass from a recognized board. Candidates select specific humanities domain papers matching target courses.",
+    "subjectsAndWeightage": "Typical Arts track: Language (200), History (200), Political Science (200), Geography/Sociology/Economics (200).",
+    "attemptAndPattern": "Hybrid mode (OMR/CBT). Strictly objective MCQs. +5 marks for correct entries and -1 penalty for incorrect choices.",
+    "preparation": "Master Class 12 NCERT textbooks thoroughly. Focus on chronologies, historical events, constitutional provisions, and thematic definitions."
+  },
+  {
+    "name": "National Defence Academy and Naval Academy Examination (NDA & NA - Army Wing)",
+    "stream": "arts",
+    "conductingBody": "Union Public Service Commission (UPSC)",
+    "purpose": "Direct entry as a Commissioned Officer into the Indian Army wing.",
+    "eligibility": "Unmarried candidates aged 16.5 to 19.5 years. Class 12 pass in any stream (including Arts) for Army Wing.",
+    "subjectsAndWeightage": "Total 900 Marks (Written) + 900 Marks (SSB). Paper 1: Mathematics (300). Paper 2: GAT (600: English 200, GK 400).",
+    "attemptAndPattern": "Offline pen-and-paper OMR exam held twice a year. Negative marking applies.",
+    "preparation": "Arts students hold a natural advantage in GAT's History, Geography, and Polity. Direct extra study hours toward Class 11/12 Mathematics."
+  },
+  {
+    "name": "Staff Selection Commission - Combined Higher Secondary Level (SSC CHSL)",
+    "stream": "arts",
+    "conductingBody": "Staff Selection Commission",
+    "purpose": "Direct recruitment into various central government ministries for clerical cadres like LDC and JSA.",
+    "eligibility": "Passed Class 12 from a recognized board, aged between 18 and 27 years.",
+    "subjectsAndWeightage": "Tier 1 (200 Marks): English (50), Quantitative Aptitude (50), General Intelligence (50), General Awareness (50).",
+    "attemptAndPattern": "Online CBT. Tier 1 has a -0.50 penalty. Tier 2 features specialized sections and a mandatory qualifying speed typing test.",
+    "preparation": "Focus heavily on practicing quantitative aptitude and logical reasoning puzzles, while utilizing humanities background for General Awareness."
+  },
+  {
+    "name": "Railway Recruitment Board Non-Technical Popular Categories (RRB NTPC Undergraduate)",
+    "stream": "arts",
+    "conductingBody": "Railway Recruitment Boards (RRBs)",
+    "purpose": "Securing permanent central Indian Railways clerical jobs such as Commercial-cum-Ticket Clerk, Junior Clerk-cum-Typist.",
+    "eligibility": "Class 12 pass from a recognized educational board, typically aged between 18 and 33 years.",
+    "subjectsAndWeightage": "CBT 1 (100 Marks): General Awareness (40), Mathematics (30), General Intelligence and Reasoning (30).",
+    "attemptAndPattern": "Online CBT format. Features a strict 1/3 negative mark structure. Tier 1 qualifiers move to CBT 2 and typing assessment.",
+    "preparation": "Capitalize heavily on the 40-mark General Awareness section where Arts background provides a strong foundation. Drill high-speed mental math."
+  },
+  {
+    "name": "Common Law Admission Test (CLAT)",
+    "stream": "arts",
+    "conductingBody": "Consortium of National Law Universities (NLUs)",
+    "purpose": "Admission to the 5-year Integrated BA LLB (Hons) program across 24 top-tier national government law universities.",
+    "eligibility": "Passed Class 12 or equivalent from any stream with a minimum of 45% marks (40% for SC/ST). No upper age limit.",
+    "subjectsAndWeightage": "Total 120 Marks: English (~24), Current Affairs/GK (~30), Legal Reasoning (~30), Logical Reasoning (~24), Quantitative Techniques (~12).",
+    "attemptAndPattern": "Offline pen-and-paper OMR exam held once a year. Features a negative marking of -0.25 for every wrong answer. Passage-based.",
+    "preparation": "Develop excellent reading speed and comprehension. Arts students have an edge in GK and Legal reading. Practice basic data interpretation."
+  },
+  {
+    "name": "All India Law Entrance Test (AILET)",
+    "stream": "arts",
+    "conductingBody": "National Law University (NLU), Delhi",
+    "purpose": "Admission to the 5-year Integrated BA LLB (Hons) program strictly at NLU Delhi.",
+    "eligibility": "Passed Class 12 or equivalent with a minimum of 45% marks (40% for SC/ST/PwD). Appearing candidates are also eligible.",
+    "subjectsAndWeightage": "Total 150 Marks: English (50), Current Affairs & GK (30), Logical Reasoning (70 - Highest individual weight).",
+    "attemptAndPattern": "Offline pen-and-paper exam conducted once a year. Features a negative marking penalty of -0.25 marks for every incorrect response.",
+    "preparation": "Since AILET allocates nearly half the paper to Logical Reasoning, practice complex analytical puzzles and critical reasoning alongside reading comprehension."
+  },
+  {
+    "name": "National Council for Hotel Management Joint Entrance Examination (NCHM JEE)",
+    "stream": "arts",
+    "conductingBody": "National Testing Agency (NTA)",
+    "purpose": "Admission to the 3-year B.Sc. in Hospitality and Hotel Administration course across 70+ Government IHMs.",
+    "eligibility": "Passed Class 12 from any stream with English as a compulsory functional subject. No upper age limit.",
+    "subjectsAndWeightage": "Total 200 Marks: English (60), Aptitude for Service Sector (50), Numerical Ability (30), Reasoning (30), GK & Current Affairs (30).",
+    "attemptAndPattern": "Computer-Based Test (CBT) held once a year. +4 marks for correct entries and -1 penalty for incorrect choices.",
+    "preparation": "Focus heavily on English vocabulary and comprehension. Solve situational judgment questions and brush up on tourism general knowledge."
+  },
+  {
+    "name": "National Institute of Design - Design Aptitude Test (NID DAT)",
+    "stream": "arts",
+    "conductingBody": "National Institute of Design (Ministry of Commerce and Industry, Govt. of India)",
+    "purpose": "Admission to the 4-year Bachelor of Design (B.Des) program at premier government design campuses.",
+    "eligibility": "Passed Class 12 from any stream, aged under 20 years on the year of admission.",
+    "subjectsAndWeightage": "Stage 1: DAT Prelims (100 Marks): Textual/Visual Analysis, GK, Spatial Ability, Observation, Creative Design Thinking. Stage 2: DAT Mains (Studio test).",
+    "attemptAndPattern": "Offline pen-and-paper creative test held once a year. Prelims includes a mix of MCQs and subjective drawing questions.",
+    "preparation": "Practice perspective drawing, object sketching, creative layout presentation, and build observational awareness of daily life objects."
+  },
+  {
+    "name": "Undergraduate Common Entrance Examination for Design (UCEED)",
+    "stream": "arts",
+    "conductingBody": "Indian Institute of Technology (IIT) Bombay",
+    "purpose": "Admission to the 4-year Bachelor of Design (B.Des) programs at premier government technical institutes including IITs.",
+    "eligibility": "Passed Class 12 from any stream in the year of the exam or immediate previous year. Maximum two attempts allowed.",
+    "subjectsAndWeightage": "Total 300 Marks. Part-A (200 Marks): Computer-based (Visualization, Spatial Ability, Analytical Reasoning, Design Thinking). Part-B (100 Marks): Subjective offline drawing.",
+    "attemptAndPattern": "Held once a year. Part-A uses NAT, MSQ, and MCQ. Part-B is an offline drawing evaluation.",
+    "preparation": "Train heavily in spatial visualization, mental rotations of 3D objects, and mechanical aptitude. Develop speed and clean proportion rendering."
+  },
+  {
+    "name": "Indian Navy Agniveer (MR - Matric Recruit)",
+    "stream": "arts",
+    "conductingBody": "Indian Navy",
+    "purpose": "Direct recruitment into the Indian Navy under the Agnipath Scheme for non-commissioned operations as Chef, Steward, and Hygienist.",
+    "eligibility": "Unmarried candidates aged 17.5 to 21 years. Must have passed Matriculation (Class 10), making it fully accessible to 12th-pass Arts students.",
+    "subjectsAndWeightage": "Total 50 Marks: Science and Mathematics (Basic Class 9/10 Level) (25), General Awareness (25).",
+    "attemptAndPattern": "Online CBT followed by mandatory Physical Efficiency Test (PET) and medical review. 30-minute timeline with -0.25 penalty for mistakes.",
+    "preparation": "Revisit basic Class 9/10 science and arithmetic formulas. Capitalize on general awareness and build physical stamina for running and squats."
+  },
+  {
+    "name": "Indian Air Force Agniveer Vayu (Other Than Science Subjects)",
+    "stream": "arts",
+    "conductingBody": "Indian Air Force (IAF)",
+    "purpose": "Direct recruitment into the Indian Air Force under the Agnipath Scheme for non-technical ground and administrative operations.",
+    "eligibility": "Unmarried candidates aged 17.5 to 21 years. Passed Class 12 in any stream with min 50% aggregate and 50% in English.",
+    "subjectsAndWeightage": "Total 50 Marks: English (20), RAGA (Reasoning & General Awareness) (30).",
+    "attemptAndPattern": "Online CBT. 45-minute timeline with -0.25 negative marking. Phase 1 qualifiers face Physical Fitness Tests (PFT) and medical check-ups.",
+    "preparation": "Master basic English grammar and reading comprehension. Practice logical reasoning patterns and stay updated with static GK and current affairs."
+  }
+]

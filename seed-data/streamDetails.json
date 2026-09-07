@@ -1,0 +1,486 @@
+[
+  {
+    "name": "PCM (Physics, Chemistry, Mathematics)",
+    "description": "This sub-stream is engineered for students who want to build a career in technology, engineering, architecture, software development, data science, and aviation.",
+    "subjects": {
+      "compulsory": [
+        "Physics",
+        "Chemistry",
+        "Mathematics",
+        "English"
+      ],
+      "optional": [
+        "Computer Science (CS)",
+        "Informatics Practices (IP)",
+        "Physical Education",
+        "Economics"
+      ]
+    },
+    "subjectTopics": [
+       {
+        "subject": "Mathematics",
+        "topics": [
+          "Calculus (Differentiation & Integration)",
+          "Advanced Algebra",
+          "Trigonometry",
+          "Matrices & Determinants",
+          "Probability",
+          "Vectors",
+          "3D Geometry"
+        ]
+      },
+      {
+        "subject": "Physics",
+        "topics": [
+          "Classical Mechanics",
+          "Thermodynamics",
+          "Kinematics",
+          "Electrostatics",
+          "Electromagnetism",
+          "Optics",
+          "Wave Motion",
+          "Modern/Nuclear Physics"
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "topics": [
+          "General Organic Chemistry",
+          "Biomolecules (Proteins, Carbohydrates)",
+          "Coordination Compounds",
+          "Electrochemistry",
+          "Mole Concepts",
+          "Atomic Structure",
+          "Periodic Classification",
+          "Chemical Bonding",
+          "Equilibrium",
+          "Nomenclature",
+          "Chemical Kinetics",
+          "Thermodynamics"
+        ]
+      }
+    ],
+    "interestsRequired": [
+      "Mathematical Aptitude: A genuine love for solving complex equations and grinding through numerical problems.",
+      "Tech & Logic Driven: Curiosity about how software code executes, how machines operate, or how structural systems are built.",
+      "Problem-Solving Mindset: Enjoying logical puzzles, spatial reasoning, and analytical thinking."
+    ],
+    "careerOptions": [
+      "Software Engineer",
+      "AI Developer",
+      "Data Scientist",
+      "Actuarial Analyst",
+      "Aerospace Engineer",
+      "Mechanical Engineer",
+      "Commercial Pilot",
+      "Aviation Expert",
+      "Architect",
+      "Urban Planner",
+      "Defence"
+    ],
+    "entranceExams": [
+      {
+        "name": "JEE Main & JEE Advanced",
+        "purpose": "For admission into premium engineering institutes like IITs, NITs, and IIITs."
+      },
+      {
+        "name": "BITSAT",
+        "purpose": "Entrance exam for all branches of BITS (Birla Institute of Technology and Science)."
+      },
+      {
+        "name": "NATA",
+        "purpose": "National Aptitude Test in Architecture (mandatory for B.Arch programs)."
+      },
+      {
+        "name": "NDA",
+        "purpose": "National Defence Academy exam to join the Indian Air Force, Navy, or Army as an officer."
+      }
+    ]
+  },
+  {
+    "name": "PCB (Physics, Chemistry, Biology)",
+    "description": "This sub-stream is dedicated to students aiming for careers in medicine, surgery, dentistry, pharmacy, biotechnology, nursing, and life sciences.",
+    "subjects": {
+      "compulsory": [
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "English"
+      ],
+      "optional": [
+        "Psychology",
+        "Biotechnology",
+        "Home Science",
+        "Physical Education"
+      ]
+    },
+    "subjectTopics": [
+      {
+        "subject": "Biology",
+        "topics": [
+          "Human Anatomy & Physiology",
+          "Plant Physiology",
+          "Genetics & Evolution",
+          "Cell Structure and Division",
+          "Reproduction",
+          "Biotechnology",
+          "Ecology"
+        ]
+      },
+      {
+        "subject": "Physics",
+        "topics": [
+          "Classical Mechanics",
+          "Thermodynamics",
+          "Kinematics",
+          "Electrostatics",
+          "Electromagnetism",
+          "Optics",
+          "Wave Motion",
+          "Modern/Nuclear Physics"
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "topics": [
+          "General Organic Chemistry",
+          "Biomolecules (Proteins, Carbohydrates)",
+          "Coordination Compounds",
+          "Electrochemistry",
+          "Mole Concepts",
+          "Atomic Structure",
+          "Periodic Classification",
+          "Chemical Bonding",
+          "Equilibrium",
+          "Nomenclature",
+          "Chemical Kinetics",
+          "Thermodynamics"
+        ]
+      }
+    ],
+    "interestsRequired": [
+      "Biological Curiosity: Deep fascination with the human body, animal life, plants, microorganisms, and diseases.",
+      "Rote Learning & Memorization: Patience and ability to memorize large amounts of theoretical text, complex structural diagrams, and scientific nomenclature.",
+      "Research & Healthcare Instincts: Interest in clinical lab work, researching medical cures, or a strong desire to serve patients."
+    ],
+    "careerOptions": [
+      "Medical Doctor",
+    "Biomedical Engineer",
+    "Biotechnology Researcher",
+    "Pharmacist",
+    "Bioinformatics Scientist",
+    "Geneticist",
+    "Environmental Engineer",
+    "Agricultural Scientist",
+    "Neuroscientist",
+    "Food Technologist"
+    ],
+    "entranceExams": [
+      {
+        "name": "NEET-UG",
+        "purpose": "National Eligibility cum Entrance Test. This is the single mandatory exam in India for MBBS, BDS, AYUSH, and Veterinary courses."
+      },
+      {
+        "name": "CUET-UG",
+        "purpose": "Common University Entrance Test (used for getting into top central universities for B.Sc in Biotechnology, Microbiology, Agriculture, etc.)."
+      }
+    ]
+  },
+  {
+    "name": "PCMB (Physics, Chemistry, Mathematics, Biology)",
+    "description": "This is a hybrid stream that combines both Mathematics and Biology. It keeps career pathways open for both engineering and medical fields simultaneously.",
+    "subjects": {
+      "compulsory": [
+        "Physics",
+        "Chemistry",
+        "Mathematics",
+        "Biology",
+        "English"
+      ],
+      "optional": [
+        "Mathematics OR Biology"
+      ]
+    },
+    "subjectTopics": [
+      {
+        "subject": "Mathematics",
+        "topics": [
+          "Calculus (Differentiation & Integration)",
+          "Advanced Algebra",
+          "Trigonometry",
+          "Matrices & Determinants",
+          "Probability",
+          "Vectors",
+          "3D Geometry"
+        ]
+      },
+      {
+        "subject": "Biology",
+        "topics": [
+          "Human Anatomy & Physiology",
+          "Plant Physiology",
+          "Genetics & Evolution",
+          "Cell Structure and Division",
+          "Reproduction",
+          "Biotechnology",
+          "Ecology"
+        ]
+      },
+      {
+        "subject": "Physics",
+        "topics": [
+          "Classical Mechanics",
+          "Thermodynamics",
+          "Kinematics",
+          "Electrostatics",
+          "Electromagnetism",
+          "Optics",
+          "Wave Motion",
+          "Modern/Nuclear Physics"
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "topics": [
+          "General Organic Chemistry",
+          "Biomolecules (Proteins, Carbohydrates)",
+          "Coordination Compounds",
+          "Electrochemistry",
+          "Mole Concepts",
+          "Atomic Structure",
+          "Periodic Classification",
+          "Chemical Bonding",
+          "Equilibrium",
+          "Nomenclature",
+          "Chemical Kinetics",
+          "Thermodynamics"
+        ]
+      }
+    ],
+    "interestsRequired": [
+      "Dual Academic Mastery: Equal command and interest in both abstract mathematical logic and theoretical biological sciences.",
+      "High Academic Endurance: Mental capacity to handle an extremely heavy syllabus load and intense study hours compared to other streams.",
+      "Career Flexibility: A deliberate choice to keep both tech and medical choices open until graduation from high school."
+    ],
+    "careerOptions": [
+      "Software Engineer",
+    "AI Developer",
+    "Data Scientist",
+    "Actuarial Analyst",
+    "Aerospace Engineer",
+    "Mechanical Engineer",
+    "Commercial Pilot",
+    "Aviation Expert",
+    "Architect",
+    "Urban Planner",
+    "Defence",
+    "Defence Scientist",
+    "Medical Doctor",
+    "Biomedical Engineer",
+    "Biotechnology Researcher",
+    "Pharmacist",
+    "Bioinformatics Scientist",
+    "Geneticist",
+    "Environmental Engineer",
+    "Agricultural Scientist",
+    "Neuroscientist",
+    "Food Technologist"
+    ],
+    "entranceExams": [
+      {
+        "name": "JEE Main / NEET-UG",
+        "purpose": "Dual eligibility to attempt both."
+      },
+      {
+        "name": "IAT (IISER Aptitude Test)",
+        "purpose": "Conducted for admission to IISERs (Indian Institutes of Science Education and Research) and IISc Bangalore for pure research careers."
+      }
+    ]
+  },
+  {
+    "name": "Commerce Stream",
+    "description": "This stream focuses on the corporate ecosystem, financial management, trade, business policies, and economics.",
+    "subjects": {
+      "compulsory": [
+        "Accountancy",
+        "Business Studies",
+        "Economics",
+        "English"
+      ],
+      "optional": [
+        "Mathematics",
+        "Applied Mathematics",
+        "Informatics Practices (IP)",
+        "Entrepreneurship",
+        "Physical Education"
+      ]
+    },
+    "subjectTopics": [
+      {
+        "subject": "Accountancy",
+        "topics": [
+          "Financial Statements of Companies",
+          "Journal & Ledger Accounting",
+          "Partnership Accounts",
+          "Cash Flow Statements",
+          "Depreciation",
+          "Asset Valuation"
+        ]
+      },
+      {
+        "subject": "Business Studies",
+        "topics": [
+          "Principles of Management",
+          "Business Environment",
+          "Financial Markets",
+          "Marketing Management",
+          "Consumer Protection",
+          "Human Resource Principles"
+        ]
+      },
+      {
+        "subject": "Economics",
+        "topics": [
+          "Microeconomics (Consumer Equilibrium, Demand & Supply)",
+          "Macroeconomics (National Income, Banking, Government Budget)",
+          "Indian Economic Development"
+        ]
+      }
+    ],
+    "interestsRequired": [
+      "Love for Numbers & Data: Comfort with compiling sheets of financial data, analyzing corporate numbers, and studying percentages or ratios.",
+      "Corporate Interest: Natural curiosity about how startups secure funding, how corporations operate, and how global stock markets fluctuate.",
+      "Organizational Mindset: Inherently good at planning, managing money, and calculating financial risks."
+    ],
+    "careerOptions": [
+      "Chartered Accountant (CA)",
+      "Company Secretary (CS)",
+      "Investment Banker",
+      "Financial Analyst",
+      "Corporate Lawyer",
+      "Marketing Manager",
+      "Human Resource Manager",
+      "Product Manager"
+    ],
+    "entranceExams": [
+      {
+        "name": "CA Foundation / CSEET / ACCA",
+        "purpose": "The entry-level exams for the Institute of Chartered Accountants of India (ICAI) and Institute of Company Secretaries of India (ICSI)."
+      },
+      {
+        "name": "IPMAT",
+        "purpose": "Integrated Program in Management Aptitude Test (conducted by IIM Indore/Rohtak for a direct 5-year BBA+MBA integrated degree straight after 12th)."
+      },
+      {
+        "name": "CLAT",
+        "purpose": "Common Law Admission Test for entry into the premier National Law Universities (NLUs)."
+      },
+      {
+        "name": "CUET-UG",
+        "purpose": "For admission into high-ranking commerce colleges (like SRCC, LSR) for B.Com (Hons) and Economics (Hons)."
+      }
+    ]
+  },
+  {
+    "name": "Arts / Humanities Stream",
+    "description": "This stream covers the comprehensive study of human society, history, literature, human behavior, and governance structures.",
+    "subjects": {
+      "compulsory": [
+        "English",
+        "Hindi",
+        "or any core regional/foreign language"
+      ],
+      "optional": [
+        "History",
+        "Political Science",
+        "Geography",
+        "Sociology",
+        "Psychology",
+        "Economics"
+      ]
+    },
+    "subjectTopics": [
+      {
+        "subject": "History",
+        "topics": [
+          "Ancient, Medieval, and Modern Indian Civilizations",
+          "World History Themes",
+          "Colonialism",
+          "Industrial Revolutions"
+        ]
+      },
+      {
+        "subject": "Political Science",
+        "topics": [
+          "The Constitution of India",
+          "Fundamental Rights & Duties",
+          "Working of Democratic Systems",
+          "Global Politics",
+          "International Relations"
+        ]
+      },
+      {
+        "subject": "Geography",
+        "topics": [
+          "Fundamentals of Physical Geography (Climate, Oceans, Landforms)",
+          "Human Geography (Population, Settlements)",
+          "Map Work",
+          "Global Resources"
+        ]
+      },
+      {
+        "subject": "Psychology",
+        "topics": [
+          "Human Behavior & Cognitive Processes",
+          "Psychological Disorders",
+          "Memory & Learning Theories",
+          "Intelligence Testing",
+          "Therapeutic Methods"
+        ]
+      },
+      {
+        "subject": "Economics",
+        "topics": [
+          "Microeconomics (Consumer Equilibrium, Demand & Supply)",
+          "Macroeconomics (National Income, Banking, Government Budget)",
+          "Indian Economic Development"
+        ]
+      }
+    ],
+    "interestsRequired": [
+      "Extensive Reading & Writing: A genuine passion for reading vast quantities of literature, text documents, and writing subjective, analytical essays.",
+      "Socio-Political Awareness: Keen interest in current affairs, historical events, cultural differences, and social justice issues.",
+      "Critical Thinking: Ability to debate, challenge perspectives, and analyze abstract social issues objectively."
+    ],
+    "careerOptions": [
+      "Civil Servant (IAS, IPS, IFS officers via UPSC)",
+      "Journalist",
+      "Media Correspondent",
+      "Content Strategist",
+      "Clinical Psychologist",
+      "Counselor",
+      "Archaeologist",
+      "Historian",
+      "Public Policy Analyst",
+      "UN Diplomat"
+    ],
+    "entranceExams": [
+      {
+        "name": "CUET-UG",
+        "purpose": "The main gateway for top-tier humanities programs at central universities like Delhi University (DU), JNU, and BHU."
+      },
+      {
+        "name": "CLAT / AILET",
+        "purpose": "Law entrance exams for corporate, criminal, or civil law paths."
+      },
+      {
+        "name": "UCEED / NID DAT",
+        "purpose": "National level exams for students aiming for elite Design colleges (IIT Design, National Institute of Design)."
+      },
+      {
+        "name": "UPSC CSE (Long Term Goal)",
+        "purpose": "While this exam is taken after graduation, an Arts degree builds the strongest underlying base for the Indian Civil Services exam syllabus."
+      }
+    ]
+  }
+]

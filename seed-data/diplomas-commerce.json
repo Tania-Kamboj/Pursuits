@@ -1,0 +1,486 @@
+[
+      {
+        "name": "Diploma in Financial Accounting (DFA)",
+        "interests": [
+          "Recording daily business transactions",
+          "Managing general ledgers",
+          "Tracking cash flows",
+          "Generating basic balance sheets"
+        ],
+        "duration": "1 year",
+        "coreSubjects": [
+          "Principles of Accounting",
+          "Tally ERP/Prime",
+          "Business Mathematics",
+          "Corporate Bookkeeping",
+          "Computerized Accounting"
+        ],
+        "entranceExams": ["Direct admission based on 12th board marks"],
+        "careers": [
+          "Accounts Executive",
+          "Junior Accountant",
+          "Bookkeeper",
+          "Billing Executive"
+        ]
+      },
+      {
+        "name": "Diploma in Banking and Finance (DBF)",
+        "interests": [
+          "Understanding banking operations",
+          "Retail loan processing",
+          "Investment instruments",
+          "Modern digital payment systems"
+        ],
+        "duration": "1 year",
+        "coreSubjects": [
+          "Banking Law and Practice",
+          "Modern Banking Technology",
+          "Corporate Finance",
+          "Risk Management",
+          "Insurance Products"
+        ],
+        "entranceExams": [
+          "Direct college merit screening",
+          "Institute-specific aptitude tests"
+        ],
+        "careers": [
+          "Bank Teller",
+          "Customer Relationship Executive",
+          "Loan Operations Assistant",
+          "Financial Sales Officer"
+        ]
+      },
+      {
+        "name": "Diploma in Income Tax and GST (DITG)",
+        "interests": [
+          "Direct and indirect taxation laws",
+          "Filing tax returns online",
+          "Managing corporate tax compliance",
+          "Auditing bills"
+        ],
+        "duration": "6 months to 1 year",
+        "coreSubjects": [
+          "Income Tax Act",
+          "Goods and Services Tax (GST) Framework",
+          "E-Filing Procedures",
+          "Customs Duty",
+          "Tax Deducted at Source (TDS)"
+        ],
+        "entranceExams": ["Direct merit-based admission"],
+        "careers": [
+          "GST Practitioner",
+          "Tax Consultant Assistant",
+          "Tax Filing Executive",
+          "Accounts Compliance Auditor"
+        ]
+      },
+      {
+        "name": "Diploma in Digital Marketing (DDM)",
+        "interests": [
+          "Promoting brands online",
+          "Analyzing website traffic data",
+          "Designing social media campaigns",
+          "Improving search rankings"
+        ],
+        "duration": "6 months to 1 year",
+        "coreSubjects": [
+          "Search Engine Optimization (SEO)",
+          "Pay-Per-Click (PPC) Advertising",
+          "Social Media Analytics",
+          "Content Strategy",
+          "Google Analytics"
+        ],
+        "entranceExams": ["Institutional aptitude checks", "Direct entry"],
+        "careers": [
+          "Digital Marketing Executive",
+          "SEO Analyst",
+          "Social Media Manager Trainee",
+          "Content Specialist"
+        ]
+      },
+      {
+        "name": "Diploma in Business Management (DBM)",
+        "interests": [
+          "Understanding corporate structures",
+          "Team leadership",
+          "Daily office administration",
+          "Strategic resource allocation"
+        ],
+        "duration": "1 year",
+        "coreSubjects": [
+          "Principles of Management",
+          "Organizational Behaviour",
+          "Business Communication",
+          "Marketing Management",
+          "Human Resource Basics"
+        ],
+        "entranceExams": ["Direct admission based on class 12th merit"],
+        "careers": [
+          "Management Trainee",
+          "Office Administrator",
+          "Business Development Associate",
+          "Operations Assistant"
+        ]
+      },
+      {
+        "name": "Diploma in Export and Import Management (DEIM)",
+        "interests": [
+          "Global trade regulations",
+          "Customs clearance procedures",
+          "Shipping documentation",
+          "International logistics networks"
+        ],
+        "duration": "1 year",
+        "coreSubjects": [
+          "International Trade Laws",
+          "Foreign Exchange Management",
+          "Customs Valuation",
+          "Shipping and Logistics",
+          "Export Documentation"
+        ],
+        "entranceExams": [
+          "University-level merit tracking",
+          "Direct admission"
+        ],
+        "careers": [
+          "Export-Import Coordinator",
+          "Customs Documentation Executive",
+          "Logistics Assistant",
+          "Freight Forwarding Agent"
+        ]
+      },
+      {
+        "name": "Diploma in Wealth Management (DWM)",
+        "interests": [
+          "Helping individuals grow their money",
+          "Evaluating stock market options",
+          "Designing mutual fund portfolios"
+        ],
+        "duration": "1 year",
+        "coreSubjects": [
+          "Investment Planning",
+          "Mutual Funds",
+          "Equity Research Basics",
+          "Insurance Planning",
+          "Portfolio Management"
+        ],
+        "entranceExams": ["Direct admission based on 12th commerce percentage"],
+        "careers": [
+          "Wealth Management Assistant",
+          "Mutual Fund Adviser",
+          "Financial Planner Trainee",
+          "Relationship Manager"
+        ]
+      },
+      {
+        "name": "Diploma in Capital Markets (DCM)",
+        "interests": [
+          "Live stock trading mechanisms",
+          "Technical chart analysis",
+          "Derivatives trading",
+          "Commodity market operations"
+        ],
+        "duration": "6 months to 1 year",
+        "coreSubjects": [
+          "Stock Market Operations",
+          "Technical Analysis",
+          "Equity Derivatives",
+          "Commodity Markets",
+          "SEBI Regulations"
+        ],
+        "entranceExams": [
+          "Merit-based entry",
+          "Specialized stock institute assessments"
+        ],
+        "careers": [
+          "Equity Dealer",
+          "Stock Broker Assistant",
+          "Technical Analyst Intern",
+          "Market Operations Executive"
+        ]
+      },
+      {
+        "name": "Diploma in E-Commerce Management (DECM)",
+        "interests": [
+          "Managing online storefronts",
+          "Tracking digital consumer trends",
+          "Optimizing product listings",
+          "Supply chain logistics"
+        ],
+        "duration": "1 year",
+        "coreSubjects": [
+          "E-Commerce Architecture",
+          "Digital Payment Gateways",
+          "Supply Chain Management",
+          "Inventory Control",
+          "Online Consumer Behaviour"
+        ],
+        "entranceExams": ["Direct institutional merit screening"],
+        "careers": [
+          "E-commerce Catalog Executive",
+          "Online Store Manager",
+          "Inventory Coordinator",
+          "Supply Chain Trainee"
+        ]
+      },
+      {
+        "name": "Diploma in Human Resource Management (DHRM)",
+        "interests": [
+          "Coordinating employee recruitment",
+          "Processing monthly payrolls",
+          "Arranging training schedules",
+          "Handling employee welfare"
+        ],
+        "duration": "1 year",
+        "coreSubjects": [
+          "Recruitment and Selection",
+          "Payroll Administration",
+          "Labour Laws in India",
+          "Performance Appraisal",
+          "Human Resource Planning"
+        ],
+        "entranceExams": ["Direct college merit screening"],
+        "careers": [
+          "HR Recruiter",
+          "Payroll Executive",
+          "HR Operations Assistant",
+          "Training Coordinator"
+        ]
+      },
+      {
+        "name": "Diploma in Cost and Management Accounting (DCMA)",
+        "interests": [
+          "Calculating product manufacturing costs",
+          "Controlling corporate budget deficits",
+          "Analyzing operational waste"
+        ],
+        "duration": "1 year",
+        "coreSubjects": [
+          "Cost Bookkeeping",
+          "Budgetary Control",
+          "Material Costing",
+          "Overhead Allocation",
+          "Variance Analysis"
+        ],
+        "entranceExams": ["Merit tracking based on 12th commerce marks"],
+        "careers": [
+          "Cost Accounting Assistant",
+          "Budget Analyst Trainee",
+          "Internal Audit Clerk"
+        ]
+      },
+      {
+        "name": "Diploma in Retail Management (DRM)",
+        "interests": [
+          "Managing mega-store visual merchandising",
+          "Tracking floor inventory levels",
+          "Driving retail sales strategies"
+        ],
+        "duration": "1 year",
+        "coreSubjects": [
+          "Store Operations",
+          "Visual Merchandising",
+          "Supply Chain in Retail",
+          "Customer Relationship Management (CRM)",
+          "Retail Billing Systems"
+        ],
+        "entranceExams": ["Institute-specific screening", "Direct board merit"],
+        "careers": [
+          "Assistant Store Manager",
+          "Retail Sales Executive",
+          "Visual Merchandiser Trainee",
+          "Inventory Supervisor"
+        ]
+      },
+      {
+        "name": "Diploma in Secretarial Practice (DSP)",
+        "interests": [
+          "Handling top-level executive correspondence",
+          "Transcription work",
+          "Board meeting scheduling",
+          "Office filing architectures"
+        ],
+        "duration": "1 to 2 years",
+        "coreSubjects": [
+          "Shorthand (Stenography)",
+          "Advanced Typing",
+          "Business Correspondence",
+          "Corporate Etiquette",
+          "Office Automation software"
+        ],
+        "entranceExams": [
+          "State technical board exams",
+          "Direct merit evaluation"
+        ],
+        "careers": [
+          "Stenographer",
+          "Personal Assistant (PA)",
+          "Executive Secretary",
+          "Front Office Supervisor"
+        ]
+      },
+      {
+        "name": "Diploma in Supply Chain and Logistics Management (DSCLM)",
+        "interests": [
+          "Streamlining warehouse storage operations",
+          "Fleet tracking",
+          "Raw material procurement",
+          "Distribution pipelines"
+        ],
+        "duration": "1 year",
+        "coreSubjects": [
+          "Procurement Systems",
+          "Warehouse Operations",
+          "Inventory Management",
+          "Transportation Economics",
+          "Reverse Logistics"
+        ],
+        "entranceExams": ["Direct admission", "Institutional aptitude checks"],
+        "careers": [
+          "Logistics Coordinator",
+          "Warehouse Assistant",
+          "Inventory Controller",
+          "Procurement Executive"
+        ]
+      },
+      {
+        "name": "Diploma in Public Relations and Corporate Communication (DPRCC)",
+        "interests": [
+          "Writing official corporate press releases",
+          "Managing brand images",
+          "Coordinating media interviews during events"
+        ],
+        "duration": "1 year",
+        "coreSubjects": [
+          "Media Relations",
+          "Crisis Management",
+          "Corporate Branding",
+          "Internal Communication",
+          "Event PR Strategy"
+        ],
+        "entranceExams": ["College-level interview or written aptitude test"],
+        "careers": [
+          "PR Executive",
+          "Media Coordinator Assistant",
+          "Corporate Communication Trainee",
+          "Client Relations Executive"
+        ]
+      },
+      {
+        "name": "Diploma in Insurance and Risk Management (DIRM)",
+        "interests": [
+          "Assessing individual or corporate asset liabilities",
+          "Designing insurance policies",
+          "Processing monetary claims"
+        ],
+        "duration": "1 year",
+        "coreSubjects": [
+          "General Insurance Principles",
+          "Life Insurance Products",
+          "Underwriting Management",
+          "Claims Settlement Laws",
+          "Actuarial Elements"
+        ],
+        "entranceExams": ["Direct merit list evaluation"],
+        "careers": [
+          "Insurance Underwriter Assistant",
+          "Claims Processor",
+          "Insurance Agent Supervisor",
+          "Risk Analyst Trainee"
+        ]
+      },
+      {
+        "name": "Diploma in Event Management (DEM)",
+        "interests": [
+          "Budgeting corporate conferences",
+          "Coordination of celebrity weddings",
+          "Vendor contracting",
+          "Large-scale stage setups"
+        ],
+        "duration": "1 year",
+        "coreSubjects": [
+          "Event Planning and Design",
+          "Sponsorship and Budgeting",
+          "Marketing and PR for Events",
+          "Vendor Logistics"
+        ],
+        "entranceExams": [
+          "Group discussion and personal interview at institute level"
+        ],
+        "careers": [
+          "Event Coordinator",
+          "Logistics Manager Assistant",
+          "Venue Manager",
+          "Corporate Event Executive"
+        ]
+      },
+      {
+        "name": "Diploma in Real Estate Management (DREM)",
+        "interests": [
+          "Commercial property valuations",
+          "Property law documentation",
+          "Real estate brokerage",
+          "Building asset management"
+        ],
+        "duration": "1 year",
+        "coreSubjects": [
+          "Real Estate Laws (RERA)",
+          "Property Valuation Principles",
+          "Real Estate Marketing",
+          "Land Documentation"
+        ],
+        "entranceExams": ["Direct entry based on 12th class percentage"],
+        "careers": [
+          "Real Estate Consultant Assistant",
+          "Property Manager",
+          "Asset Valuation Executive"
+        ]
+      },
+      {
+        "name": "Diploma in International Business (DIB)",
+        "interests": [
+          "Global market research",
+          "Studying multi-currency exchange fluctuations",
+          "Cross-border consumer trends"
+        ],
+        "duration": "1 year",
+        "coreSubjects": [
+          "Global Economics",
+          "International Marketing",
+          "Foreign Exchange Markets",
+          "Cross-Cultural Management"
+        ],
+        "entranceExams": ["University or college entrance screening"],
+        "careers": [
+          "International Market Researcher",
+          "Forex Operations Assistant",
+          "Global Trade Trainee"
+        ]
+      },
+      {
+        "name": "Diploma in Entrepreneurship (DE)",
+        "interests": [
+          "Learning how to draft startup business models",
+          "Pitching ideas to investors",
+          "Launching local business enterprises"
+        ],
+        "duration": "1 year",
+        "coreSubjects": [
+          "Business Idea Formulation",
+          "Startup Financing",
+          "Small Business Laws",
+          "Marketing for Startups",
+          "Venture Capital Basics"
+        ],
+        "entranceExams": [
+          "Direct merit-based admission",
+          "Pitch-based screening"
+        ],
+        "careers": [
+          "Small Business Owner",
+          "Startup Incubator Assistant",
+          "Business Consultant Trainee",
+          "Franchise Operator"
+        ]
+      }
+]

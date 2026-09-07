@@ -1,0 +1,693 @@
+[
+  {
+    "name": "Historical Research, Museology, and Archival Studies",
+    "stream": "Arts",
+    "interests": [
+      "Analyzing historical artifacts",
+      "Exploring ancient civilizations",
+      "Deciphering old scripts",
+      "Preserving cultural heritage"
+    ],
+    "focusAreas": [
+      "Ancient, medieval, and modern world history",
+      "Historiography",
+      "Archaeology",
+      "Epigraphy",
+      "Museum curation methods"
+    ],
+    "careers": [
+      "Archivist",
+      "Museum curator",
+      "Historical researcher",
+      "Archaeologist",
+      "Heritage manager",
+      "Epigraphist"
+    ]
+  },
+  {
+    "name": "Public Policy, Governance, and Political Systems",
+    "stream": "Arts",
+    "interests": [
+      "Understanding government policies",
+      "Political campaigns",
+      "Legislative frameworks",
+      "Civil administration workflows"
+    ],
+    "focusAreas": [
+      "Indian constitution",
+      "Comparative politics",
+      "Public administration theory",
+      "Global political thought",
+      "Public policy formulation"
+    ],
+    "careers": [
+      "Policy analyst",
+      "Legislative assistant (LAMP Fellow)",
+      "Political consultant",
+      "Public administrator",
+      "Political journalist"
+    ]
+  },
+  {
+    "name": "Geospatial Analysis, Cartography, and Urban Planning",
+    "stream": "Arts",
+    "interests": [
+      "Mapping territories",
+      "Analyzing climate patterns",
+      "Studying urban layouts",
+      "Working with digital satellite data"
+    ],
+    "focusAreas": [
+      "Geomorphology",
+      "Climatology",
+      "GIS (Geographic Information Systems) software applications",
+      "Remote sensing",
+      "Urban geography"
+    ],
+    "careers": [
+      "GIS analyst",
+      "Town planning assistant",
+      "Cartographer",
+      "Climate risk assessment officer",
+      "Spatial data coordinator"
+    ]
+  },
+  {
+    "name": "Social Dynamics, Community Development, and Anthropology",
+    "stream": "Arts",
+    "interests": [
+      "Observing community behaviors",
+      "Tracking social movements",
+      "Studying tribal cultures",
+      "Researching structural inequality"
+    ],
+    "focusAreas": [
+      "Classical sociological theories",
+      "Research methodologies",
+      "Gender studies",
+      "Rural/urban sociology",
+      "Cultural anthropology"
+    ],
+    "careers": [
+      "Social researcher",
+      "Corporate social responsibility (CSR) officer",
+      "Community development coordinator",
+      "NGO program manager"
+    ]
+  },
+  {
+    "name": "Clinical and Organizational Mental Health",
+    "stream": "Arts",
+    "interests": [
+      "Understanding human behavior",
+      "Diagnosing mental health conditions",
+      "Counseling individuals",
+      "Studying cognitive processes"
+    ],
+    "focusAreas": [
+      "Cognitive psychology",
+      "Psychopathology",
+      "Counseling techniques",
+      "Psychometric testing",
+      "Organizational behavior"
+    ],
+    "careers": [
+      "Counseling psychologist",
+      "Human resource counselor",
+      "Psychometric analyst",
+      "Rehabilitation assistant",
+      "Mental health content specialist"
+    ]
+  },
+  {
+    "name": "Quantitative and Theoretical Economic Analytics",
+    "stream": "Arts",
+    "interests": [
+      "Analyzing market trends",
+      "Tracking inflation metrics",
+      "Calculating consumer demand",
+      "Studying public finance"
+    ],
+    "focusAreas": [
+      "Microeconomics",
+      "Macroeconomics",
+      "Introductory econometrics",
+      "Statistical methods for economics",
+      "Developmental policies"
+    ],
+    "careers": [
+      "Economic analyst",
+      "Financial data associate",
+      "Market research consultant",
+      "Pricing strategist",
+      "Credit risk assistant"
+    ]
+  },
+  {
+    "name": "International Relations and Geopolitical Strategy",
+    "stream": "Arts",
+    "interests": [
+      "Tracking global conflicts",
+      "Analyzing foreign policies",
+      "Diplomatic negotiations",
+      "International trade strategies"
+    ],
+    "focusAreas": [
+      "Global security",
+      "International organizations (UN, WTO)",
+      "Foreign policy of major powers",
+      "International law"
+    ],
+    "careers": [
+      "Diplomatic liaison associate",
+      "Foreign policy writer",
+      "Geopolitical risk analyst",
+      "International NGO strategist"
+    ]
+  },
+  {
+    "name": "Civil Services and Public Administration",
+    "stream": "Arts",
+    "interests": [
+      "Entering administrative leadership",
+      "Executing government schemes",
+      "Public welfare",
+      "National governance frameworks"
+    ],
+    "focusAreas": [
+      "Indian polity",
+      "Indian economy",
+      "Modern history",
+      "Ethics",
+      "Aptitude systems",
+      "Current affairs integration"
+    ],
+    "careers": [
+      "Preparation track for UPSC Civil Services (IAS, IPS, IFS)",
+      "State PCS officer",
+      "Public sector unit (PSU) administrative assistant"
+    ]
+  },
+  {
+    "name": "Social Work and Grassroots Welfare Execution",
+    "stream": "Arts",
+    "interests": [
+      "Direct community rehabilitation",
+      "Managing crisis hotlines",
+      "Executing rural health drives",
+      "Working on field advocacy"
+    ],
+    "focusAreas": [
+      "Social work history",
+      "Field work methodologies",
+      "Counseling basics",
+      "Family welfare laws",
+      "Disaster management systems"
+    ],
+    "careers": [
+      "Medical social worker",
+      "NGO field director",
+      "Juvenile rehabilitation counselor",
+      "Social welfare officer"
+    ]
+  },
+  {
+    "name": "Print, Broadcast, and Investigative Journalism",
+    "stream": "Arts",
+    "interests": [
+      "Reporting live news",
+      "Writing editorial columns",
+      "Video editing",
+      "Interviewing public figures",
+      "Investigative research"
+    ],
+    "focusAreas": [
+      "Reporting and editing methodologies",
+      "Media ethics",
+      "Broadcast journalism",
+      "Digital newsroom tools",
+      "Press laws"
+    ],
+    "careers": [
+      "News reporter",
+      "Copy editor",
+      "Broadcast producer",
+      "Digital content journalist",
+      "Photojournalist"
+    ]
+  },
+  {
+    "name": "Corporate Communications and Public Relations",
+    "stream": "Arts",
+    "interests": [
+      "Managing corporate brand image",
+      "Writing media press releases",
+      "Handling public relations crises",
+      "Corporate event communication"
+    ],
+    "focusAreas": [
+      "Strategic communication",
+      "Media relations frameworks",
+      "Corporate copywriting",
+      "Consumer PR",
+      "Crisis communication models"
+    ],
+    "careers": [
+      "Public relations executive",
+      "Corporate communications coordinator",
+      "Media relations specialist",
+      "Brand spokesperson"
+    ]
+  },
+  {
+    "name": "Corporate and Civil Law Foundations",
+    "stream": "Arts",
+    "interests": [
+      "Reading legal statutes",
+      "Arguing cases in courts",
+      "Drafting legal agreements",
+      "Corporate compliance audits"
+    ],
+    "focusAreas": [
+      "Law of contracts",
+      "Constitutional law",
+      "Family law",
+      "Code of civil/criminal procedure",
+      "Environmental law"
+    ],
+    "careers": [
+      "Corporate legal associate",
+      "Litigation attorney assistant",
+      "Legal draftsperson",
+      "Compliance manager",
+      "Legal researcher"
+    ]
+  },
+  {
+    "name": "Linguistics, Translation, and Cultural Training",
+    "stream": "Arts",
+    "interests": [
+      "Decoding language structures",
+      "Translation work",
+      "Teaching languages",
+      "Working with cross-cultural texts"
+    ],
+    "focusAreas": [
+      "Phonetics",
+      "Syntax architecture",
+      "Advanced grammar",
+      "Translation methodologies",
+      "Literature analysis"
+    ],
+    "careers": [
+      "Bilingual translator",
+      "Corporate language trainer",
+      "Localization specialist",
+      "Transcriptionist",
+      "Language content reviewer"
+    ]
+  },
+  {
+    "name": "Sustainable Development and Environmental Policy",
+    "stream": "Arts",
+    "interests": [
+      "Preserving natural habitats",
+      "Managing carbon footprint metrics",
+      "Analyzing waste disposal laws",
+      "Environmental activism"
+    ],
+    "focusAreas": [
+      "Ecology principles",
+      "Environmental economics",
+      "Sustainable development frameworks",
+      "Green policy regulations"
+    ],
+    "careers": [
+      "Environmental consultant",
+      "Sustainability analyst",
+      "Green policy researcher",
+      "Conservation organization coordinator"
+    ]
+  },
+  {
+    "name": "Demographic Studies and Population Analytics",
+    "stream": "Arts",
+    "interests": [
+      "Tracking census data trends",
+      "Mapping birth/death metrics",
+      "Migration analytics",
+      "Assessing healthcare distribution models"
+    ],
+    "focusAreas": [
+      "Demography principles",
+      "Mortality-fertility modeling",
+      "Survey research methods",
+      "Population data analytics"
+    ],
+    "careers": [
+      "Demographic data analyst",
+      "Census research associate",
+      "Public health planner",
+      "Survey operations coordinator"
+    ]
+  },
+  {
+    "name": "Heritage Management and Sustainable Tourism",
+    "stream": "Arts",
+    "interests": [
+      "Showcasing cultural monuments",
+      "Guiding architectural tours",
+      "Historical event management",
+      "Hospitality logistics"
+    ],
+    "focusAreas": [
+      "Tourism principles",
+      "Cultural heritage curation",
+      "Travel agency operations",
+      "Ticketing software systems"
+    ],
+    "careers": [
+      "Heritage tour specialist",
+      "Travel operations coordinator",
+      "Cultural event planner",
+      "Tourism board executive"
+    ]
+  },
+  {
+    "name": "Liberal Arts and Multidisciplinary Systems",
+    "stream": "Arts",
+    "interests": [
+      "Blending multiple distinct academic fields",
+      "Writing critical essays",
+      "Philosophical debate",
+      "Flexible career paths"
+    ],
+    "focusAreas": [
+      "Interdisciplinary research tracks",
+      "Critical thinking paradigms",
+      "Global philosophy",
+      "Chosen major/minor electives"
+    ],
+    "careers": [
+      "Corporate strategy associate",
+      "Research consultant",
+      "Creative writer",
+      "Multidisciplinary academic advisor"
+    ]
+  },
+  {
+    "name": "Human Resource Administration and Labor Studies",
+    "stream": "Arts",
+    "interests": [
+      "Organizing workplace teams",
+      "Resolving industrial employee disputes",
+      "Managing payroll profiles",
+      "Corporate hiring"
+    ],
+    "focusAreas": [
+      "Personnel management systems",
+      "Industrial relations laws",
+      "Organizational psychology",
+      "Employee performance metrics"
+    ],
+    "careers": [
+      "HR generalist",
+      "Corporate recruiter",
+      "Talent acquisition specialist",
+      "Employee relations assistant"
+    ]
+  },
+  {
+    "name": "Applied Behavioral Design and Consumer Psychology",
+    "stream": "Arts",
+    "interests": [
+      "Finding out why consumers buy specific items",
+      "Mapping user choice systems",
+      "Optimizing advertising psychology"
+    ],
+    "focusAreas": [
+      "Behavioral economics",
+      "Choice architectures",
+      "Advanced consumer psychology",
+      "Market research methodologies"
+    ],
+    "careers": [
+      "Behavioral design assistant",
+      "Market research analyst",
+      "Consumer insight coordinator",
+      "UX researcher"
+    ]
+  },
+  {
+    "name": "Digital Humanities and Data Curation",
+    "stream": "Arts",
+    "interests": [
+      "Using digital software to analyze historical texts",
+      "Archiving social media data trends",
+      "Interactive mapping of history"
+    ],
+    "focusAreas": [
+      "Text mining frameworks",
+      "Digital archival methods",
+      "Metadata standards",
+      "Introduction to Python for humanists"
+    ],
+    "careers": [
+      "Digital content archivist",
+      "Metadata specialist",
+      "Quantitative humanities researcher",
+      "Cultural data curator"
+    ]
+  },
+  {
+    "name": "Archeological Science and Epigraphy",
+    "stream": "Arts",
+    "interests": [
+      "Excavating physical ruins",
+      "Handling ancient coins",
+      "Decoding rock inscriptions",
+      "Conducting laboratory soil analysis from historic sites"
+    ],
+    "focusAreas": [
+      "Field excavation techniques",
+      "Numismatics (coins)",
+      "Paleography",
+      "Ancient structural conservation",
+      "Chemical dating methods"
+    ],
+    "careers": [
+      "Archaeological site surveyor",
+      "Excavation assistant",
+      "Numismatic consultant",
+      "Epigraphist",
+      "Cultural resource restorer"
+    ]
+  },
+  {
+    "name": "Defense, Strategic, and National Security Studies",
+    "stream": "Arts",
+    "interests": [
+      "Analyzing military histories",
+      "Understanding national border security",
+      "Counter-terrorism tactics",
+      "Geopolitical warfare strategies"
+    ],
+    "focusAreas": [
+      "National security threats",
+      "Military history of India",
+      "Nuclear deterrence policies",
+      "Maritime strategy",
+      "Geopolitical conflict mapping"
+    ],
+    "careers": [
+      "Defense research analyst",
+      "National security coordinator",
+      "Intelligence data reporter",
+      "Processing executive for defense think-tanks"
+    ]
+  },
+  {
+    "name": "Criminology and Forensic Behavioral Analytics",
+    "stream": "Arts",
+    "interests": [
+      "Studying the psychological motives behind crimes",
+      "Prison reform systems",
+      "Victimology",
+      "Analyzing criminal behavior patterns"
+    ],
+    "focusAreas": [
+      "Theories of deviance",
+      "Criminal justice systems",
+      "Penology",
+      "Victim counseling",
+      "Profiling architectures"
+    ],
+    "careers": [
+      "Criminologist",
+      "Juvenile correction officer",
+      "Private investigator assistant",
+      "Prison welfare administrator",
+      "Victim support advocate"
+    ]
+  },
+  {
+    "name": "Creative Writing, Comparative Literature, and Editing",
+    "stream": "Arts",
+    "interests": [
+      "Analyzing literary styles",
+      "Writing fictional prose",
+      "Editing manuscripts",
+      "Critiquing poetry",
+      "Exploring classical plays"
+    ],
+    "focusAreas": [
+      "Literary movements",
+      "Critical theory",
+      "Creative writing workshops",
+      "Copyediting mechanics",
+      "Structural textual analysis"
+    ],
+    "careers": [
+      "Content writer",
+      "Book editor",
+      "Publishing assistant",
+      "Literary critic",
+      "Script coordinator",
+      "Proofreader"
+    ]
+  },
+  {
+    "name": "Philosophy, Logic, and Cognitive Ethics",
+    "stream": "Arts",
+    "interests": [
+      "Debating complex ethical dilemmas",
+      "Studying artificial intelligence ethics",
+      "Formal logic proof structures",
+      "Existential thought"
+    ],
+    "focusAreas": [
+      "Indian and Western philosophical systems",
+      "Deductive/inductive logic",
+      "Political philosophy",
+      "Applied business/medical ethics"
+    ],
+    "careers": [
+      "Corporate ethics consultant",
+      "Conceptual content designer",
+      "Policy advisory assistant",
+      "Philosophical researcher"
+    ]
+  },
+  {
+    "name": "Advertising, Media Planning, and Copywriting",
+    "stream": "Arts",
+    "interests": [
+      "Pitching catchy ad taglines",
+      "Planning visual ad layouts",
+      "Buying media slots on television/social networks",
+      "Analyzing consumer attention spans"
+    ],
+    "focusAreas": [
+      "Creative writing for ads",
+      "Target audience metrics",
+      "Media buying strategies",
+      "Campaign design",
+      "Brand communication styles"
+    ],
+    "careers": [
+      "Copywriter",
+      "Media planner",
+      "Advertising account executive",
+      "Brand strategist assistant",
+      "Digital ad coordinator"
+    ]
+  },
+  {
+    "name": "Educational Administration, Guidance, and Counseling",
+    "stream": "Arts",
+    "interests": [
+      "Developing learning curriculums for school boards",
+      "School psychology systems",
+      "Child behavioral intervention",
+      "Tutoring design"
+    ],
+    "focusAreas": [
+      "Educational psychology",
+      "Child development frameworks",
+      "Pedagogy methods",
+      "Curriculum planning",
+      "Assessment matrices"
+    ],
+    "careers": [
+      "Academic coordinator",
+      "Educational content developer",
+      "School counseling assistant",
+      "Student relationship manager"
+    ]
+  },
+  {
+    "name": "Fine Arts Management and Curatorial Practice",
+    "stream": "Arts",
+    "interests": [
+      "Managing commercial art galleries",
+      "Setting up visual exhibitions",
+      "Managing fine art auctions",
+      "Documenting artistic movements"
+    ],
+    "focusAreas": [
+      "History of visual arts",
+      "Gallery management systems",
+      "Art valuation parameters",
+      "Exhibition lighting and display design"
+    ],
+    "careers": [
+      "Art gallery coordinator",
+      "Exhibition designer assistant",
+      "Art auction manager",
+      "Cultural heritage preservation coordinator"
+    ]
+  },
+  {
+    "name": "Cartography and Remote Sensing Technology",
+    "stream": "Arts",
+    "interests": [
+      "Working with high-resolution satellite imagery",
+      "Drawing detailed geographical maps",
+      "Tracking terrain changes using software"
+    ],
+    "focusAreas": [
+      "Geodesy",
+      "Photogrammetry",
+      "Digital terrain modeling",
+      "Spatial databases",
+      "Thematic map design"
+    ],
+    "careers": [
+      "Cartographic technician",
+      "Remote sensing assistant",
+      "Satellite data processing executive",
+      "Map editor"
+    ]
+  },
+  {
+    "name": "Museum Curation and Cultural Property Protection",
+    "stream": "Arts",
+    "interests": [
+      "Designing art exhibition floors",
+      "Treating historical paintings/statues to prevent decay",
+      "Preventing illegal antique smuggling"
+    ],
+    "focusAreas": [
+      "Conservation chemistry basics",
+      "Artifact cataloging software",
+      "Museum lighting and security",
+      "International cultural property laws"
+    ],
+    "careers": [
+      "Gallery registrar",
+      "Artifact conservator assistant",
+      "Museum educator",
+      "Cultural heritage protection officer"
+    ]
+  }
+]

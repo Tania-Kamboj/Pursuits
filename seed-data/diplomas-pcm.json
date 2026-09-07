@@ -1,0 +1,649 @@
+[
+  {
+    "name": "Diploma in Mechanical Engineering",
+    "interests": [
+      "Thermodynamics",
+      "Fluid mechanics",
+      "Machine design",
+      "Shop floor manufacturing processes"
+    ],
+    "duration": "2 to 3 years",
+    "coreSubjects": [
+      "Engineering Mechanics",
+      "Thermal Engineering",
+      "Manufacturing Technology",
+      "CAD/CAM"
+    ],
+    "entranceExams": ["JEECUP", "AP POLYCET", "TS POLYCET", "CETEE"],
+    "careers": [
+      "Junior Mechanical Engineer",
+      "Maintenance Technician",
+      "Production Supervisor"
+    ]
+  },
+  {
+    "name": "Diploma in Civil Engineering",
+    "interests": [
+      "Structural drafting",
+      "Surveying land",
+      "Construction site execution",
+      "Building materials"
+    ],
+    "duration": "2 to 3 years",
+    "coreSubjects": [
+      "Surveying",
+      "Concrete Technology",
+      "Geotechnical Engineering",
+      "Estimating and Costing"
+    ],
+    "entranceExams": ["JEECUP", "Delhi CET", "POLYCET", "State DETs"],
+    "careers": [
+      "Site Supervisor",
+      "Junior Civil Engineer",
+      "AutoCADD Draftsman"
+    ]
+  },
+  {
+    "name": "Diploma in Electrical Engineering",
+    "interests": [
+      "Power generation grids",
+      "Electrical circuit analysis",
+      "Wiring systems",
+      "Industrial safety"
+    ],
+    "duration": "2 to 3 years",
+    "coreSubjects": [
+      "Electrical Machines",
+      "Power Systems",
+      "Circuit Theory",
+      "Electrical Estimation"
+    ],
+    "entranceExams": ["JEECUP", "BCECE", "AP POLYCET", "TS POLYCET"],
+    "careers": [
+      "Substation Operator",
+      "Electrical Technician",
+      "Junior Engineer"
+    ]
+  },
+  {
+    "name": "Diploma in Computer Engineering / Computer Science",
+    "interests": [
+      "Coding logic",
+      "Software compilation",
+      "Database configuration",
+      "Operating systems"
+    ],
+    "duration": "2 to 3 years",
+    "coreSubjects": [
+      "Data Structures",
+      "Object-Oriented Programming",
+      "Database Management",
+      "Computer Networks"
+    ],
+    "entranceExams": ["JEECUP", "CET Delhi", "State Polytechnic Tests"],
+    "careers": [
+      "Junior Programmer",
+      "Software Support Assistant",
+      "IT Technician"
+    ]
+  },
+  {
+    "name": "Diploma in Electronics and Communication Engineering",
+    "interests": [
+      "Semiconductor devices",
+      "Microprocessors",
+      "Telecommunication loops",
+      "Embedded logic"
+    ],
+    "duration": "2 to 3 years",
+    "coreSubjects": [
+      "Digital Electronics",
+      "Communication Systems",
+      "Microcontrollers",
+      "VLSI basics"
+    ],
+    "entranceExams": ["JEECUP", "POLYCET", "JEXPO"],
+    "careers": [
+      "Field Service Technician",
+      "Electronics Assembler",
+      "Junior Telecom Engineer"
+    ]
+  },
+  {
+    "name": "Diploma in Information Technology",
+    "interests": [
+      "Network administration",
+      "System troubleshooting",
+      "Web server hosting",
+      "Cyber safety"
+    ],
+    "duration": "2 to 3 years",
+    "coreSubjects": [
+      "Web Technologies",
+      "Network Security",
+      "Operating Systems Administration",
+      "Java"
+    ],
+    "entranceExams": ["JEECUP", "TS POLYCET", "AP POLYCET"],
+    "careers": [
+      "Network Support Specialist",
+      "IT Helpdesk Coordinator",
+      "System Administrator"
+    ]
+  },
+  {
+    "name": "Diploma in Automobile Engineering",
+    "interests": [
+      "Internal combustion engines",
+      "Vehicle dynamics",
+      "Chassis architecture",
+      "Electric mobility"
+    ],
+    "duration": "2 to 3 years",
+    "coreSubjects": [
+      "Auto Engines",
+      "Automotive Chassis",
+      "Transmission Systems",
+      "EV Technology"
+    ],
+    "entranceExams": ["JEECUP", "Delhi CET", "State Polytechnic Entrances"],
+    "careers": [
+      "Service Advisor",
+      "Automobile Technician",
+      "Junior Design Associate"
+    ]
+  },
+  {
+    "name": "Diploma in Chemical Engineering",
+    "interests": [
+      "Industrial chemical reactions",
+      "Fluid flow systems",
+      "Refinery processes",
+      "Material separation"
+    ],
+    "duration": "2 to 3 years",
+    "coreSubjects": [
+      "Chemical Process Principles",
+      "Fluid Flow",
+      "Heat Transfer",
+      "Organic Chemical Industries"
+    ],
+    "entranceExams": ["JEECUP", "GUJCET (Diploma)", "State DETs"],
+    "careers": ["Plant Operator", "Process Technician", "Laboratory Assistant"]
+  },
+  {
+    "name": "Diploma in Architecture Assistantship",
+    "interests": [
+      "Architectural drawing",
+      "Building bylaws",
+      "Structural detailing",
+      "Landscape rendering"
+    ],
+    "duration": "3 years",
+    "coreSubjects": [
+      "Architectural Design",
+      "Building Construction",
+      "History of Architecture",
+      "Computer-Aided Drafting"
+    ],
+    "entranceExams": [
+      "NATA (optional for some diploma tiers)",
+      "State Polytechnic Entrance Exams"
+    ],
+    "careers": ["Architectural Assistant", "CAD Visualizer", "Site Coordinator"]
+  },
+  {
+    "name": "Diploma in AI and Machine Learning",
+    "interests": [
+      "Neural networks",
+      "Python scripting",
+      "Pattern recognition",
+      "Smart automation algorithms"
+    ],
+    "duration": "1 to 2 years",
+    "coreSubjects": [
+      "Python for Data Science",
+      "Supervised Learning",
+      "Deep Learning Fundamentals",
+      "Applied Statistics"
+    ],
+    "entranceExams": ["Institute-specific merit or screening tests"],
+    "careers": [
+      "Junior AI Developer",
+      "Data Processing Assistant",
+      "ML Operations Trainee"
+    ]
+  },
+  {
+    "name": "Diploma in Cyber Security",
+    "interests": [
+      "Ethical hacking",
+      "Network intrusion detection",
+      "Cryptography",
+      "Digital forensics"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "Network Defense",
+      "Ethical Hacking",
+      "Cyber Laws",
+      "Cryptographic Protocols"
+    ],
+    "entranceExams": ["Direct merit or basic computer aptitude tests"],
+    "careers": [
+      "Security Operations Center (SOC) Analyst",
+      "Information Security Assistant",
+      "Vulnerability Tester"
+    ]
+  },
+  {
+    "name": "Diploma in Data Science and Analytics",
+    "interests": [
+      "Statistical modeling",
+      "SQL querying",
+      "Data cleaning",
+      "Business intelligence dashboards"
+    ],
+    "duration": "1 to 2 years",
+    "coreSubjects": [
+      "R and Python Programming",
+      "Database Management Systems",
+      "Data Visualization",
+      "Applied Probability"
+    ],
+    "entranceExams": ["Merit-based or university screening tests"],
+    "careers": [
+      "Data Analyst Trainee",
+      "Business Intelligence Associate",
+      "Reporting Specialist"
+    ]
+  },
+  {
+    "name": "Diploma in Instrumentation Technology",
+    "interests": [
+      "Industrial measurement gauges",
+      "Automated control systems",
+      "Sensors",
+      "Signal processing"
+    ],
+    "duration": "3 years",
+    "coreSubjects": [
+      "Transducers and Sensors",
+      "Industrial Instrumentation",
+      "Control Systems",
+      "Process Control"
+    ],
+    "entranceExams": ["JEECUP", "AP/TS POLYCET"],
+    "careers": [
+      "Instrumentation Technician",
+      "Control Room Operator",
+      "Calibration Assistant"
+    ]
+  },
+  {
+    "name": "Diploma in Mining Engineering",
+    "interests": [
+      "Mineral extraction mechanics",
+      "Underground safety regulations",
+      "Surveying",
+      "Rock mechanics"
+    ],
+    "duration": "3 years",
+    "coreSubjects": [
+      "Surface Mining",
+      "Underground Mining",
+      "Mine Geology",
+      "Mine Safety and Legislation"
+    ],
+    "entranceExams": [
+      "State mining polytechnic tests (e.g., DTE Rajasthan, JTET variants)"
+    ],
+    "careers": ["Mine Overseer", "Junior Mining Surveyor", "Safety Trainee"]
+  },
+  {
+    "name": "Diploma in Petroleum Engineering",
+    "interests": [
+      "Oil drilling operations",
+      "Reservoir evaluation",
+      "Fluid mechanics",
+      "Pipeline transport networks"
+    ],
+    "duration": "3 years",
+    "coreSubjects": [
+      "Drilling Technology",
+      "Reservoir Engineering basics",
+      "Petroleum Production Operations"
+    ],
+    "entranceExams": [
+      "State-level polytechnic or petroleum institute entrance tests"
+    ],
+    "careers": ["Roustabout", "Mud Logging Technician", "Field Assistant"]
+  },
+  {
+    "name": "Diploma in Robotics and Automation",
+    "interests": [
+      "Robotic arm programming",
+      "Pneumatic controls",
+      "PLC architecture",
+      "Mechatronics"
+    ],
+    "duration": "1 to 2 years",
+    "coreSubjects": [
+      "Industrial Robotics",
+      "PLC Programming",
+      "Mechatronics",
+      "Sensors and Actuators"
+    ],
+    "entranceExams": ["Institutional entrance assessments or merit lists"],
+    "careers": [
+      "Robotics Technician",
+      "Automation Assistant",
+      "Assembly Line Programmer"
+    ]
+  },
+  {
+    "name": "Diploma in Renewable Energy / Solar Technology",
+    "interests": [
+      "Photovoltaic cell arrays",
+      "Wind turbine maintenance",
+      "Green grid integration"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "Solar PV Systems",
+      "Wind Energy Basics",
+      "Energy Auditing",
+      "Biomass Conversion"
+    ],
+    "entranceExams": ["Direct merit evaluation"],
+    "careers": [
+      "Solar Plant Technician",
+      "Green Energy Auditor",
+      "Field Installation Specialist"
+    ]
+  },
+  {
+    "name": "Diploma in Tool and Die Making",
+    "interests": [
+      "Precision machining",
+      "Casting molds",
+      "Press tools",
+      "CNC programming"
+    ],
+    "duration": "3 to 4 years",
+    "coreSubjects": [
+      "Die Design",
+      "CNC Machining",
+      "Metrology",
+      "Material Science"
+    ],
+    "entranceExams": ["NTTF Entrance Test", "MSME-CTC screening"],
+    "careers": [
+      "Tool Room Machinist",
+      "CNC Operator",
+      "Quality Control Assistant"
+    ]
+  },
+  {
+    "name": "Diploma in Rubber Technology",
+    "interests": [
+      "Polymer science",
+      "Elastomer processing",
+      "Compounding chemistry",
+      "Tire manufacturing"
+    ],
+    "duration": "3 years",
+    "coreSubjects": [
+      "Rubber Chemistry",
+      "Polymer Physics",
+      "Processing Technology",
+      "Testing and Quality Control"
+    ],
+    "entranceExams": [
+      "State polytechnic merit or specialized technological institute tests"
+    ],
+    "careers": [
+      "Compounder",
+      "Quality Control Technician",
+      "Production Supervisor"
+    ]
+  },
+  {
+    "name": "Diploma in Plastics Technology",
+    "interests": [
+      "Injection molding",
+      "Extrusion mechanics",
+      "Polymer testing",
+      "Plastic packaging design"
+    ],
+    "duration": "3 years",
+    "coreSubjects": [
+      "Plastics Materials",
+      "Mold Design",
+      "Processing Machinery",
+      "Polymer Testing"
+    ],
+    "entranceExams": ["CIPET Admission Test", "State Polytechnic tests"],
+    "careers": [
+      "Processing Technician",
+      "Mold Maintenance Trainee",
+      "Inspection Assistant"
+    ]
+  },
+  {
+    "name": "Diploma in Printing Technology",
+    "interests": [
+      "Offset press mechanics",
+      "Digital publishing workflows",
+      "Color reproduction",
+      "Packaging lines"
+    ],
+    "duration": "3 years",
+    "coreSubjects": [
+      "Reprography",
+      "Offset Printing",
+      "Packaging Technology",
+      "Presswork Operations"
+    ],
+    "entranceExams": [
+      "State technical board exams (e.g., DTE Maharashtra / GCTET)"
+    ],
+    "careers": [
+      "Printing Supervisor",
+      "Pre-press Technician",
+      "Quality Checker"
+    ]
+  },
+  {
+    "name": "Diploma in Textile Engineering",
+    "interests": [
+      "Spinning loops",
+      "Weaving mechanisms",
+      "Fiber characterization",
+      "Fabric finishing chemistry"
+    ],
+    "duration": "3 years",
+    "coreSubjects": [
+      "Yarn Manufacture",
+      "Fabric Manufacture",
+      "Textile Testing",
+      "Wet Processing"
+    ],
+    "entranceExams": ["State polytechnic counseling routes"],
+    "careers": ["Spinning Supervisor", "Weaving Technician", "Mill Inspector"]
+  },
+  {
+    "name": "Diploma in Fire Safety and Hazard Management",
+    "interests": [
+      "Industrial disaster control",
+      "Fire mitigation systems",
+      "Evacuation mapping",
+      "Safety audits"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "Fire Science",
+      "Industrial Safety",
+      "Rescue Operations",
+      "Hazardous Material Control"
+    ],
+    "entranceExams": ["Direct admission via 10+2 PCM scores"],
+    "careers": ["Safety Supervisor", "Fire Inspector", "Plant Safety Assistant"]
+  },
+  {
+    "name": "Diploma in Commercial Pilot License (Ground Training / Cadet Support)",
+    "interests": [
+      "Navigation physics",
+      "Meteorology",
+      "Air regulations",
+      "Flight calculation metrics"
+    ],
+    "duration": "1 to 2 years (ground school component)",
+    "coreSubjects": [
+      "Air Navigation",
+      "Aviation Meteorology",
+      "Air Law",
+      "Technical General"
+    ],
+    "entranceExams": [
+      "DGCA Ground Examinations",
+      "Flying School Admission Tests"
+    ],
+    "careers": [
+      "Flight Dispatch Assistant",
+      "Ground Operations Trainee",
+      "Cadet Pilot pathway"
+    ]
+  },
+  {
+    "name": "Diploma in Aeronautical Maintenance Support",
+    "interests": [
+      "Aircraft structural frames",
+      "Jet engine upkeep",
+      "Avionics troubleshooting"
+    ],
+    "duration": "1 to 2 years",
+    "coreSubjects": [
+      "Aircraft Piston/Jet Engines",
+      "Airframes",
+      "Electrical Fundamentals",
+      "Aerodynamics"
+    ],
+    "entranceExams": ["Institute entrance tests (e.g., AME CET)"],
+    "careers": [
+      "Maintenance Assistant",
+      "Aviation Workshop Helper",
+      "Tech Documentation Specialist"
+    ]
+  },
+  {
+    "name": "Diploma in Logistics and Supply Chain Analytics",
+    "interests": [
+      "Inventory optimization formulas",
+      "Warehouse routing",
+      "Transport logistics",
+      "Quantitative modeling"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "Supply Chain Management",
+      "Inventory Control",
+      "Quantitative Methods",
+      "Warehouse Layout"
+    ],
+    "entranceExams": ["Merit-based admission"],
+    "careers": [
+      "Logistics Assistant",
+      "Inventory Coordinator",
+      "Supply Chain Trainee"
+    ]
+  },
+  {
+    "name": "Diploma in Geoinformatics / GIS Technology",
+    "interests": [
+      "Satellite imaging data",
+      "Spatial coordinate mapping",
+      "Remote sensing",
+      "Geodetic math"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "Remote Sensing",
+      "Geographic Information Systems",
+      "Cartography",
+      "Satellite Data Analysis"
+    ],
+    "entranceExams": ["University merit list"],
+    "careers": [
+      "GIS Analyst Trainee",
+      "Spatial Data Digitizer",
+      "Remote Sensing Assistant"
+    ]
+  },
+  {
+    "name": "Diploma in Multimedia, Animation and Visual Effects",
+    "interests": [
+      "3D rendering geometry",
+      "Physics-based particle effects",
+      "Motion tracking",
+      "Digital pipeline assets"
+    ],
+    "duration": "1 to 2 years",
+    "coreSubjects": [
+      "3D Modeling",
+      "Rigging",
+      "Dynamics and Simulation",
+      "Compositing"
+    ],
+    "entranceExams": ["Creative aptitude screening"],
+    "careers": [
+      "3D Generalist Trainee",
+      "Render Wrangler",
+      "VFX Paint/Roto Artist"
+    ]
+  },
+  {
+    "name": "Diploma in Web Design and Development",
+    "interests": [
+      "Client-side scripting",
+      "Interface layout geometry",
+      "Responsive UI engineering",
+      "Server deployment"
+    ],
+    "duration": "1 year",
+    "coreSubjects": [
+      "HTML/CSS/JavaScript",
+      "UI/UX Principles",
+      "Content Management Systems",
+      "Web Hosting"
+    ],
+    "entranceExams": ["Direct merit or skill screening"],
+    "careers": [
+      "Junior Web Developer",
+      "Front-End Designer",
+      "Web Maintenance Assistant"
+    ]
+  },
+  {
+    "name": "Diploma in Quality Control and Quality Assurance",
+    "interests": [
+      "Statistical quality control charts",
+      "Industrial metrology",
+      "Testing standards",
+      "Six Sigma basics"
+    ],
+    "duration": "6 months to 1 year",
+    "coreSubjects": [
+      "Statistical Quality Control",
+      "Industrial Standards (ISO)",
+      "Inspection Methods",
+      "Metrology"
+    ],
+    "entranceExams": ["Direct admission on 10+2 merit"],
+    "careers": [
+      "Quality Control Inspector",
+      "Testing Assistant",
+      "QA Floor Associate"
+    ]
+  }
+]
