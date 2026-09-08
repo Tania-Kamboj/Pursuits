@@ -1,12 +1,6 @@
-# Dependencies
 node_modules/
-
-# Secrets 
 .env
 .env.local
-.env.production
-
-# Logs & build
 *.log
-coverage/
 dist/
+coverage/
