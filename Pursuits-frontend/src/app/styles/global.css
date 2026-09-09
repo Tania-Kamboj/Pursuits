@@ -1,0 +1,144 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", sans-serif;
+
+  /* PRIMARY - Bright Cyan (#3DC6E7, #39C6E4) for main actions */
+  --color-primary: #3DC6E7;
+  --color-primary-container: #32aac5;
+  --color-primary-fixed: #5DD4EF;
+  --color-primary-fixed-dim: #7DE1F5;
+  --color-on-primary: #001520;
+  --color-on-primary-fixed: #E1F8FB;
+  --color-on-primary-fixed-variant: #8AB4C8;
+  
+  /* SECONDARY - Turquoise (#68DCD2) for accents */
+  --color-secondary: #68DCD2;
+  --color-secondary-container: #7FE0D9;
+  --color-secondary-fixed: #94E6E0;
+  --color-secondary-fixed-dim: #A9EBE6;
+  --color-on-secondary: #001A18;
+  --color-on-secondary-fixed: #E1FBF9;
+  --color-on-secondary-fixed-variant: #88D4CE;
+  
+  /* TERTIARY - Lime Green (#93C101, #AFE43E) for success & tags */
+  --color-tertiary: #93C101;
+  --color-tertiary-container: #AFE43E;
+  --color-tertiary-fixed: #B8E852;
+  --color-tertiary-fixed-dim: #C2EB66;
+  --color-on-tertiary: #0A1A02;
+  --color-on-tertiary-fixed: #F1FBE0;
+  --color-on-tertiary-fixed-variant: #C4E08A;
+  
+  /* SURFACES - Deep Blue (#075580) based */
+  --color-background: #021A29;
+  --color-surface: #042B42;
+  --color-surface-dim: #021A29;
+  --color-surface-bright: #075580;
+  --color-surface-container-lowest: #032235;
+  --color-surface-container-low: #053A57;
+  --color-surface-container: #075580; /* Your exact color */
+  --color-surface-container-high: #0A6A9E;
+  --color-surface-container-highest: #0D7DB8;
+  --color-surface-variant: #0A6A9E;
+  
+  /* TEXT - Bright & Readable */
+  --color-on-surface: #E1F8FB;
+  --color-on-surface-variant: #8AB4C8;
+  --color-inverse-surface: #E1F8FB;
+  --color-inverse-on-surface: #021A29;
+  
+  /* BORDERS */
+  --color-outline: #3DC6E7;
+  --color-outline-variant: #1A506B;
+  
+  --color-on-background: #E1F8FB;
+  --color-cool-platinum: #1A3A4A;
+  
+  /* ERROR */
+  --color-error: #FF6B6B;
+  --color-error-container: #4A1515;
+  --color-on-error: #2A0A0A;
+  --color-on-error-container: #FFD4D4;
+
+  /* Typography */
+  --text-display-lg: 48px;
+  --text-headline-lg: 32px;
+  --text-headline-lg-mobile: 28px;
+  --text-headline-md: 24px;
+  --text-body-lg: 18px;
+  --text-body-md: 16px;
+  --text-label-md: 14px;
+
+  /* Border Radius */
+  --radius-sm: 0.25rem;
+  --radius-md: 0.75rem;
+  --radius-lg: 1rem;
+  --radius-xl: 1.5rem;
+  --radius-full: 9999px;
+
+  /* Glowing Shadows with New Colors */
+  --shadow-card: 0px 8px 32px rgba(61, 198, 231, 0.15);
+  --shadow-card-hover: 0px 12px 40px rgba(61, 198, 231, 0.25), 0px 0px 20px rgba(104, 220, 210, 0.2);
+  --shadow-button: 0px 4px 20px rgba(61, 198, 231, 0.4);
+}
+
+/* Base Styles */
+@layer base {
+  body {
+    background-color: var(--color-background);
+    color: var(--color-on-surface);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* Custom Utilities */
+@layer utilities {
+  .glass-nav {
+    background-color: color-mix(in srgb, var(--color-surface) 80%, transparent);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid color-mix(in srgb, var(--color-primary) 30%, transparent);
+  }
+  
+  .text-display-lg {
+    font-size: var(--text-display-lg);
+    font-weight: 800;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+  }
+  
+  .text-headline-lg {
+    font-size: var(--text-headline-lg);
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -0.01em;
+  }
+  
+  .text-headline-md {
+    font-size: var(--text-headline-md);
+    font-weight: 600;
+    line-height: 1.3;
+  }
+  
+  .text-body-lg {
+    font-size: var(--text-body-lg);
+    font-weight: 400;
+    line-height: 1.6;
+  }
+  
+  .text-body-md {
+    font-size: var(--text-body-md);
+    font-weight: 400;
+    line-height: 1.5;
+  }
+  
+  .text-label-md {
+    font-size: var(--text-label-md);
+    font-weight: 600;
+    line-height: 1.2;
+    letter-spacing: 0.05em;
+  }
+}
