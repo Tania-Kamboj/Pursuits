@@ -7,20 +7,20 @@ const mongoose = require('mongoose');
 dotenv.config();
 
 mongoose.connect(process.env.MONGO_URI)
-.then(() => console.log('✅ MongoDB Connected'))
-.catch(err => console.log('❌ MongoDB Error:', err));
+.then(() => console.log(' MongoDB Connected'))
+.catch(err => console.log(' MongoDB Error:', err));
 
 const Diploma = mongoose.models.Diploma || mongoose.model('Diploma', diplomaSchema);
 
 // Routes
 app.post('/api/v1/diplomas', async (req, res) => {
   try {
-    console.log('📥 Received:', req.body);
+    console.log(' Received:', req.body);
     const diploma = await Diploma.create(req.body);
-    console.log('✅ Saved:', diploma);
+    console.log(' Saved:', diploma);
     res.status(201).json({ success: true, data: diploma });
   } catch (error) {
-    console.error('❌ Error:', error);
+    console.error(' Error:', error);
     res.status(400).json({ success: false, error: error.message });
   }
 });

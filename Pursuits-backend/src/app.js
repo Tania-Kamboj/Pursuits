@@ -18,8 +18,14 @@ const app = express();
 // 1. Security Middlewares
 app.use(helmet());
 app.use(cors({
-  origin: process.env.FRONTEND_URL || '*',
-  credentials: true
+  origin: [
+    'https://pursuits-05.web.app',         
+    'http://localhost:5173',                  
+    'https://pursuits.onrender.com'          
+  ],
+  credentials: true,
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH'],
+  allowedHeaders: ['Content-Type', 'Authorization']
 }));
 
 // 2. Rate Limiting
