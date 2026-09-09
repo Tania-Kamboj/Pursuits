@@ -46,7 +46,7 @@ export const Input = forwardRef<HTMLInputElement, InputProps>(
               'text-body-md text-on-surface font-sans',
               'placeholder:text-outline-variant/60',
               'transition-all duration-200',
-              'focus:outline-none focus:border-[#3DC6E7] focus:bg-white',
+              'focus:bg-white focus:text-[#001520] focus:border-[#3DC6E7] focus:outline-none',
               error && 'border-error focus:border-error',
               icon !== 'none' && 'pl-11',
               showPasswordToggle && 'pr-11',

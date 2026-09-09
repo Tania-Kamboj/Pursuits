@@ -2,13 +2,13 @@ import { initializeApp } from 'firebase/app';
 import { getAuth, GoogleAuthProvider, signInWithPopup } from 'firebase/auth';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDfKA4kq3BeasL9ShUHhqnT2JAM-80JQpU",
-  authDomain: "claritii-0906.firebaseapp.com",
-  projectId: "claritii-0906",
-  storageBucket: "claritii-0906.firebasestorage.app",
-  messagingSenderId: "683773497600",
-  appId: "1:683773497600:web:1f1addc972f9108c4aa3e5",
-  measurementId: "G-4EWMT5STNB"
+  apiKey: "AIzaSyC13zTcOIKiKo_UKQTjWjtV9-V7wDFIy74",
+  authDomain: "pursuits-05.firebaseapp.com",
+  projectId: "pursuits-05",
+  storageBucket: "pursuits-05.firebasestorage.app",
+  messagingSenderId: "221945595343",
+  appId: "1:221945595343:web:89a9ae8779290be100feba",
+  measurementId: "G-70J6D9DN9W"
 };
 
 const app = initializeApp(firebaseConfig);

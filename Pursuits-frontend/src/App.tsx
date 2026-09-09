@@ -19,6 +19,7 @@ import { About } from './pages/static/About'
 import { WishlistPage } from '@/pages/static/WishlistPage'
 import { ProfilePage } from '@/pages/user/ProfilePage'
 import { ContactPage } from '@/pages/static/ContactPage' // Top par import karo
+import { ForgotPasswordPage } from '@/pages/auth/ForgotPasswordPage'
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
       {/* Auth Routes */}
       <Route path="/login" element={<LoginPage />} />
       <Route path="/register" element={<RegisterPage />} />
+      <Route path="/forgot-password" element={<ForgotPasswordPage />} />
 
       {/* User Routes */}
       <Route path="/profile" element={<Layout><ProfilePage /></Layout>} />

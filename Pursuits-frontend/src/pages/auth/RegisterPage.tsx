@@ -3,7 +3,8 @@ import { Link, useNavigate } from 'react-router'
 import { Globe2, Smartphone, Loader2 } from 'lucide-react'
 import { Button } from '@/shared/ui/Button'
 import { Input } from '@/shared/ui/Input'
-import { authService } from '@/services/authService'
+import { authService } from "@/services/authService";
+import { signInWithGoogle } from "@/config/firebase";
 
 export const RegisterPage = () => {
   const navigate = useNavigate()
@@ -30,6 +31,18 @@ export const RegisterPage = () => {
     }
   }
 
+  const handleGoogleLogin = async () => {
+    try {
+      setLoading(true);
+      await signInWithGoogle();
+      navigate("/"); 
+    } catch (err: any) {
+      setError(err.message || "Google login failed");
+    } finally {
+      setLoading(false);
+    }
+  };
+
   return (
     <div className="min-h-screen bg-background flex items-center justify-center p-4">
       <div className="w-full max-w-[420px] bg-surface-container-lowest rounded-[24px] shadow-card p-8 md:p-10 border border-outline-variant/20">
@@ -39,7 +52,7 @@ export const RegisterPage = () => {
             Join Pursuits
           </h1>
           <p className="text-on-surface-variant text-sm">
-            Welcome to Pursuits 💜 <br />
+            Welcome to Pursuits 💙 <br />
             A clearer road to your future starts here.
           </p>
         </div>
@@ -100,7 +113,7 @@ export const RegisterPage = () => {
 
         {/* Social Register Buttons */}
         <div className="grid grid-cols-2 gap-4">
-          <Button variant="secondary" className="flex items-center justify-center gap-2" type="button">
+          <Button variant="secondary" onClick={handleGoogleLogin} className="flex items-center justify-center gap-2" type="button">
             <Globe2 size={20} /> Google
           </Button>
           <Button variant="secondary" className="flex items-center justify-center gap-2" type="button">

@@ -56,7 +56,7 @@ export const LoginPage = () => {
             Pursuits
           </h1>
           <p className="text-on-surface-variant text-sm">
-            Welcome back 💜 <br />
+            Welcome back 💙 <br />
             Your next step starts with Pursuits.
           </p>
         </div>
