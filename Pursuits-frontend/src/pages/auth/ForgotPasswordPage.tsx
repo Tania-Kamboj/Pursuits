@@ -19,11 +19,9 @@ export const ForgotPasswordPage = () => {
     setError("");
 
     try {
-      // ✅ Firebase Password Reset
       await sendPasswordResetEmail(auth, email);
       setSuccess(true);
     } catch (err: any) {
-      // Firebase error handling
       let errorMessage = "Failed to send reset email. Please try again.";
       
       switch (err.code) {

@@ -18,7 +18,7 @@ import { ExamsPage } from './pages/explore/ExamsPage'
 import { About } from './pages/static/About'
 import { WishlistPage } from '@/pages/static/WishlistPage'
 import { ProfilePage } from '@/pages/user/ProfilePage'
-import { ContactPage } from '@/pages/static/ContactPage' // Top par import karo
+import { ContactPage } from '@/pages/static/ContactPage' 
 import { ForgotPasswordPage } from '@/pages/auth/ForgotPasswordPage'
 
 function App() {

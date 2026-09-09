@@ -18,8 +18,7 @@ import {
 import { Navbar } from "@/shared/ui/Navbar";
 import { useWishlist } from "@/hooks/useWishlist";
 
-const API_URL = "http://localhost:5000/api/v1";
-
+const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000/api/v1"
 export const ProfilePage = () => {
   const [activeTab, setActiveTab] = useState<
     "overview" | "profile" | "feedback" | "security"
@@ -176,7 +175,7 @@ export const ProfilePage = () => {
           {activeTab === "overview" && (
             <div className="space-y-6">
               <div>
-                {/* ✅ 3. Real User Name */}
+                {/* User Name */}
                 <h1
                   className="text-3xl font-bold text-on-surface mb-2"
                   style={{ fontFamily: "Plus Jakarta Sans, sans-serif" }}
@@ -238,7 +237,7 @@ export const ProfilePage = () => {
                   </div>
                 </div>
 
-                {/* ✅ 2. Dynamic Next Step Link */}
+                {/* Dynamic Next Step Link */}
                 {totalSaved > 0 && (
                   <div className="mt-6 p-4 rounded-xl bg-[#26b3d6] text-white flex items-start gap-3">
                     <CheckCircle2 size={20} className="flex-shrink-0 mt-0.5" />
@@ -340,16 +339,15 @@ export const ProfilePage = () => {
                         <option value="+971">🇦🇪 +971</option>
                       </select>
 
-                      {/* Actual Phone Number Input */}
+                      {/* Phone Number Input */}
                       <input
                         type="tel"
                         value={user.phone || ""}
                         disabled={!isEditing}
                         required
-                        maxLength={10} // Sirf 10 digits allow honge
-                        pattern="\d{10}" // Regex for exactly 10 digits
+                        maxLength={10} 
+                        pattern="\d{10}" 
                         onChange={(e) => {
-                          // Sirf numbers allow karo, letters/spaces hata do
                           const onlyNumbers = e.target.value.replace(/\D/g, "");
                           setUser({ ...user, phone: onlyNumbers });
                         }}

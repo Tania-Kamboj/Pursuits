@@ -25,8 +25,7 @@ interface Diploma {
   careers: string[];
 }
 
-const API_URL = "http://localhost:5000/api/v1";
-
+const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000/api/v1"
 export const DiplomaDetailsPage = () => {
   const { diplomaId } = useParams<{ diplomaId: string }>();
   const navigate = useNavigate();

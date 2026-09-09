@@ -1,4 +1,4 @@
-import { Link, useNavigate, useParams } from 'react-router'
+import { Link, useNavigate } from 'react-router'
 import { useActiveStream } from '@/hooks/useActiveStream' 
 import { 
   GraduationCap, 

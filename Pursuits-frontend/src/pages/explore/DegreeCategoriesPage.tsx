@@ -23,15 +23,14 @@ interface Category {
   careers: string[];
 }
 
-const API_URL = "http://localhost:5000/api/v1";
-
+const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000/api/v1"
 export const DegreeCategoriesPage = () => {
   const { streamId } = useParams<{ streamId: string }>();
   const navigate = useNavigate();
   const [categories, setCategories] = useState<Category[]>([]);
   const [loading, setLoading] = useState(true);
   const [streamName, setStreamName] = useState("PCM");
-  const [wishlist, setWishlist] = useState<string[]>([]);
+  const [ , setWishlist] = useState<string[]>([]);
 
   useEffect(() => {
     if (streamId) {

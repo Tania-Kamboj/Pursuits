@@ -6,7 +6,6 @@ import {
   ChevronRight,
   ArrowLeft,
   GraduationCap,
-  Clock,
   TrendingUp,
   ArrowRight,
 } from "lucide-react";
@@ -25,8 +24,7 @@ interface Degree {
   careers: string[];
 }
 
-const API_URL = "http://localhost:5000/api/v1";
-
+const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000/api/v1"
 export const DegreeProgramsPage = () => {
   const { categoryId } = useParams<{ categoryId: string }>();
   const navigate = useNavigate();
@@ -262,8 +260,7 @@ export const DegreeProgramsPage = () => {
 //   careers: string[];
 // }
 
-// const API_URL = "http://localhost:5000/api/v1";
-
+// const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000/api/v1"
 // export const DegreeProgramsPage = () => {
 //   const { categoryId } = useParams<{ categoryId: string }>();
 //   const navigate = useNavigate();

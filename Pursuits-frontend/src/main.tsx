@@ -5,7 +5,7 @@ import { BrowserRouter } from 'react-router'
 
 import { store } from './app/store/store.ts'
 import App from './App.tsx'
-import './app/styles/global.css' // ✅ YE LINE ZARURI HAI
+import './app/styles/global.css' 
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>

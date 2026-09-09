@@ -13,7 +13,6 @@ interface AnimatedDotsProps {
   className?: string
 }
 
-// Default dots configuration (agar koi custom dots na do toh ye use honge)
 const defaultDots: DotConfig[] = [
    { top: "15%", left: "8%", size: "w-2 h-2", color: "bg-[#3DC6E7]/30", delay: "0s" },
     { top: "25%", right: "15%", size: "w-3 h-3", color: "bg-[#68DCD2]/30", delay: "1s" },

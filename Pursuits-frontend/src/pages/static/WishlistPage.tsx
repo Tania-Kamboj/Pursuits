@@ -11,7 +11,6 @@ export const WishlistPage = () => {
   const exams = items.filter((i) => i.type === 'exam')
   const streams = items.filter((i) => i.type === 'stream')
 
-  // ✅ Helper function ko RETURN se PEHLE define karo
   const renderSection = (title: string, icon: React.ReactNode, data: typeof items) => {
     if (data.length === 0) return null
     return (
@@ -103,7 +102,6 @@ export const WishlistPage = () => {
           </div>
         )}
 
-        {/* ✅ Ab renderSection ko call karo */}
         {renderSection("Saved Streams", <Compass className="text-[#3DC6E7]" size={20} />, streams)}
         {renderSection("Saved Degrees", <BookOpen className="text-[#3DC6E7]" size={20} />, degrees)}
         {renderSection("Saved Diplomas", <Award className="text-secondary" size={20} />, diplomas)}

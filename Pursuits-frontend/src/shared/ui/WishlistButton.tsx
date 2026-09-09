@@ -8,7 +8,7 @@ interface WishlistButtonProps {
   name: string
   stream: string
   path: string
-  variant?: 'icon' | 'full' // 'icon' for cards, 'full' for detail pages
+  variant?: 'icon' | 'full' 
 }
 
 export const WishlistButton = ({ 
@@ -23,7 +23,7 @@ export const WishlistButton = ({
     return (
       <button
         onClick={(e) => {
-          e.preventDefault() // Card ke link ko block karega
+          e.preventDefault() 
           e.stopPropagation()
           toggleItem(itemData)
         }}
@@ -39,7 +39,6 @@ export const WishlistButton = ({
     )
   }
 
-  // Full variant for Detail Pages
   return (
     <button
       onClick={() => toggleItem(itemData)}

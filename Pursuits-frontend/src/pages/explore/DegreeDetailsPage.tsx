@@ -1,5 +1,3 @@
-
-
 import { useState, useEffect } from 'react'
 import { Link, useParams, useNavigate } from 'react-router'
 import { AnimatedDots } from "@/shared/ui/AnimatedDots";
