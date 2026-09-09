@@ -1,5 +1,5 @@
 import { Link } from "react-router";
-import { Sparkles, ArrowRight, GraduationCap } from "lucide-react";
+import { Heart, ArrowRight, GraduationCap } from "lucide-react";
 import { AnimatedDots } from "@/shared/ui/AnimatedDots"
 
 export const LandingPage = () => {
@@ -22,8 +22,8 @@ export const LandingPage = () => {
       </div>
 
       {/* Main Content - Perfectly Centered */}
-      <section className="relative w-full px-6 lg:px-12 py-20">
-        <div className="max-w-4xl mx-auto flex flex-col items-center text-center space-y-8">
+      <section className="relative w-full px-6 lg:px-12 pt-0 pb-8 py-2">
+        <div className="max-w-4xl mx-auto flex flex-col items-center text-center space-y-5">
           
           {/* Badge */}
           <div
@@ -35,23 +35,23 @@ export const LandingPage = () => {
               border: "1px solid rgba(61, 198, 231, 0.3)",
             }}
           >
-            <Sparkles size={14} />
-            Your Future, Clarified
+            < Heart size={14} />
+            Pursuit — A Journey of Discovery
           </div>
 
           {/* Headings */}
-          <div className="space-y-3">
+          <div className="space-y-6">
             <h1
-              className="text-[42px] lg:text-[64px] font-bold leading-[1.1] tracking-tight"
+              className="text-[42px] lg:text-[57px] font-bold leading-[1.1] tracking-tight"
               style={{ color: "#E1F8FB", fontFamily: "Plus Jakarta Sans, sans-serif" }}
             >
               Confused about what to do next?
             </h1>
             <h2
-              className="text-[32px] lg:text-[48px] font-bold leading-[1.2] tracking-tight"
+              className="text-[30px] lg:text-[40px] font-bold leading-[1.2] tracking-tight"
               style={{ color: "#3DC6E7", fontFamily: "Plus Jakarta Sans, sans-serif" }}
             >
-              Let's figure it out together.
+              Let's begin to discover together.
             </h2>
           </div>
 
@@ -64,7 +64,7 @@ export const LandingPage = () => {
           </p>
 
           {/* Buttons - Centered */}
-          <div className="flex flex-col sm:flex-row gap-15 pt-4 justify-center w-full">
+          <div className="flex flex-col sm:flex-row gap-15 pt-2 justify-center w-full">
             <Link
               to="/explore/after-10th"
               className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-xl text-[15px] font-semibold text-[#001520] transition-all duration-300 hover:scale-105"

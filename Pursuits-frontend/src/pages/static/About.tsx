@@ -19,7 +19,7 @@ export const About = () => {
             style={{ fontFamily: "Plus Jakarta Sans, sans-serif" }}
           >
             Because your career decisions <br className="hidden md:block" />{" "}
-            deserves <span className="text-[#3DC6E7]">Pursuits</span>.
+            deserves a <span className="text-[#3DC6E7]">Direction</span>.
           </h1>
           <p
             className="text-lg md:text-xl text-on-surface-variant leading-relaxed max-w-3xl mx-auto"
@@ -27,7 +27,7 @@ export const About = () => {
           >
             Pursuits is built for students who have just finished 10th or 12th
             grade and feel buried by the endless career options. We are here to
-            give you clear paths based on your interests.
+            helps you explore the paths that actually match your interests, subjects, and goals.
           </p>
         </div>
 
@@ -164,7 +164,7 @@ export const About = () => {
             minutes to look through the options available for your aligned
             interests.
             <br />
-            Your future full of Pursuits is waiting for you.
+            Your pursuit starts here.
           </p>
           <Link
             to="/explore"
