@@ -1,78 +1,44 @@
-# React + TypeScript + Vite
+# Pursuits - A journey of Discovery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Pursuits is a web application designed to help students make informed decisions about their education and career paths. It guides users through choosing the right streams after 10th and 12th grade, exploring degree programs, and understanding national entrance exams.
 
-Currently, two official plugins are available:
+**Live Demo:** [https://pursuits-05.web.app](https://pursuits-05.web.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## What It Does
 
-## React Compiler
+- *Stream Selection:* Helps students pick the right stream (PCM, PCB, Commerce, Arts) based on their interests.
+- *Degree & Exam Explorer:* Provides detailed information about undergraduate degrees, their core subjects, and relevant national exams.
+- *User Profiles:* Allows users to save their details, track their choices, and maintain a wishlist of preferred degrees.
+- *Authentication:* Secure login and signup using Firebase, including Google sign-in and password recovery.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## Tech Stack
 
-Note: This will impact Vite dev & build performances.
-You can also try [the experimental native React Compiler support in plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md#rust-react-compiler) by using `compiler: true` in the plugin options instead of using the Babel plugin.
+This project is built using the following tools:
 
-## Expanding the ESLint configuration
+*Frontend:*
+- React (with Vite for fast development)
+- TypeScript
+- Tailwind CSS (for styling)
+- Framer Motion (for simple animations)
+- React Router (for page navigation)
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+*Backend & Database:*
+- Node.js and Express
+- MongoDB
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+*Services:*
+- Firebase (for User Authentication and Hosting)
+- Render (for hosting the backend API)
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+## How to Run Locally
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+If you want to run this project on your own computer, follow these steps:
 
-```
+### 1. Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed on your system.
 
-You can also install [eslint-plugin-react-x](https://npmx.dev/package/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://npmx.dev/package/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-
-```
+### 2. Clone the Repository
+Open your terminal and run:
+```bash
+git clone https://github.com/Tania-Kamboj/Pursuits.git
+cd Pursuits/Pursuits-frontend
