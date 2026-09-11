@@ -16,7 +16,7 @@ import {
   GraduationCap,
 } from "lucide-react";
 
-const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000/api/v1"
+const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000/api/v1";
 
 export const StreamDetailPage = () => {
   const { streamId } = useParams<{ streamId: string }>();
@@ -35,15 +35,12 @@ export const StreamDetailPage = () => {
         const result = await response.json();
 
         if (result.success) {
-          // Better stream matching logic
           const foundStream = result.data.find((s: any) => {
             const streamName = s.name.toLowerCase();
             const searchId = streamId?.toLowerCase();
 
-            // Direct ID match
             if (s._id === streamId) return true;
 
-            // Name-based matching
             if (
               searchId === "pcm" &&
               streamName.includes("pcm") &&
@@ -55,7 +52,7 @@ export const StreamDetailPage = () => {
               streamName.includes("pcb") &&
               !streamName.includes("pcmb")
             )
-              return true; 
+              return true;
             if (searchId === "pcmb" && streamName.includes("pcmb")) return true;
             if (searchId === "commerce" && streamName.includes("commerce"))
               return true;
@@ -124,7 +121,7 @@ export const StreamDetailPage = () => {
   return (
     <div className="min-h-screen bg-background">
       <AnimatedDots />
-      {/* Breadcrumb - Sticky */}
+      {/* Breadcrumb */}
       <div className="sticky top-[90px] z-40 backdrop-blur-md ">
         <div className="max-w-[1280px] mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
@@ -168,9 +165,9 @@ export const StreamDetailPage = () => {
           </p>
         </div>
 
-        {/* Interests AND Subjects - SIDE BY SIDE */}
+        {/* Interests AND Subjects */}
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-          {/* Interests Section - Takes 2 columns */}
+          {/* Interests Section */}
           <div className="lg:col-span-2 bg-surface-container-lowest rounded-2xl p-8 border border-outline-variant/20">
             <div className="flex items-center gap-3 mb-6">
               <div className="w-12 h-12 rounded-xl bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center">
@@ -215,7 +212,7 @@ export const StreamDetailPage = () => {
             </div>
           </div>
 
-          {/* Subjects Section - Takes 1 column */}
+          {/* Subjects Section */}
           <div className="space-y-4">
             {/* Compulsory */}
             <div className="bg-surface-container-lowest rounded-2xl p-6 border border-outline-variant/20">
@@ -268,7 +265,7 @@ export const StreamDetailPage = () => {
           </div>
         </div>
 
-        {/* 2. Core Topics by Subject - FULL DATA */}
+        {/* 2. Core Topics by Subject */}
         <div className="bg-surface-container-lowest rounded-2xl p-8 border border-outline-variant/20">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-12 h-12 rounded-xl bg-[#3DC6E7]/10 flex items-center justify-center">
@@ -304,7 +301,7 @@ export const StreamDetailPage = () => {
           </div>
         </div>
 
-        {/* 3. Career Options - NO ICONS, Clean Layout */}
+        {/* 3. Career Options */}
         <div className="bg-surface-container-lowest rounded-2xl p-8 border border-outline-variant/20">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-12 h-12 rounded-xl bg-[#3DC6E7]/10 flex items-center justify-center">
@@ -338,7 +335,7 @@ export const StreamDetailPage = () => {
           )}
         </div>
 
-        {/* 4. National Entrance Exams - FULL DATA */}
+        {/* 4. National Entrance Exams */}
         <div className="bg-surface-container-lowest rounded-2xl p-8 border border-outline-variant/20">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-12 h-12 rounded-xl bg-[#3DC6E7]/10 flex items-center justify-center">

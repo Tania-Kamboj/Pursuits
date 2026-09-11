@@ -74,7 +74,7 @@ export const After10thPage = () => {
             size={48}
           />
           <p className="text-on-surface-variant text-lg">
-            Loading streams from database...
+            Loading streams...
           </p>
         </div>
       </div>

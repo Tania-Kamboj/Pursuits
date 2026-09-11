@@ -11,7 +11,7 @@ const diplomaSchema = new mongoose.Schema({
     required: true,
     enum: ['pcm', 'pcb', 'pcmb', 'commerce', 'arts'], // Streams
     lowercase: true,
-    index: true // Fast filtering ke liye
+    index: true 
   },
   interests: [String],
   duration: {

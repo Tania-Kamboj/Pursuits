@@ -1,12 +1,9 @@
-// NoSQL Injection se protection (Express 5 compatible)
-
 const clean = (value) => {
   if (Array.isArray(value)) return value.map(clean);
 
   if (value && typeof value === 'object') {
     const result = {};
     for (const [key, val] of Object.entries(value)) {
-      // MongoDB operators ($where, $ne, $regex) aur '.' wale keys block
       if (key.startsWith('$') || key.includes('.')) continue;
       result[key] = clean(val);
     }

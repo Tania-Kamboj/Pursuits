@@ -1,11 +1,10 @@
 const Degree = require('../models/Degree');
 const College = require('../models/College');
 
-// GET /api/v1/degrees/:id/colleges?list=government|private
-// List me sirf name, city, state, type jayega (frontend list ke liye)
+
 exports.getDegreeColleges = async (req, res) => {
   try {
-    const { list } = req.query; // 'government' | 'private' | (empty = dono)
+    const { list } = req.query; 
 
     const degree = await Degree.findById(req.params.id)
       .select('name topGovernmentColleges topPrivateColleges')
@@ -34,7 +33,6 @@ exports.getDegreeColleges = async (req, res) => {
   }
 };
 
-// GET /api/v1/colleges/:id  → Full detail page
 exports.getCollegeById = async (req, res) => {
   try {
     const college = await College.findById(req.params.id);

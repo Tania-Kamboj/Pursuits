@@ -39,7 +39,6 @@ let streamName = safe(req.query.stream);
   }
 };
 
-// GET /api/v1/degree-categories/:id
 exports.getCategoryById = async (req, res, next) => {
   try {
     const category = await DegreeCategory.findById(req.params.id)
@@ -58,10 +57,8 @@ exports.getCategoryById = async (req, res, next) => {
   }
 };
 
-// POST /api/v1/degree-categories
 exports.createCategory = async (req, res, next) => {
   try {
-    // Stream name ko ObjectId mein convert karo
     const streamName = req.body.stream;
     const stream = await StreamDetails.findOne({ name: exact(streamName) });
     

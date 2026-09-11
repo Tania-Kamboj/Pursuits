@@ -6,12 +6,10 @@ const { safe, rx, exact, wordStart, normalizeStream, applyProjection } = require
 
 const ALLOWED_FIELDS = ['name', 'interests', 'coreSubjects', 'duration', 'entranceExams', 'careers'];
 
-// GET /api/v1/degrees (+ filters: category, stream, search + fields)
 exports.getAllDegrees = async (req, res, next) => {
   try {
     const conditions = [];
 
-    // Category filter (?category=name YA ?category=<id> — dono chalega)
     const categoryParam = safe(req.query.category);
     if (categoryParam) {
       const isId = /^[0-9a-fA-F]{24}$/.test(categoryParam);
@@ -24,7 +22,6 @@ exports.getAllDegrees = async (req, res, next) => {
       }
     }
 
-    // Stream filter (?stream=PCM)
     let streamName = safe(req.query.stream);
     if (streamName) {
       streamName = normalizeStream(streamName);
@@ -33,11 +30,9 @@ exports.getAllDegrees = async (req, res, next) => {
       conditions.push({ streams: stream._id });
     }
 
-    // Name filter (?name=b.tech)
     const name = safe(req.query.name);
     if (name) conditions.push({ name: rx(name) });
 
-    // Global search (?search=pilot)
     const search = safe(req.query.search);
     if (search) {
       const s = rx(search);
@@ -65,7 +60,6 @@ exports.getAllDegrees = async (req, res, next) => {
   }
 };
 
-// GET /api/v1/degrees/:id  (detail page)
 exports.getDegreeById = async (req, res, next) => {
   try {
     const degree = await Degree.findById(req.params.id)

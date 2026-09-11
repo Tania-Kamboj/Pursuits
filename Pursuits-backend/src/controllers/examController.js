@@ -1,14 +1,11 @@
 const Exam = require('../models/Exam');
 
-// @desc    Get all exams (filtered by stream)
-// @route   GET /api/v1/exams?stream=pcm
 const getExams = async (req, res) => {
   try {
     const { stream } = req.query;
     
     let query = {};
     
-    // PCMB ke liye PCM + PCB dono se data lao
     if (stream && stream.toLowerCase() === 'pcmb') {
       query.stream = { $in: ['pcm', 'pcb'] };
     } else if (stream) {
@@ -17,16 +14,15 @@ const getExams = async (req, res) => {
 
     let exams = await Exam.find(query).sort({ name: 1 });
 
-    // ✅ PCMB me agar same exam PCM aur PCB dono me hai, toh duplicate hata do
     if (stream && stream.toLowerCase() === 'pcmb') {
       const seenNames = new Set();
       exams = exams.filter(exam => {
         const normalizedName = exam.name.toLowerCase().trim();
         if (seenNames.has(normalizedName)) {
-          return false; // Duplicate hai, hata do
+          return false; 
         }
         seenNames.add(normalizedName);
-        return true; // Unique hai, rakho
+        return true;
       });
     }
 
@@ -45,8 +41,6 @@ const getExams = async (req, res) => {
   }
 };
 
-// @desc    Get single exam by ID
-// @route   GET /api/v1/exams/:id
 const getExamById = async (req, res) => {
   try {
     const exam = await Exam.findById(req.params.id);

@@ -1,18 +1,13 @@
 const Diploma = require('../models/Diploma');
 
-// @desc    Get all diplomas (filtered by stream if provided)
-// @route   GET /api/v1/diplomas
 const getDiplomas = async (req, res) => {
   try {
-    const { stream } = req.query; // URL se stream milega (e.g., ?stream=pcm)
+    const { stream } = req.query; 
     
     let query = {};
     
-    // Agar stream query me hai, toh filter lagao
     if (stream) {
       const streamLower = stream.toLowerCase();
-      
-      // ✅ "humanities" ko "arts" me map karo
       let mappedStream = streamLower;
   if (streamLower === 'humanities' || streamLower === 'arts-humanities' || streamLower === 'arts/humanities') {
     mappedStream = 'arts';
@@ -42,8 +37,6 @@ const getDiplomas = async (req, res) => {
   }
 };
 
-// @desc    Get single diploma by ID
-// @route   GET /api/v1/diplomas/:id
 const getDiplomaById = async (req, res) => {
   try {
     const diploma = await Diploma.findById(req.params.id);

@@ -2,11 +2,8 @@ const errorHandler = (err, req, res, next) => {
   let error = { ...err };
   error.message = err.message;
 
-  // Mongoose bad ObjectId
   if (err.name === 'CastError') error = new Error('Resource not found');
-  // Mongoose duplicate key
   if (err.code === 11000) error = new Error('Duplicate field value entered');
-  // Mongoose validation error
   if (err.name === 'ValidationError') {
     const message = Object.values(err.errors).map(val => val.message);
     error = new Error(message.join(', '));

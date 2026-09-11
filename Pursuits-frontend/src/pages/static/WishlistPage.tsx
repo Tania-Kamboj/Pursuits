@@ -80,7 +80,7 @@ export const WishlistPage = () => {
           >
             You haven't made a final decision yet, and that's okay. This is your 
             personal space to keep track of your aligned interests that 
-            caught your eye. Compare them whenever you are ready.💜
+            caught your eye. Compare them whenever you are ready💙
           </p>
         </div>
 

@@ -3,6 +3,7 @@ import { Link, useParams, useNavigate } from "react-router";
 import { Navbar } from "@/shared/ui/Navbar";
 import { Footer } from "@/shared/ui/Footer";
 import { AnimatedDots } from "@/shared/ui/AnimatedDots";
+import { DashboardSidebar } from "@/features/dashboard/DashboardSidebar";
 
 import {
   ChevronRight,
@@ -12,7 +13,6 @@ import {
   Briefcase,
   TrendingUp,
 } from "lucide-react";
-import { DashboardSidebar } from "@/features/dashboard/DashboardSidebar";
 
 interface Category {
   _id: string;
@@ -23,7 +23,7 @@ interface Category {
   careers: string[];
 }
 
-const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000/api/v1"
+const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000/api/v1";
 
 export const DegreeCategoriesPage = () => {
   const { streamId } = useParams<{ streamId: string }>();
@@ -31,7 +31,6 @@ export const DegreeCategoriesPage = () => {
   const [categories, setCategories] = useState<Category[]>([]);
   const [loading, setLoading] = useState(true);
   const [streamName, setStreamName] = useState("PCM");
-  const [ , setWishlist] = useState<string[]>([]);
 
   useEffect(() => {
     if (streamId) {
@@ -43,7 +42,7 @@ export const DegreeCategoriesPage = () => {
         setLoading(true);
         const stream = streamId || "pcm";
         const response = await fetch(
-          `${API_URL}/degree-categories?stream=${stream}`,
+          `${API_URL}/degree-categories?stream=${stream}`
         );
         const data = await response.json();
 
@@ -57,43 +56,46 @@ export const DegreeCategoriesPage = () => {
       }
     };
 
-    const storedWishlist = localStorage.getItem("wishlist");
-    if (storedWishlist) {
-      setWishlist(JSON.parse(storedWishlist));
-    }
-
     fetchCategories();
   }, [streamId]);
 
-
   return (
-    <div className="min-h-screen flex flex-col bg-background">
+    <div className="min-h-screen flex flex-col bg-background relative">
       <AnimatedDots />
       <Navbar />
-      <div className="flex flex-1 w-full max-w-[1400px] mx-auto px-8 py-10 gap-10 pt-24">
-        <DashboardSidebar activeTab="graduation" streamName={streamName} />
+      
+      {/* Main Layout Container */}
+      <div className="flex flex-1 w-full max-w-[1400px] mx-auto px-4 lg:px-8 py-6 lg:py-10 gap-6 lg:gap-10 pt-20 lg:pt-24">
+        
+        {/* Desktop Sidebar */}
+        <aside className="hidden lg:block w-64 flex-shrink-0 sticky top-[90px] h-fit self-start">
+          <DashboardSidebar activeTab="graduation" streamName={streamName} />
+        </aside>
 
-        <main className="flex-1 min-w-0 pb-20">
-          <div className="flex items-center justify-between mb-8 sticky top-[90px] z-40 backdrop-blur-md py-4 px-6 -mx-6 ">
-            <div className="flex items-center gap-2 text-body-md text-on-surface-variant">
+        {/* Main Content */}
+        <main className="flex-1 min-w-0 pb-20 w-full">
+          
+          {/* Breadcrumbs */}
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between mb-6 lg:mb-8 sticky top-[72px] lg:top-[90px] z-40 backdrop-blur-md py-3 lg:py-4 -mx-4 lg:mx-0 px-4 lg:px-0 border-b lg:border-0 border-outline-variant/10">
+            <div className="flex items-center gap-1.5 lg:gap-2 text-xs lg:text-body-md text-on-surface-variant flex-wrap">
               <Link to="/" className="hover:text-[#3DC6E7] transition-colors">
                 Home
               </Link>
-              <ChevronRight size={16} className="text-outline-variant" />
+              <ChevronRight size={14} className="text-outline-variant" />
               <Link
                 to="/explore/after-12th"
                 className="hover:text-[#3DC6E7] transition-colors"
               >
                 After 12th
               </Link>
-              <ChevronRight size={16} className="text-outline-variant" />
+              <ChevronRight size={14} className="text-outline-variant" />
               <Link
                 to={`/explore/after-12th/dashboard/${streamId}`}
                 className="hover:text-[#3DC6E7] transition-colors"
               >
                 {streamName}
               </Link>
-              <ChevronRight size={16} className="text-outline-variant" />
+              <ChevronRight size={14} className="text-outline-variant" />
               <span className="text-[#3DC6E7] font-semibold">
                 Degree Categories
               </span>
@@ -103,27 +105,28 @@ export const DegreeCategoriesPage = () => {
               onClick={() =>
                 navigate(`/explore/after-12th/dashboard/${streamId}`)
               }
-              className="flex items-center gap-2 text-[#3DC6E7] hover:text-[#3DC6E7]-hover font-medium transition-colors whitespace-nowrap"
+              className="flex items-center gap-2 text-[#3DC6E7] hover:text-[#3DC6E7]/80 font-medium transition-colors whitespace-nowrap mt-3 sm:mt-0 text-sm lg:text-base"
             >
-              <ArrowLeft size={18} />
-              Back to {streamName} Options
+              <ArrowLeft size={16} />
+              <span className="hidden sm:inline">Back to {streamName} Options</span>
+              <span className="sm:hidden">Back</span>
             </button>
           </div>
 
           {/* Header Section */}
-          <div className="mb-12">
-            <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#3DC6E7]/10 text-[#3DC6E7] text-xs font-bold mb-4 tracking-wide">
+          <div className="mb-8 lg:mb-12">
+            <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-[#3DC6E7]/10 text-[#3DC6E7] text-xs font-bold mb-4 tracking-wide">
               <GraduationCap size={14} />
               {streamName} STREAM DEGREES
             </div>
             <h1
-              className="text-4xl md:text-5xl font-bold text-on-surface mb-4 tracking-tight"
+              className="text-3xl md:text-4xl lg:text-5xl font-bold text-on-surface mb-3 lg:mb-4 tracking-tight"
               style={{ fontFamily: "Plus Jakarta Sans, sans-serif" }}
             >
               Graduation Categories
             </h1>
             <p
-              className="text-lg text-on-surface-variant leading-relaxed max-w-3xl"
+              className="text-base lg:text-lg text-on-surface-variant leading-relaxed max-w-3xl"
               style={{ fontFamily: "Plus Jakarta Sans, sans-serif" }}
             >
               Explore comprehensive degree programs tailored for your{" "}
@@ -135,33 +138,32 @@ export const DegreeCategoriesPage = () => {
           {/* Loading State */}
           {loading ? (
             <div className="text-center py-12">
-              <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-[#3DC6E7] mx-auto mb-4"></div>
-              <p className="text-on-surface-variant">
+              <div className="animate-spin rounded-full h-10 w-10 lg:h-12 lg:w-12 border-b-2 border-[#3DC6E7] mx-auto mb-4"></div>
+              <p className="text-on-surface-variant text-sm lg:text-base">
                 Loading degree categories...
               </p>
             </div>
           ) : (
             /* Categories Grid */
-            <div className="grid grid-cols-1 gap-6">
+            <div className="grid grid-cols-1 gap-4 lg:gap-6">
               {categories.map((category) => (
                 <div
                   key={category._id}
-                  className="bg-surface-container-lowest rounded-2xl p-8 border border-outline-variant/20 hover:border-[#3DC6E7]/30 hover:shadow-card-hover transition-all duration-300"
+                  className="bg-surface-container-lowest rounded-2xl p-4 sm:p-6 lg:p-8 border border-outline-variant/20 hover:border-[#3DC6E7]/30 hover:shadow-card-hover transition-all duration-300"
                 >
-                  <div className="flex items-start justify-between mb-6">
+                  <div className="flex items-start justify-between mb-4 lg:mb-6">
                     <div>
                       <h3
-                        className="text-2xl font-bold text-on-surface mb-2"
+                        className="text-xl lg:text-2xl font-bold text-on-surface mb-2"
                         style={{ fontFamily: "Plus Jakarta Sans, sans-serif" }}
                       >
                         {category.name}
                       </h3>
-
                     </div>
                   </div>
 
                   {/* Content Grid */}
-                  <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                  <div className="grid grid-cols-1 md:grid-cols-3 gap-4 lg:gap-6">
                     {/* Interests */}
                     <div className="space-y-3">
                       <div className="flex items-center gap-2 text-sm font-semibold text-on-surface">
@@ -172,7 +174,7 @@ export const DegreeCategoriesPage = () => {
                         {category.interests.map((interest, idx) => (
                           <span
                             key={idx}
-                            className="px-3 py-1.5 rounded-lg text-sm"
+                            className="px-3 py-1.5 rounded-lg text-xs sm:text-sm"
                             style={{
                               backgroundColor: "#5DD4EF3A",
                               color: "#5DD4EF",
@@ -196,9 +198,9 @@ export const DegreeCategoriesPage = () => {
                         {category.focusAreas.map((area, idx) => (
                           <li
                             key={idx}
-                            className="flex items-start gap-2 text-sm text-on-surface-variant"
+                            className="flex items-start gap-2 text-xs sm:text-sm text-on-surface-variant"
                           >
-                            <div className="w-1.5 h-1.5 rounded-full bg-[#3DC6E7] mt-2 flex-shrink-0"></div>
+                            <div className="w-1.5 h-1.5 rounded-full bg-[#3DC6E7] mt-1.5 flex-shrink-0"></div>
                             <span>{area}</span>
                           </li>
                         ))}
@@ -215,9 +217,9 @@ export const DegreeCategoriesPage = () => {
                         {category.careers.map((career, idx) => (
                           <li
                             key={idx}
-                            className="flex items-start gap-2 text-sm text-on-surface-variant"
+                            className="flex items-start gap-2 text-xs sm:text-sm text-on-surface-variant"
                           >
-                            <div className="w-1.5 h-1.5 rounded-full bg-secondary mt-2 flex-shrink-0"></div>
+                            <div className="w-1.5 h-1.5 rounded-full bg-secondary mt-1.5 flex-shrink-0"></div>
                             <span>{career}</span>
                           </li>
                         ))}
@@ -229,7 +231,7 @@ export const DegreeCategoriesPage = () => {
                   <div className="mt-6 pt-6 border-t border-outline-variant/20">
                     <Link
                       to={`/explore/after-12th/${streamId}/degrees/category/${category._id}`}
-                      className="inline-flex items-center gap-2 text-[#3DC6E7] font-semibold text-[15px] hover:gap-3 transition-all"
+                      className="inline-flex items-center gap-2 text-[#3DC6E7] font-semibold text-sm lg:text-[15px] hover:gap-3 transition-all"
                     >
                       View Degree Programs
                       <ChevronRight size={18} />
@@ -247,14 +249,13 @@ export const DegreeCategoriesPage = () => {
                 className="mx-auto mb-4 text-outline-variant"
                 size={48}
               />
-              <p className="text-lg text-on-surface-variant">
+              <p className="text-base lg:text-lg text-on-surface-variant">
                 No degree categories available for this stream yet.
               </p>
             </div>
           )}
         </main>
       </div>
-      <Footer />
     </div>
   );
 };

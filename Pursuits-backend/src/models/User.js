@@ -22,15 +22,14 @@ const userSchema = new mongoose.Schema(
       type: String,
       required: [true, "Please add a password"],
       minlength: 6,
-      select: false, // Jab bhi user fetch ho, password by default return nahi hoga
+      select: false, 
     },
   },
   { timestamps: true },
 );
 
-// 🔒 Security: Save karne se pehle password ko hash karo
+// Security
 userSchema.pre("save", async function (next) {
-  // Agar password modify nahi hua hai (e.g., user ne sirf naam change kiya), toh skip karo
   if (!this.isModified("password")) {
     next();
   }
@@ -38,7 +37,7 @@ userSchema.pre("save", async function (next) {
   this.password = await bcrypt.hash(this.password, salt);
 });
 
-// 🔒 Security: Login ke time password match karne ka method
+// Security Login
 userSchema.methods.comparePassword = async function (candidatePassword) {
   return await bcrypt.compare(candidatePassword, this.password);
 };

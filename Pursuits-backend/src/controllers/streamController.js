@@ -2,24 +2,19 @@ const StreamDetails = require("../models/StreamDetails");
 const ApiError = require("../utils/apiError");
 const escapeRegex = require("../utils/escapeRegex");
 
-// GET /api/v1/streams  (+ filters)
 exports.getAllStreams = async (req, res, next) => {
   try {
     const conditions = [];
-
-    // Sirf STRING values accept karo -> NoSQL injection protection
-    // (koi ?name[$ne]=x bheje toh wo object hota hai, hum use ignore kar dete hain)
     const safe = (v) => (typeof v === "string" && v.trim() ? v.trim() : null);
 
-    // Case-insensitive partial match (chhota/bada letter, adha word - sab chalega)
     const rx = (v) => ({ $regex: escapeRegex(v), $options: "i" });
 
-    const name = safe(req.query.name); // ?name=pcm
-    const subject = safe(req.query.subject); // ?subject=mathematics
-    const career = safe(req.query.career); // ?career=engineer
-    const exam = safe(req.query.exam); // ?exam=neet
-    const topic = safe(req.query.topic); // ?topic=calculus
-    const search = safe(req.query.search); // ?search=kuch bhi (global search)
+    const name = safe(req.query.name); 
+    const subject = safe(req.query.subject); 
+    const career = safe(req.query.career); 
+    const exam = safe(req.query.exam); 
+    const topic = safe(req.query.topic); 
+    const search = safe(req.query.search); 
 
     if (name) conditions.push({ name: rx(name) });
     if (career) conditions.push({ careerOptions: rx(career) });
@@ -35,7 +30,6 @@ exports.getAllStreams = async (req, res, next) => {
       });
     }
 
-    // Global search: ek hi keyword ko har jagah dhundo
     if (search) {
       const s = rx(search);
       conditions.push({
@@ -88,7 +82,6 @@ exports.getAllStreams = async (req, res, next) => {
   }
 };
 
-// GET stream by ID
 exports.getStreamById = async (req, res, next) => {
   try {
     const stream = await StreamDetails.findById(req.params.id);
@@ -101,7 +94,6 @@ exports.getStreamById = async (req, res, next) => {
   }
 };
 
-// GET stream by Name (e.g., "PCM")
 exports.getStreamByName = async (req, res, next) => {
   try {
     const stream = await StreamDetails.findOne({ name: req.params.name });
@@ -112,7 +104,6 @@ exports.getStreamByName = async (req, res, next) => {
   }
 };
 
-// CREATE a new stream
 exports.createStream = async (req, res, next) => {
   try {
     const stream = await StreamDetails.create(req.body);

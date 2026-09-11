@@ -21,7 +21,7 @@ interface Exam {
   category: string;
 }
 
-const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000/api/v1"
+const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000/api/v1";
 
 export const ExamsPage = () => {
   const { streamId } = useParams<{ streamId: string }>();
@@ -55,17 +55,17 @@ export const ExamsPage = () => {
   return (
     <div className="min-h-screen flex flex-col bg-background">
       <AnimatedDots />
-      <Navbar />
 
       <div className="flex flex-1 w-full max-w-[1400px] mx-auto px-8 py-10 gap-10 pt-24">
         {/* Dashboard Sidebar */}
-        <DashboardSidebar activeTab="exams" streamName={streamName} />
-
+        <aside className="hidden lg:block w-64 flex-shrink-0 sticky top-[90px] h-fit self-start">
+          <DashboardSidebar activeTab="exams" streamName={streamName} />
+        </aside>
         {/* Main Content */}
-        <main className="flex-1 min-w-0 pb-20">
+        <main className="flex-1 min-w-0 pb-20 w-full">
           {/* Sticky Breadcrumb */}
-          <div className="flex items-center justify-between mb-8 sticky top-[90px] z-40 backdrop-blur-md py-4 px-6 -mx-6 ">
-            <div className="flex items-center gap-2 text-body-md text-on-surface-variant">
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between mb-6 lg:mb-8 sticky top-[72px] lg:top-[90px] z-40 backdrop-blur-md py-3 lg:py-4 -mx-4 lg:mx-0 px-4 lg:px-0 border-b lg:border-0 border-outline-variant/10">
+            <div className="flex items-center gap-1.5 lg:gap-2 text-xs lg:text-body-md text-on-surface-variant flex-wrap">
               <Link to="/" className="hover:text-[#3DC6E7] transition-colors">
                 Home
               </Link>

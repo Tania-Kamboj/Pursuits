@@ -21,7 +21,5 @@ router.post('/register', registerValidation, registerUser);
 router.post('/login', loginValidation, loginUser);
 router.get('/me', protect, getMe);
 
-// ❌ YE LINE COMMENT KAR DO (Temporary)
-// router.post('/social-login', socialLoginValidation, socialLoginUser);
 
 module.exports = router;

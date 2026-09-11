@@ -18,7 +18,7 @@ import {
 import { Navbar } from "@/shared/ui/Navbar";
 import { useWishlist } from "@/hooks/useWishlist";
 
-const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000/api/v1"
+const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000/api/v1";
 export const ProfilePage = () => {
   const [activeTab, setActiveTab] = useState<
     "overview" | "profile" | "feedback" | "security"
@@ -267,17 +267,17 @@ export const ProfilePage = () => {
 
           {/* TAB 2: PERSONAL INFO */}
           {activeTab === "profile" && (
-            <div className="bg-surface-container-lowest rounded-2xl border border-outline-variant/20 p-8">
-              <div className="flex items-center justify-between mb-8">
+            <div className="bg-surface-container-lowest rounded-2xl border border-outline-variant/20 p-4 md:p-8">
+              <div className="flex items-center justify-between mb-6 md:mb-8">
                 <h2
-                  className="text-2xl font-bold text-on-surface"
+                  className="text-xl md:text-2xl font-bold text-on-surface"
                   style={{ fontFamily: "Plus Jakarta Sans, sans-serif" }}
                 >
                   Personal Information
                 </h2>
                 <button
                   onClick={() => setIsEditing(!isEditing)}
-                  className="text-sm font-medium text-[#3DC6E7] hover:underline"
+                  className="text-sm font-medium text-[#3DC6E7] hover:underline whitespace-nowrap"
                 >
                   {isEditing ? "Cancel" : "Edit Profile"}
                 </button>
@@ -285,9 +285,10 @@ export const ProfilePage = () => {
 
               <form
                 onSubmit={handleProfileUpdate}
-                className="space-y-6 max-w-2xl"
+                className="space-y-5 md:space-y-6"
               >
-                <div className="grid md:grid-cols-2 gap-6">
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6">
+                  {/* Full Name */}
                   <div>
                     <label className="block text-sm font-medium text-on-surface-variant mb-2">
                       Full Name
@@ -302,6 +303,8 @@ export const ProfilePage = () => {
                       className="w-full px-4 py-3 rounded-xl border border-outline-variant/20 bg-background text-on-surface focus:outline-none focus:ring-2 focus:ring-primary/20 disabled:opacity-60"
                     />
                   </div>
+
+                  {/* Email Address */}
                   <div>
                     <label className="block text-sm font-medium text-on-surface-variant mb-2">
                       Email Address
@@ -318,11 +321,13 @@ export const ProfilePage = () => {
                       className="w-full px-4 py-3 rounded-xl border border-outline-variant/20 bg-background text-on-surface focus:outline-none focus:ring-2 focus:ring-primary/20 disabled:opacity-60"
                     />
                   </div>
-                  <div>
+
+                  {/* Phone Number */}
+                  <div className="md:col-span-2">
                     <label className="block text-sm font-medium text-on-surface-variant mb-2">
                       Phone Number
                     </label>
-                    <div className="flex gap-3">
+                    <div className="flex flex-col sm:flex-row gap-3">
                       {/* Country Code Dropdown */}
                       <select
                         value={user.countryCode || "+91"}
@@ -330,12 +335,12 @@ export const ProfilePage = () => {
                         onChange={(e) =>
                           setUser({ ...user, countryCode: e.target.value })
                         }
-                        className="w-28 px-2 py-3 rounded-xl border border-outline-variant/20 bg-background text-on-surface focus:outline-none focus:ring-2 focus:ring-primary/20 disabled:opacity-60"
+                        className="w-full sm:w-32 px-3 py-3 rounded-xl border border-outline-variant/20 bg-background text-on-surface focus:outline-none focus:ring-2 focus:ring-primary/20 disabled:opacity-60"
                       >
-                        <option value="+91">🇳 +91</option>
+                        <option value="+91">🇮🇳 +91</option>
                         <option value="+1">🇺🇸 +1</option>
-                        <option value="+44">🇬🇧 +44</option>
-                        <option value="+61">🇺 +61</option>
+                        <option value="+44">🇧 +44</option>
+                        <option value="+61">🇦 +61</option>
                         <option value="+971">🇦🇪 +971</option>
                       </select>
 
@@ -345,8 +350,8 @@ export const ProfilePage = () => {
                         value={user.phone || ""}
                         disabled={!isEditing}
                         required
-                        maxLength={10} 
-                        pattern="\d{10}" 
+                        maxLength={10}
+                        pattern="\d{10}"
                         onChange={(e) => {
                           const onlyNumbers = e.target.value.replace(/\D/g, "");
                           setUser({ ...user, phone: onlyNumbers });
@@ -363,7 +368,9 @@ export const ProfilePage = () => {
                       </p>
                     )}
                   </div>
-                  <div>
+
+                  {/* Current Stream */}
+                  <div className="md:col-span-2">
                     <label className="block text-sm font-medium text-on-surface-variant mb-2">
                       Current Stream
                     </label>
@@ -383,11 +390,12 @@ export const ProfilePage = () => {
                     </select>
                   </div>
                 </div>
+
                 {isEditing && (
                   <div className="pt-4 flex justify-end">
                     <button
                       type="submit"
-                      className="flex items-center gap-2 px-6 py-3 bg-[#26b3d6] text-white rounded-xl font-semibold hover:bg-[#3DC6E7]-hover transition-colors"
+                      className="flex items-center gap-2 px-6 py-3 bg-[#26b3d6] text-white rounded-xl font-semibold hover:bg-[#3DC6E7]-hover transition-colors w-full sm:w-auto justify-center"
                     >
                       <Save size={18} /> Save Changes
                     </button>
@@ -489,7 +497,7 @@ export const ProfilePage = () => {
                           setPasswordError(validatePassword(e.target.value))
                         }
                         className="w-full px-4 py-3 rounded-xl border border-outline-variant/20 bg-background text-on-surface focus:outline-none focus:ring-2 focus:ring-primary/20"
-                        placeholder="Min 8 chars, 1 uppercase, 1 number"
+                        placeholder="Write new password"
                       />
                       <button
                         type="button"

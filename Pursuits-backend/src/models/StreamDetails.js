@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const entranceExamSchema = new mongoose.Schema({
   name: { type: String, required: true },
   purpose: { type: String, required: true }
-}, { _id: false }); // Prevents auto-generating IDs for subdocuments
+}, { _id: false }); 
 
 const subjectTopicSchema = new mongoose.Schema({
   subject: { type: String, required: true },

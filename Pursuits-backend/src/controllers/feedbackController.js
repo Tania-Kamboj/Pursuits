@@ -3,18 +3,17 @@ const nodemailer = require('nodemailer');
 exports.sendFeedback = async (req, res) => {
   const { userEmail, userName, type, message } = req.body;
 
-  // Apna email setup karo (Gmail ke liye App Password use karna)
   const transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-      user: process.env.ADMIN_EMAIL, // .env me apni email daalo
-      pass: process.env.ADMIN_EMAIL_PASS // .env me app password daalo
+      user: process.env.ADMIN_EMAIL, 
+      pass: process.env.ADMIN_EMAIL_PASS 
     }
   });
 
   const mailOptions = {
     from: process.env.ADMIN_EMAIL,
-    to: process.env.ADMIN_EMAIL, // Admin ko hi bhejna hai
+    to: process.env.ADMIN_EMAIL, 
     subject: `New Pursuits Feedback: ${type}`,
     html: `
       <h2>New Feedback Received</h2>
@@ -29,7 +28,7 @@ exports.sendFeedback = async (req, res) => {
     await transporter.sendMail(mailOptions);
     res.status(200).json({ success: true, message: 'Feedback sent to admin' });
   } catch (error) {
-    console.error('❌ Nodemailer Error Details:', error.response); // Exact Gmail error yahan dikhega
+    console.error(' Nodemailer Error Details:', error.response); 
     console.error(error);
     res.status(500).json({ success: false, message: 'Failed to send email' });
   }

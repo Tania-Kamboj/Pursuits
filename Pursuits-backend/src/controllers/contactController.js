@@ -3,22 +3,21 @@ const nodemailer = require('nodemailer');
 exports.sendContactMessage = async (req, res) => {
   const { name, email, subject, message } = req.body;
 
-  console.log('📩 New Contact Message:', { name, email, subject });
+  console.log(' New Contact Message:', { name, email, subject });
 
-  // Wahi same Nodemailer setup jo feedback me use kiya tha
   const transporter = nodemailer.createTransport({
     host: 'smtp.gmail.com',
     port: 587,
     secure: false,
     auth: {
-      user: process.env.ADMIN_EMAIL,       // Tumhari .env wali email
-      pass: process.env.ADMIN_EMAIL_PASS   // Tumhara 16-digit App Password
+      user: process.env.ADMIN_EMAIL,       
+      pass: process.env.ADMIN_EMAIL_PASS   
     }
   });
 
   const mailOptions = {
     from: `"Pursuits Contact" <${process.env.ADMIN_EMAIL}>`,
-    to: process.env.ADMIN_EMAIL, // ✅ YE MESSAGE TUMHARI APNI EMAIL PAR JAYEGA
+    to: process.env.ADMIN_EMAIL, 
     subject: `New Contact: ${subject} from ${name}`,
     html: `
       <div style="font-family: Arial, sans-serif; padding: 20px; background: #f5f5f5;">
@@ -37,12 +36,12 @@ exports.sendContactMessage = async (req, res) => {
   };
 
   try {
-    console.log('📤 Sending contact email...');
+    console.log('Sending contact email...');
     await transporter.sendMail(mailOptions);
-    console.log('✅ Contact email sent successfully!');
+    console.log(' Contact email sent successfully!');
     res.status(200).json({ success: true, message: 'Message sent to admin' });
   } catch (error) {
-    console.error('❌ Contact Email Error:', error.message);
+    console.error(' Contact Email Error:', error.message);
     res.status(500).json({ success: false, message: 'Failed to send email' });
   }
 };
