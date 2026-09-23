@@ -17,7 +17,6 @@ app.post('/api/v1/diplomas', async (req, res) => {
   try {
     console.log(' Received:', req.body);
     const diploma = await Diploma.create(req.body);
-    console.log(' Saved:', diploma);
     res.status(201).json({ success: true, data: diploma });
   } catch (error) {
     console.error(' Error:', error);
