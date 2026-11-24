@@ -17,4 +17,6 @@ const degreeCategorySchema = new mongoose.Schema({
   }],
 }, { timestamps: true });
 
+degreeCategorySchema.index({ streams: 1 });
+
 module.exports = mongoose.model('DegreeCategory', degreeCategorySchema);

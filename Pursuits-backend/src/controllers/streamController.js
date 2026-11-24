@@ -70,7 +70,7 @@ exports.getAllStreams = async (req, res, next) => {
 
     const streams = projection
       ? await StreamDetails.find(query).select(projection)
-      : await StreamDetails.find(query);
+      : await StreamDetails.find(query).lean();
 
     res.status(200).json({
       success: true,
@@ -84,7 +84,7 @@ exports.getAllStreams = async (req, res, next) => {
 
 exports.getStreamById = async (req, res, next) => {
   try {
-    const stream = await StreamDetails.findById(req.params.id);
+    const stream = await StreamDetails.findById(req.params.id).lean();
     if (!stream) return next(new ApiError("Stream not found", 404));
     res.status(200).json({ success: true, data: stream });
   } catch (error) {
@@ -96,7 +96,7 @@ exports.getStreamById = async (req, res, next) => {
 
 exports.getStreamByName = async (req, res, next) => {
   try {
-    const stream = await StreamDetails.findOne({ name: req.params.name });
+    const stream = await StreamDetails.findOne({ name: req.params.name }).lean();
     if (!stream) return next(new ApiError("Stream not found", 404));
     res.status(200).json({ success: true, data: stream });
   } catch (error) {

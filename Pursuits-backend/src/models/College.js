@@ -12,12 +12,13 @@ const collegeSchema = new mongoose.Schema(
     averagePackage: String,     
     hostel: String,             
     attendance: String,         
-    // Optional
     nirfRank: String,
     established: String,
     website: String,
   },
   { timestamps: true }
 );
+
+collegeSchema.index({ type: 1 });
 
 module.exports = mongoose.model('College', collegeSchema);

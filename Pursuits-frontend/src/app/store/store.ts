@@ -1,6 +1,6 @@
 import { configureStore } from '@reduxjs/toolkit';
 
-const dummyReducer = (state = {}, action: any) => state;
+const dummyReducer = (state = {}) => state;
  
 export const store = configureStore({
   reducer: {

@@ -3,7 +3,6 @@ import { Link, useParams } from "react-router";
 import { ChevronRight, ArrowLeft, Trophy, Users } from "lucide-react";
 import { DashboardSidebar } from "@/features/dashboard/DashboardSidebar";
 import { useActiveStream } from "@/hooks/useActiveStream";
-import { Navbar } from "@/shared/ui/Navbar";
 import { WishlistButton } from "@/shared/ui/WishlistButton";
 import { useNavigate } from "react-router";
 import { AnimatedDots } from "@/shared/ui/AnimatedDots";

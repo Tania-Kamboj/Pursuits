@@ -11,12 +11,13 @@ exports.getAllDegrees = async (req, res, next) => {
     const conditions = [];
 
     const categoryParam = safe(req.query.category);
+    
     if (categoryParam) {
       const isId = /^[0-9a-fA-F]{24}$/.test(categoryParam);
       if (isId) {
         conditions.push({ category: categoryParam });
       } else {
-        const category = await DegreeCategory.findOne({ name: exact(categoryParam) });
+        const category = await DegreeCategory.findOne({ name: exact(categoryParam) }).lean();
         if (!category) return res.status(200).json({ success: true, count: 0, data: [] });
         conditions.push({ category: category._id });
       }
@@ -25,7 +26,7 @@ exports.getAllDegrees = async (req, res, next) => {
     let streamName = safe(req.query.stream);
     if (streamName) {
       streamName = normalizeStream(streamName);
-      const stream = await StreamDetails.findOne({ name: wordStart(streamName) });
+      const stream = await StreamDetails.findOne({ name: wordStart(streamName) }).lean();
       if (!stream) return res.status(200).json({ success: true, count: 0, data: [] });
       conditions.push({ streams: stream._id });
     }
@@ -51,8 +52,8 @@ exports.getAllDegrees = async (req, res, next) => {
     const projection = applyProjection(req, ALLOWED_FIELDS);
 
     const degrees = projection
-      ? await Degree.find(query).select(projection)
-      : await Degree.find(query);
+      ? await Degree.find(query).select(projection).lean()
+      : await Degree.find(query).lean();
 
     res.status(200).json({ success: true, count: degrees.length, data: degrees });
   } catch (error) {
@@ -64,7 +65,8 @@ exports.getDegreeById = async (req, res, next) => {
   try {
     const degree = await Degree.findById(req.params.id)
       .populate('category', 'name')
-      .populate('streams', 'name');
+      .populate('streams', 'name')
+      .lean();
     if (!degree) return next(new ApiError('Degree not found', 404));
     res.status(200).json({ success: true, data: degree });
   } catch (error) {

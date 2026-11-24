@@ -1,5 +1,5 @@
 import { Link } from 'react-router'
-import { Heart, BookOpen, Award, Trophy, ArrowRight, Trash2, Compass } from 'lucide-react'
+import { Heart, BookOpen, Award, Trophy, ArrowRight, Trash2, Compass, ArrowLeft } from 'lucide-react'
 import { Navbar } from '@/shared/ui/Navbar'
 import { useWishlist } from '@/hooks/useWishlist'
 
@@ -62,6 +62,13 @@ export const WishlistPage = () => {
       <Navbar />
 
       <main className="flex-1 w-full max-w-5xl mx-auto px-6 py-16 pt-28">
+        <Link
+          to="/profile"
+          className="inline-flex items-center gap-2 text-sm font-medium text-[#3DC6E7] hover:text-[#3DC6E7]/80 transition-colors mb-8"
+        >
+          <ArrowLeft size={18} />
+          Back to Profile
+        </Link>
         {/* 1. Hero Section */}
         <div className="text-center mb-20">
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-[#3DC6E7]/10 text-[#3DC6E7] text-sm font-semibold mb-6">
@@ -93,7 +100,7 @@ export const WishlistPage = () => {
               Start exploring and click the heart icon to save options here.
             </p>
             <Link
-              to="/explore/after-12th"
+              to="/explore"
               className="inline-flex items-center gap-2 px-6 py-3 bg-[#3DC6E7] text-white rounded-xl font-semibold hover:bg-[#3DC6E7]-hover transition-colors"
             >
               Start Exploring

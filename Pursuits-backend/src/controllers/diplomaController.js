@@ -20,7 +20,7 @@ const getDiplomas = async (req, res) => {
   }
     }
 
-    const diplomas = await Diploma.find(query).sort({ name: 1 });
+    const diplomas = await Diploma.find(query).sort({ name: 1 }).lean();
 
     res.status(200).json({
       success: true,
@@ -39,7 +39,7 @@ const getDiplomas = async (req, res) => {
 
 const getDiplomaById = async (req, res) => {
   try {
-    const diploma = await Diploma.findById(req.params.id);
+    const diploma = await Diploma.findById(req.params.id).lean();
 
     if (!diploma) {
       return res.status(404).json({ 

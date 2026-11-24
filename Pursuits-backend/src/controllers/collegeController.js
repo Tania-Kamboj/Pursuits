@@ -9,7 +9,8 @@ exports.getDegreeColleges = async (req, res) => {
     const degree = await Degree.findById(req.params.id)
       .select('name topGovernmentColleges topPrivateColleges')
       .populate({ path: 'topGovernmentColleges', select: 'name city state type' })
-      .populate({ path: 'topPrivateColleges', select: 'name city state type' });
+      .populate({ path: 'topPrivateColleges', select: 'name city state type' })
+      .lean();
 
     if (!degree) {
       return res.status(404).json({ success: false, message: 'Degree not found' });
@@ -35,7 +36,7 @@ exports.getDegreeColleges = async (req, res) => {
 
 exports.getCollegeById = async (req, res) => {
   try {
-    const college = await College.findById(req.params.id);
+    const college = await College.findById(req.params.id).lean();
 
     if (!college) {
       return res.status(404).json({ success: false, message: 'College not found' });

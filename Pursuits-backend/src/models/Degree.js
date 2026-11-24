@@ -10,6 +10,11 @@ const degreeSchema = new mongoose.Schema({
   category: { type: mongoose.Schema.Types.ObjectId, ref: 'DegreeCategory', required: true },
   streams: [{ type: mongoose.Schema.Types.ObjectId, ref: 'StreamDetails' }],
   topGovernmentColleges: [{ type: mongoose.Schema.Types.ObjectId, ref: 'College' }],
-topPrivateColleges:   [{ type: mongoose.Schema.Types.ObjectId, ref: 'College' }],}, { timestamps: true });
+topPrivateColleges:   [{ type: mongoose.Schema.Types.ObjectId, ref: 'College' }],
+}, { timestamps: true });
+
+degreeSchema.index({ category: 1 });
+degreeSchema.index({ streams: 1 });
+degreeSchema.index({ name: 1 });
 
 module.exports = mongoose.model('Degree', degreeSchema);

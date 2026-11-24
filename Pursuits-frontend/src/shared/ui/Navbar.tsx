@@ -6,6 +6,7 @@ import { auth } from "@/config/firebase";
 import { Button } from "./Button";
 import { motion, AnimatePresence } from "framer-motion";
 
+
 export const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
@@ -177,9 +178,14 @@ export const Navbar = () => {
 
         {/* Mobile Toggle */}
         {isMobile && (
-          <button onClick={() => setIsOpen(!isOpen)} className="text-[#3DC6E7]">
-            {isOpen ? <X size={24} /> : <Menu size={24} />}
-          </button>
+           <div className="flex items-center gap-3 flex-shrink-0">
+            <button 
+              onClick={() => setIsOpen(!isOpen)} 
+              className="p-1 text-[#3DC6E7]"
+            >
+              {isOpen ? <X size={24} /> : <Menu size={24} />}
+            </button>
+          </div>
         )}
       </div>
 

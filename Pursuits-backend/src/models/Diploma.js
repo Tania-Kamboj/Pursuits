@@ -10,8 +10,7 @@ const diplomaSchema = new mongoose.Schema({
     type: String,
     required: true,
     enum: ['pcm', 'pcb', 'pcmb', 'commerce', 'arts'], // Streams
-    lowercase: true,
-    index: true 
+    lowercase: true, 
   },
   interests: [String],
   duration: {
@@ -24,5 +23,8 @@ const diplomaSchema = new mongoose.Schema({
 }, {
   timestamps: true
 });
+
+diplomaSchema.index({ streams: 1 });
+diplomaSchema.index({ name: 1 });
 
 module.exports = mongoose.models.Diploma || mongoose.model('Diploma', diplomaSchema);

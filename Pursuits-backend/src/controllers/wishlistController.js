@@ -25,10 +25,10 @@ exports.toggleWishlistItem = async (req, res, next) => {
     if (!isValidType(type)) return next(new ApiError(`Invalid itemType: ${itemType}`, 400));
     if (!mongoose.isValidObjectId(itemId)) return next(new ApiError('Invalid itemId', 400));
 
-    const item = await TYPE_MODEL_MAP[type].findById(itemId);
+    const item = await TYPE_MODEL_MAP[type].findById(itemId).lean();
     if (!item) return next(new ApiError('Item not found', 404));
 
-    const existing = await Wishlist.findOne({ user: req.user._id, itemType: type, itemId });
+    const existing = await Wishlist.findOne({ user: req.user._id, itemType: type, itemId }).lean();
 
     if (existing) {
       await Wishlist.deleteOne({ _id: existing._id });
@@ -44,7 +44,7 @@ exports.toggleWishlistItem = async (req, res, next) => {
 
 exports.getMyWishlist = async (req, res, next) => {
   try {
-    const entries = await Wishlist.find({ user: req.user._id }).sort('-createdAt');
+    const entries = await Wishlist.find({ user: req.user._id }).sort('-createdAt').lean();
 
     const grouped = {};
     entries.forEach((e) => {
@@ -56,7 +56,7 @@ exports.getMyWishlist = async (req, res, next) => {
       const Model = TYPE_MODEL_MAP[type];
       if (!Model) continue; 
       const ids = list.map((e) => e.itemId);
-      const items = await Model.find({ _id: { $in: ids } });
+      const items = await Model.find({ _id: { $in: ids } }).lean();
       const itemMap = {};
       items.forEach((i) => (itemMap[i._id.toString()] = i));
 
@@ -93,7 +93,7 @@ exports.getWishlistStatus = async (req, res, next) => {
       user: req.user._id,
       itemType: type,
       itemId: { $in: idList },
-    }).select('itemId');
+    }).select('itemId').lean();
 
     res.json({ success: true, savedIds: saved.map((s) => s.itemId.toString()) });
   } catch (error) {
@@ -103,7 +103,7 @@ exports.getWishlistStatus = async (req, res, next) => {
 
 exports.removeWishlistItem = async (req, res, next) => {
   try {
-    const entry = await Wishlist.findOne({ _id: req.params.id, user: req.user._id });
+    const entry = await Wishlist.findOne({ _id: req.params.id, user: req.user._id }).lean();
     if (!entry) return next(new ApiError('Wishlist item not found', 404));
 
     await Wishlist.deleteOne({ _id: entry._id });

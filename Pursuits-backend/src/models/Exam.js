@@ -11,7 +11,6 @@ const examSchema = new mongoose.Schema({
     required: [true, 'Stream is required'],
     enum: ['pcm', 'pcb', 'pcmb', 'commerce', 'arts'],
     lowercase: true,
-    index: true
   },
   conductingBody: {
     type: String,
@@ -46,5 +45,8 @@ const examSchema = new mongoose.Schema({
 }, {
   timestamps: true
 });
+
+examSchema.index({ stream: 1 });
+examSchema.index({ name: 1 });
 
 module.exports = mongoose.model('Exam', examSchema);

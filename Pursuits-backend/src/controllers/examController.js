@@ -12,7 +12,7 @@ const getExams = async (req, res) => {
       query.stream = stream.toLowerCase();
     }
 
-    let exams = await Exam.find(query).sort({ name: 1 });
+    let exams = await Exam.find(query).sort({ name: 1 }).lean();
 
     if (stream && stream.toLowerCase() === 'pcmb') {
       const seenNames = new Set();
@@ -43,7 +43,7 @@ const getExams = async (req, res) => {
 
 const getExamById = async (req, res) => {
   try {
-    const exam = await Exam.findById(req.params.id);
+    const exam = await Exam.findById(req.params.id).lean();
 
     if (!exam) {
       return res.status(404).json({ 

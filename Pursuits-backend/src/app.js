@@ -2,16 +2,23 @@ const express = require('express');
 const cors = require('cors');
 const helmet = require('helmet');
 const rateLimit = require('express-rate-limit');
+
 const sanitizer = require('./middlewares/sanitizer');
-const streamRoutes = require('./routes/streamRoutes');
 const errorHandler = require('./middlewares/errorHandler');
+
 const ApiError = require('./utils/apiError');
+const apiCache = require('./utils/apiCache');
+
+const streamRoutes = require('./routes/streamRoutes');
 const degreeCategoryRoutes = require('./routes/degreeCategoryRoutes');
 const degreeRoutes = require('./routes/degreeRoutes');
 const authRoutes = require('./routes/authRoutes');
 const wishlistRoutes = require('./routes/wishlistRoutes');
 const collegeRoutes = require('./routes/collegeRoutes');
 const examRoutes = require('./routes/examRoutes');
+const diplomaRoutes = require('./routes/diplomaRoutes');
+const feedbackRoutes = require('./routes/feedbackRoutes')
+const contactRoutes = require('./routes/contactRoutes')
 
 const app = express();
 
@@ -49,17 +56,16 @@ app.use(express.urlencoded({ extended: true }));
 app.use(sanitizer());
 
 // 5. Routes
-app.use('/api/v1/auth', require('./routes/authRoutes'));
-app.use('/api/v1/wishlist', require('./routes/wishlistRoutes'));
-app.use('/api/v1/streams', require('./routes/streamRoutes'));
-app.use('/api/v1/degree-categories', require('./routes/degreeCategoryRoutes'));
-app.use('/api/v1/degrees', require('./routes/degreeRoutes'));
-app.use('/api/v1/colleges', collegeRoutes);
-app.use('/api/v1/diplomas', require('./routes/diplomaRoutes'));
-app.use('/api/v1/exams', examRoutes);
-app.use('/api/v1/feedback', require('./routes/feedbackRoutes'));
-app.use('/api/v1/contact', require('./routes/contactRoutes'));
-app.use('/api/v1/search', require('./routes/searchRoutes'));
+app.use('/api/v1/auth', authRoutes, apiCache());
+app.use('/api/v1/wishlist', wishlistRoutes, apiCache());
+app.use('/api/v1/streams', streamRoutes, apiCache());
+app.use('/api/v1/degree-categories', degreeCategoryRoutes, apiCache());
+app.use('/api/v1/degrees', degreeRoutes, apiCache());
+app.use('/api/v1/colleges', collegeRoutes, apiCache());
+app.use('/api/v1/diplomas', diplomaRoutes, apiCache());
+app.use('/api/v1/exams', examRoutes, apiCache());
+app.use('/api/v1/feedback', feedbackRoutes, apiCache());
+app.use('/api/v1/contact', contactRoutes, apiCache());
 
 // 6. Handle 404
 app.use((req, res, next) => {

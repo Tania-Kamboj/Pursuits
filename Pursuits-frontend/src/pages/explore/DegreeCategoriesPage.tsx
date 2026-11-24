@@ -1,7 +1,6 @@
 import { useState, useEffect } from "react";
 import { Link, useParams, useNavigate } from "react-router";
 import { Navbar } from "@/shared/ui/Navbar";
-import { Footer } from "@/shared/ui/Footer";
 import { AnimatedDots } from "@/shared/ui/AnimatedDots";
 import { DashboardSidebar } from "@/features/dashboard/DashboardSidebar";
 

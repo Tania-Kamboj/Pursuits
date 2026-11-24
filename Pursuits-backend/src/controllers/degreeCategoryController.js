@@ -12,7 +12,7 @@ let streamName = safe(req.query.stream);
     if (streamName) {
       streamName = normalizeStream(streamName); 
       
-      const stream = await StreamDetails.findOne({ name: wordStart(streamName) });
+      const stream = await StreamDetails.findOne({ name: wordStart(streamName) }).lean();
       if (!stream) {
         return res.status(200).json({ success: true, count: 0, data: [] });
       }
@@ -26,8 +26,8 @@ let streamName = safe(req.query.stream);
     const projection = applyProjection(req, ALLOWED_FIELDS);
 
     const categories = projection
-      ? await DegreeCategory.find(query).select(projection).populate('streams', 'name')
-      : await DegreeCategory.find(query).populate('streams', 'name');
+      ? await DegreeCategory.find(query).select(projection).populate('streams', 'name').lean()
+      : await DegreeCategory.find(query).populate('streams', 'name').lean();
 
     res.status(200).json({ 
       success: true, 
@@ -42,7 +42,8 @@ let streamName = safe(req.query.stream);
 exports.getCategoryById = async (req, res, next) => {
   try {
     const category = await DegreeCategory.findById(req.params.id)
-      .populate('stream', 'name description');
+      .populate('stream', 'name description')
+      .lean();
     
     if (!category) {
       return next(new ApiError('Category not found', 404));

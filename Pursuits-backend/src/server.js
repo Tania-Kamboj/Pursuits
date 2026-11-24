@@ -33,6 +33,10 @@ app.get('/api/v1/diplomas', async (req, res) => {
   }
 });
 
+app.get('/api/v1/health', (req, res) => {
+  res.status(200).json({ success: true, status: 'ok' });
+});
+
 const PORT = process.env.PORT || 5000;
 
 connectDB().then(() => {

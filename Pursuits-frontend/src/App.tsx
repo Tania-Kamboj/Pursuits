@@ -1,34 +1,52 @@
+import { lazy, Suspense } from 'react';
 import { Routes, Route } from 'react-router'
 import { Layout } from '@/features/layout/Layout'
-import { LandingPage } from '@/pages/home/LandingPage'
-import { LoginPage } from '@/pages/auth/LoginPage'
-import { RegisterPage } from '@/pages/auth/RegisterPage'
-import { After10thPage } from '@/pages/explore/After10thPage'
-import { ExplorePage } from '@/pages/explore/ExplorePage'
-import { After12thDashboard } from '@/pages/explore/After12thPage' // ✅ Import karo
-import { StreamDetailPage } from '@/pages/explore/StreamDetailPage'
-import { PathSelectionPage } from '@/pages/explore/PathSelectionPage'
-import { DiplomaPage } from '@/pages/explore/DiplomaPage'
-import { DiplomaDetailsPage } from '@/pages/explore/DiplomaDetailsPage'
-import { DegreeCategoriesPage } from '@/pages/explore/DegreeCategoriesPage'
-import { DegreeProgramsPage } from '@/pages/explore/DegreeProgramsPage'
-import { DegreeDetailsPage } from '@/pages/explore/DegreeDetailsPage'
-import { ExamDetailsPage } from './pages/explore/ExamDetailsPage'
-import { ExamsPage } from './pages/explore/ExamsPage'
-import { About } from './pages/static/About'
-import { WishlistPage } from '@/pages/static/WishlistPage'
-import { ProfilePage } from '@/pages/user/ProfilePage'
-import { ContactPage } from '@/pages/static/ContactPage' 
-import { ForgotPasswordPage } from '@/pages/auth/ForgotPasswordPage'
+
+// Auth Pages
+const LoginPage = lazy(() => import('@/pages/auth/LoginPage').then(m => ({ default: m.LoginPage })));
+const RegisterPage = lazy(() => import('@/pages/auth/RegisterPage').then(m => ({ default: m.RegisterPage })));
+const ForgotPasswordPage = lazy(() => import('@/pages/auth/ForgotPasswordPage').then(m => ({ default: m.ForgotPasswordPage })));
+
+// User Pages
+const ProfilePage = lazy(() => import('@/pages/user/ProfilePage').then(m => ({ default: m.ProfilePage })));
+
+// Static Pages
+const About = lazy(() => import('./pages/static/About').then(m => ({ default: m.About })));
+const ContactPage = lazy(() => import('@/pages/static/ContactPage').then(m => ({ default: m.ContactPage })));
+const WishlistPage = lazy(() => import('@/pages/static/WishlistPage').then(m => ({ default: m.WishlistPage })));
+
+// Home Page
+const LandingPage = lazy(() => import('@/pages/home/LandingPage').then(m => ({ default: m.LandingPage })));
+
+// Explore Pages
+const ExplorePage = lazy(() => import('@/pages/explore/ExplorePage').then(m => ({ default: m.ExplorePage })));
+const After10thPage = lazy(() => import('@/pages/explore/After10thPage').then(m => ({ default: m.After10thPage })));
+const After12thDashboard = lazy(() => import('@/pages/explore/After12thPage').then(m => ({ default: m.After12thDashboard })));
+const StreamDetailPage = lazy(() => import('@/pages/explore/StreamDetailPage').then(m => ({ default: m.StreamDetailPage })));
+const PathSelectionPage = lazy(() => import('@/pages/explore/PathSelectionPage').then(m => ({ default: m.PathSelectionPage })));
+const DiplomaPage = lazy(() => import('@/pages/explore/DiplomaPage').then(m => ({ default: m.DiplomaPage })));
+const DiplomaDetailsPage = lazy(() => import('@/pages/explore/DiplomaDetailsPage').then(m => ({ default: m.DiplomaDetailsPage })));
+const DegreeCategoriesPage = lazy(() => import('@/pages/explore/DegreeCategoriesPage').then(m => ({ default: m.DegreeCategoriesPage })));
+const DegreeProgramsPage = lazy(() => import('@/pages/explore/DegreeProgramsPage').then(m => ({ default: m.DegreeProgramsPage })));
+const DegreeDetailsPage = lazy(() => import('@/pages/explore/DegreeDetailsPage').then(m => ({ default: m.DegreeDetailsPage })));
+const ExamsPage = lazy(() => import('./pages/explore/ExamsPage').then(m => ({ default: m.ExamsPage })));
+const ExamDetailsPage = lazy(() => import('./pages/explore/ExamDetailsPage').then(m => ({ default: m.ExamDetailsPage })));
 
 function App() {
   return (
+    <Suspense fallback={
+      <div className="min-h-screen flex items-center justify-center">
+        <div className="animate-spin h-10 w-10 border-b-2 border-[#3DC6E7] rounded-full"></div>
+      </div>
+    }>
     <Routes>
       {/* Auth Routes */}
       <Route path="/login" element={<LoginPage />} />
       <Route path="/register" element={<RegisterPage />} />
       <Route path="/forgot-password" element={<ForgotPasswordPage />} />
 
+    
+      
       {/* User Routes */}
       <Route path="/profile" element={<Layout><ProfilePage /></Layout>} />
 
@@ -57,6 +75,7 @@ function App() {
       <Route path="/explore/after-12th/exams/:examId" element={<Layout><ExamDetailsPage /></Layout>} />
 
     </Routes>
+    </Suspense>
   )
 }
 
